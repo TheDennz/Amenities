@@ -1,0 +1,7974 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2721,0.5183 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Mainstage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9045,-1.2875 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Jacaranda Rd Donholm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.2672,-1.5214 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Machakos town",
+    "STREET_ADDRESS":"Kitui"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.1159,-3.2254 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Malindi town",
+    "STREET_ADDRESS":"Hospital Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.0761,-0.2848 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nakuru town",
+    "STREET_ADDRESS":"Main Stage Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.0761,-0.2847 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nakuru town",
+    "STREET_ADDRESS":"Main Stage Bus Station"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6728,-4.0554 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Bondeni Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6728,-4.0553 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Bondeni Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6729,-4.0546 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Digo Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6734,-4.0528 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Abdul Naser"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6735,-4.0530 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Abdel Nasser Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.3459,-1.3032 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Machakos town",
+    "STREET_ADDRESS":"Kangundo Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.0759,-0.2842 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nakuru town",
+    "STREET_ADDRESS":"Station Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.0760,-0.2841 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nakuru town",
+    "STREET_ADDRESS":"Station Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.5874,0.0237 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Luanda"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6284,-4.0277 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Changamwe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6280,-4.0274 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Changamwe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6279,-4.0272 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Changamwe Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6728,-4.0549 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Digo Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6730,-4.0547 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Digo Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6726,-4.0549 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Digo Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6730,-4.0547 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Abdulnasir"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6738,-4.0522 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Abdul Naser"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6735,-4.0527 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Abdel Nasser Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0726,-1.0366 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Workshop Rd"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.7413,-1.2873 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Naivasha Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1237,-0.4827 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Karatina Nyeri High Way"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1236,-0.4828 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Karatina Highway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6569,0.0463 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Gakoromone market"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.0748,-0.2861 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nakuru town",
+    "STREET_ADDRESS":"Mosque Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.0747,-0.2864 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nakuru town",
+    "STREET_ADDRESS":"Mosque Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.0747,-0.2863 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nakuru town",
+    "STREET_ADDRESS":"Mosque Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7613,-0.1012 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Fanana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.3203,-1.2673 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Machakos town",
+    "STREET_ADDRESS":"Tala Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7595,-0.1005 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.6649,-1.2454 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Kikuyu Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.7450,-3.9460 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Mombasa Malindi Highway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.7450,-3.9477 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Mombasa Malindi Highway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7595,-0.1007 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7596,-0.1007 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7595,-0.1007 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7596,-0.1007 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7596,-0.1008 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7596,-0.1007 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Bus Stand"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7597,-0.1010 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Bus Stand"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7598,-0.1009 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Bus Stand"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8845,-1.2526 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Kariobangi North"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8826,-1.2525 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Northern Areas",
+    "STREET_ADDRESS":"Kariobangi North"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1247,-0.4826 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Nyeri Karatina Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1247,-0.4827 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Karatina Nyeri Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1236,-0.4827 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Karatina Nyeri Highway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6554,0.0454 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Meru-Mikinduri rd"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6556,0.0457 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Meru-Mikinduri rd"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.7744,-1.3219 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Police Dog Unit Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.5664,-4.2827 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Ukunda"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.8519,-3.6327 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Malindi town",
+    "STREET_ADDRESS":"Kilifi Bus Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6557,0.0461 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Ghana street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.7535,-1.2868 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Kawangware Road 56"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.6432,-1.1087 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Limuru Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7210,0.0804 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Mbale"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7208,0.0806 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Mbale"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.5657,-4.2856 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Ukunda"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.5656,-4.2859 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Ukunda"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6557,0.0457 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Meru-Mikinduri rd"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6556,0.0456 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Ghana street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.7124,-1.2194 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Wangige Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.7124,-1.2187 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Wangige Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6649,-0.0673 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Nkubu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.2101,-0.6651 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Sagana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7514,0.2824 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Kakamega"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7514,0.2823 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Kakamega Mumias Rd"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7514,0.2819 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Kakamega"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6644,-0.0674 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Nkubu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.7795,-0.1077 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Mitunguu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.8110,-0.0489 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Bondo Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7563,0.2879 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Kakamega"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1601,-0.7226 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Mugoiri Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8724,-0.7839 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Kangari"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6682,-4.0568 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Mwembe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6686,-4.0561 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Mwembe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6685,-4.0558 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Mwembe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6570,0.0462 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Meru-mikinduri rd"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9087,-0.8248 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Githumu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6568,0.0461 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Meru-Mikinduri rd"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.6868,-1.2865 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Dagoretti Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.5628,-3.3933 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Voi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.5628,-3.3932 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Voi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.5625,-3.3935 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Voi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.5629,-3.3931 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Voi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.5630,-3.3930 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Voi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.5630,-3.3931 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Voi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.5630,-3.3931 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Voi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.2825,0.0596 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Siaya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.7164,-1.2609 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Waiyaki Way"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8038,-1.2616 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Westlands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.9404,0.2344 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Maua"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8707,-1.2512 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Mathare North"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.9403,0.2325 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Maua"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.0363,-1.4979 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Garsen town",
+    "STREET_ADDRESS":"Laza Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.7996,-1.2624 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Westlands-Waiyaki Way"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.9391,0.2370 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Maua"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.7416,-1.2850 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Kawangware Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.9392,0.2366 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Maua twn"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.5688,-2.9885 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Machakos town",
+    "STREET_ADDRESS":"Kibauni Border"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7628,-0.0986 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"United Mall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.9377,0.3377 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Laare mkt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6270,-4.0268 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Magongo Mainland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8873,-1.2443 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Baba Dogo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6565,0.0460 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Main Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6566,0.0459 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Main Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6568,0.0460 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Main Stage Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6569,0.0461 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Main Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.8869,0.2755 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Kangeta mkt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.7915,0.2138 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Muririi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7516,-0.1034 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Bank Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7513,-0.1026 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Bank Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8208,-1.2847 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Kenyatta Avenue"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8206,-1.2854 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Kenyatta Avenue"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.5804,0.3461 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Isiolo town",
+    "STREET_ADDRESS":"Isiolo Main Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6566,0.0462 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Meru stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6566,0.0462 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Main Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.7890,-1.8417 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Kajiado"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8256,-1.2861 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Luthuli Avenue"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8239,-1.2864 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Luthuli Avenue"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.7906,-1.2797 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Kileleshwa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.5830,0.3506 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Isiolo town",
+    "STREET_ADDRESS":"Cbd"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8308,-1.2854 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Temple Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8347,-1.2873 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Jogoo Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.1014,0.4646 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Busia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.1033,0.4635 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Busia-Acacia Bus Stand"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.5803,0.3462 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Isiolo town",
+    "STREET_ADDRESS":"Isiolo Main Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8284,-1.2885 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Mfangano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8286,-1.2890 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Tom Mboya Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.5803,0.3461 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Isiolo town",
+    "STREET_ADDRESS":"Main Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8286,-1.2885 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Tom Mboya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8287,-1.2886 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Tom Mboya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.5824,0.3505 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Isiolo town",
+    "STREET_ADDRESS":"Isiolo-Marsabit road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8273,-1.2820 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Duruma Rd"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8244,-1.2821 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Lagos Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8243,-1.2821 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Lagos Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.7455,-3.9474 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Mtwapa Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8255,-1.2828 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Tsavo Rd"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8256,-1.2824 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Tsavo Rd"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8278,-1.2820 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Accra Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8354,-1.2857 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Jogoo Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8356,-1.2857 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Machakos Country Bus"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8351,-1.2857 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Machakos Bus Station"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6468,-0.3349 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Chuka"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.0589,1.7497 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Waajir town",
+    "STREET_ADDRESS":"IsioloMandera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8278,-1.2814 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Voi Rd"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.1047,0.4634 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Busia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8282,-1.2831 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"River Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8280,-1.2831 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"River Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8289,-1.2826 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"River Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8292,-1.2837 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"River Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8296,-1.2840 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Price Rd"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8305,-1.2846 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"River Rd"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8306,-1.2848 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"River Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8191,-1.2807 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Monrovia Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.2738,0.6340 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Malaba Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8192,-1.2807 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Monrovi Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.3551,-0.6787 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Ngurubani"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8288,-1.2829 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Nduruma Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8261,-1.2816 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Duruma Rd"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5766,-0.6046 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Engineer"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6318,-0.2292 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Chogoria Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.0572,1.7457 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Waajir town",
+    "STREET_ADDRESS":"Nairobi Highway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.2689,-1.5210 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Machakos town",
+    "STREET_ADDRESS":"Ngei Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.2690,-1.5217 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Machakos town",
+    "STREET_ADDRESS":"Ngei Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.2688,-1.5221 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Machakos town",
+    "STREET_ADDRESS":"Ngei Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6465,-0.3352 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Chuka"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6466,-0.3347 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Chuka"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8281,-1.2909 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Station Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8287,-1.2890 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Off Haile Selassie Avenue"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8293,-1.2895 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Off Haile Selassie Avenue"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8307,-1.2834 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Mwimbi Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8306,-1.2834 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Mwimbi Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8307,-1.2836 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Cross Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8308,-1.2836 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Cross Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8298,-1.2838 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"River Lane"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8284,-1.2832 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"River Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8285,-1.2831 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Kumasi Rd"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8286,-1.2834 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"River Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8277,-1.2830 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"River Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8281,-1.2831 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"River Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8283,-1.2831 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"River Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8282,-1.2829 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"River Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8282,-1.2829 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"River Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8274,-1.2826 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"River Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8275,-1.2827 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"River Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8270,-1.2824 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"River Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8241,-1.2817 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Fire Station Lane"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8241,-1.2817 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Fire Station Lane"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8243,-1.2817 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Fire Station Lane"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8241,-1.2815 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Fire Station Lane"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8241,-1.2816 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Fire Station Lane"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8235,-1.2912 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Haille Sellasie Avenue"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8241,-1.2814 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"River Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8251,-1.2814 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"River Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8261,-1.2813 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Latema Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8226,-1.2915 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Haille Sellasie Avenue"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8303,-1.2832 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Cross Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6678,-4.0549 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Jomo Kenyatta Avenue"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8307,-1.2847 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"River Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8279,-1.2814 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Cross Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8285,-1.2822 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Cross Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8291,-1.2826 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Cross Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8294,-1.2827 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Cross Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8300,-1.2831 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Cross Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8269,-1.2837 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Accra Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8268,-1.2834 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Accra Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8269,-1.2834 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Accra Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8269,-1.2833 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Accra Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8270,-1.2830 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Accra Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8270,-1.2831 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Accra Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8274,-1.2824 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Accra Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8273,-1.2824 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"River Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8274,-1.2824 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Accra Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8275,-1.2823 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Accra Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8274,-1.2823 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Accra Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8274,-1.2823 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Accra Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8274,-1.2822 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Accra Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8280,-1.2817 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Accra Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8054,-1.2975 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Ngong Road Kenyatta Hospital"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8227,-1.2814 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Koja Round-about"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4331,-0.7154 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nakuru town",
+    "STREET_ADDRESS":"Main Stage Naivasha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.5614,0.5604 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Bungoma"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8134,-1.2918 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Ngong Road Upperhill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8284,-1.2856 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Ronald Ngala"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8278,-1.2842 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Munyu Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8266,-1.2837 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Accra Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8267,-1.2836 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Accra Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8357,-1.2862 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Jogoo Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8355,-1.2862 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Jogoo Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8298,-1.2835 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Nduruma Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8264,-1.2833 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Tsavo Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8264,-1.2833 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Tsavo Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8257,-1.2827 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Tsavo Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8255,-1.2828 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Tsavo Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8255,-1.2827 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Tsavo Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8255,-1.2824 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Latema Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8258,-1.2822 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Dubois Lane"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8267,-1.2827 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Dubois Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6458,-0.3354 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Chuka"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8998,-1.3227 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Embakasi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6769,-0.1838 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Igoji"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6408,-0.2474 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Katharaka stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6580,-0.2746 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Marima stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.5706,-0.4244 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Runyenjes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7406,-0.6619 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisii town",
+    "STREET_ADDRESS":"kisii suneka"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.5705,-0.4244 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Runyenjes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.5703,-0.4241 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Runyenjes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7577,0.6087 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Webuye"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.7400,-1.2947 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Kinyanjui Road/ Ngotho Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.7799,-1.3015 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Adams Arcade"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.8637,3.7085 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Turkana town",
+    "STREET_ADDRESS":"Kakuma"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8003,-1.2629 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Waiyaki Way"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.7880,-0.4535 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Ishiara-Mbeere"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.7883,-0.4538 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Ishiara-mbeere"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.7884,-0.4540 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Ishiara-Mbeere"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6315,-0.2293 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Chogoria"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.7635,-1.3952 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Rongai"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.7534,-1.3969 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Rongai"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8283,-1.2870 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Mfangano Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6459,-0.3354 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Chuka"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.5616,0.5627 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Bungoma"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.4541,-0.5377 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Embu Main Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.4542,-0.5376 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Embu town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.4540,-0.5374 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Embu Main Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.4541,-0.5392 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Embu  town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.4546,-0.5395 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Embu Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.7841,-1.2998 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Motherland,Ngong Rd"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.7501,-1.3965 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Rongai"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6464,-0.3356 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Chuka Town Opp Gulf Petrol Station"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6463,-0.3356 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Chuka Opp Gulf Petrol Station"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8922,-1.2482 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Northern Areas",
+    "STREET_ADDRESS":"Komongo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8286,-1.2880 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Mfangano Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8286,-1.2882 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Mfangano Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8280,-1.2875 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Mfangano Lane"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.4549,-0.5384 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Embu Kubukubu Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8279,-1.2874 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Mfangano Lane"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.4546,-0.5382 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Embu Kubukubu Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.4514,-0.5376 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Embu Along Nairobi Highway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.9794,0.0972 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Port Victoria"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9296,-1.2336 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Kasarani Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8284,-1.2884 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Mfangano Lane"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8285,-1.2886 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Mfangano Lane"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8280,-1.2876 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Mfangano Lane"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.5705,-0.4256 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Runyenjes-Embu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.4521,-0.5345 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Embu Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.6878,-1.4304 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Kiserian"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.6863,-1.4309 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Kiserian"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.6859,-1.4295 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Kiserian"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.6865,-1.4284 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Kiserian"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.5620,0.5626 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Bungoma"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.5619,0.5629 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Bungoma"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.5621,0.5640 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Bungoma"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.5619,0.5652 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Bungoma"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6480,-0.3342 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Chuka Town Next To Kplc Offices"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8227,-1.2810 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Jainsala Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.5620,0.5650 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Bungoma"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.2096,-0.6641 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Sagana Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.2546,-0.6268 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Kagio Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.5618,0.5648 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Bungoma"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.2545,-0.6269 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Kagio Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6484,-0.6882 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Kiritiri-Mbeere"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.3256,-0.5666 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Kutus"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.3254,-0.5666 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Kutus Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.3256,-0.5665 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Kutus"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.2784,-0.5037 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Kerugoya Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.2784,-0.5037 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Keroguya Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.2785,-0.5041 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Kirugoya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.2785,-0.5039 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Kerugoya Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.2788,-0.5041 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Kerugoya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.2788,-0.5039 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Kerugoya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.2784,-0.5040 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Kerugoya Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.6565,-1.3605 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Ngong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6485,-0.6879 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Kiritiri-Mbeere"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6485,-0.6879 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Kiritiri-Mbeere"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.4542,-0.5397 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Embu-Kirinyaga Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.4541,-0.5396 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Embu Bus Park Three"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.4543,-0.5398 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Embu Town-Kirinyaga Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0763,-1.0368 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Thika Town Services Sacco"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0740,-1.0368 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Thika Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0737,-1.0365 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Thika Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0738,-1.0366 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Thika Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0765,-1.0355 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Thika Bus Terminus"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1605,-0.7207 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Murang'a Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0996,-1.0747 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Kiganjo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0774,-1.0355 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Market Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0773,-1.0354 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Market Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0773,-1.0354 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Kisii Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0772,-1.0353 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Market Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0770,-1.0354 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Market Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.7588,-1.1744 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Banana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6556,0.0458 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Meru Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6558,0.0458 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Mosque Street opp Uchumi Supermarket"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6527,0.0474 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Meru Town Tom Mboya Street Opp Cfc Bank"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1604,-0.7204 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Murang'a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1614,-0.7230 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Down Town Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5665,-0.8785 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Nairobi-Nakuru Highway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0765,-1.0355 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Thoko Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1603,-0.7204 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Murang'a Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7516,0.2819 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Kakamega"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1602,-0.7227 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Murang'a Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.4546,-0.5398 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Embu Town-Bus Park Three"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1566,-0.7203 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Uhuru Highway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0967,-1.0734 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Market Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0769,-1.0353 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Market Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0766,-1.0355 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Market Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1494,-0.7322 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Mukuyu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9690,-1.2778 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Utawala Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1618,-0.7241 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Mutech Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1600,-0.7214 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Murang'a Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.4546,-0.5396 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Embu Bus Park Three"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.4545,-0.5396 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Embu Bus Park Three"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6395,-0.5772 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Siakago-Mbeere"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9592,-1.1472 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Ruiru"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9593,-1.1471 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Ruiru"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0766,-1.0371 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Stadium Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0767,-1.0354 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Market Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0766,-1.0354 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Market Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0764,-1.0350 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Market Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0765,-1.0349 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Market Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.6686,-1.2328 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Waiyaki Way"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9594,-1.1476 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Ruiru"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9593,-1.1477 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Ruiru"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9592,-1.1476 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Ruiru"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9594,-1.1479 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Ruiru"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9591,-1.1472 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Ruiru"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0085,-0.7486 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Kahuro Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9593,-1.1476 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Ruiru"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9592,-1.1474 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Ruiru"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9594,-1.1472 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Ruiru"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9582,-1.1647 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Northern By Pass"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0758,-1.0339 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Market Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9283,-0.7332 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Kahatia Travellers"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9296,-0.7336 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Kahatia Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8270,-1.2835 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Accra Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8265,-1.2827 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Tsavo Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8262,-1.2831 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Tsavo Rd"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8268,-1.2838 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Accra Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0765,-1.0350 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Main Bus Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0769,-1.0348 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Main Bus Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0773,-1.0351 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Bus Terminus"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0772,-1.0355 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Bus Terminus"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7200,0.7828 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Kimilili"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9514,-0.4212 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Upper Bus Stop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1235,-0.4822 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Karatina Bus Stand"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1231,-0.4823 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Karatina Bus Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1230,-0.4823 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Karatina Bus Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1228,-0.4824 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Karatina Bus Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1229,-0.4826 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Karatina Bus Stand"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1231,-0.4825 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Karatina Bus Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1231,-0.4826 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Karatina Bus Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9765,-0.7985 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Kigumo Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1367,-0.8432 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Kaharati Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8317,-1.2831 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Race Cource"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9283,-0.7944 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Mariira"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8722,-0.7840 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Karega Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.5595,0.5684 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Bungoma"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8269,-1.2849 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Mfangano Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1030,-1.0681 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Pilot Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0762,-1.0354 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Market Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0763,-1.0351 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Market Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0763,-1.0349 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Market Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0766,-1.0350 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Mileage Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8298,-1.2836 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Price Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9285,-0.7945 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Gakira Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9289,-0.7946 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Gakira Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8313,-1.2840 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Race Course Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8231,-0.7796 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Gatiani Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1041,-1.0528 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Peak Feeds Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0769,-1.0352 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Market Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0768,-1.0351 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Market Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0770,-1.0352 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Market Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0771,-1.0349 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Market Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0766,-1.0355 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Market Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8736,-0.7841 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Frera Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8721,-0.7839 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Kangari"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8720,-0.7840 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Maire Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8717,-0.7840 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Kangare"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8241,-1.2813 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"River Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1382,-0.8428 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Kaharati Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9521,-0.4221 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Nanyuki Bus Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9551,-0.4248 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Down Town Bus stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1235,-0.4824 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Karatina Bus Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1244,-0.4828 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Karatina Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9305,-1.2340 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Mwiki"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1000,-1.0749 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Muchatha Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1298,-0.7961 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Maragua Bus Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1297,-0.7964 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Maragua Bus Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6641,-0.0682 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Nkubu-Meru"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1243,-0.4815 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Karatina Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1241,-0.4815 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Karatina Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1245,-0.4828 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Sagana Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1234,-0.4826 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Karatina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0765,-1.0369 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"2TS Sacco"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0771,-1.0351 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Thika Bus Stop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0830,-0.3858 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Kiamariga Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0963,-1.0732 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Muthaiga Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1006,-1.0743 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Kimathi Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0766,-1.0345 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Kisii Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1228,-0.9368 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Kenol Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1605,-0.7203 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Murang'a Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1606,-0.7209 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Muranga"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1606,-0.7208 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Gichinga Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1605,-0.7207 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Gichohi Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9548,-0.4246 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Nyeri Downtown Bus Terminals"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9548,-0.4249 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Down Town Bus Terminals"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9550,-0.4250 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Down town Bus Terminals"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9552,-0.4250 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Down Town Bus Terminals"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9550,-0.4248 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Lower Bus Terminals"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0987,-1.0764 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Kimunyu Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0966,-1.0732 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Munyu Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1062,-1.0605 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"B.A.T"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0764,-1.0372 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Stadium Lane"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0735,-1.0365 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Uhuru Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0734,-1.0365 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Commercial Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0767,-1.0350 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Muhara Services"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.3547,-0.6827 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Wang'uru Bus Stop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8318,-1.2844 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Gwasi Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.3551,-0.6826 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Ngurubani Bus Terminals"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.3550,-0.6826 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Ngurubani Bus Terminals"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.3550,-0.6827 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Wanguru Bus Terminals"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.3548,-0.6797 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Makutano Embu Highway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0147,-1.1058 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Josvir Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8286,-1.2881 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Mfangano Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6624,-0.0634 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Nkubu-Kariigi Plaza"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8280,-1.2880 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Tom Mboya Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8272,-1.2825 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"River Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8271,-1.2831 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Dubios Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8270,-1.2829 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Accra Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8279,-1.2883 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Tom Mboya Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1268,-0.4818 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Railway Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1232,-0.4824 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Karatina Bus Terminals"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1231,-0.4824 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Karatina Bus Terminals"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9521,-0.4221 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Nanyuki Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.7780,0.0844 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Kagaene-Meru"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9520,-0.4220 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Nanyuki Bus Terminals"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9520,-0.4222 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Nanyuki Bus Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9519,-0.4222 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Nanyuki Bus Terminals"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9518,-0.4222 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Nanyuki Bus Terminals"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9515,-0.4213 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Nyahururu Bus Terminals"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9514,-0.4213 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Nyahururu Bus Terminals"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9512,-0.4211 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Nyahururu Bus Terminals"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9514,-0.4211 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Nyahururu Bus Terminals"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9513,-0.4212 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Nyahururu Bus Terminals"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6602,0.0453 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Meru-Marikiti Market"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.3550,-0.6826 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Wanguru"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.3546,-0.6825 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Wanguru"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8275,-1.2827 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"River Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8288,-1.2881 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Mfangano Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.5460,-1.1442 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Matuu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.5460,-1.1443 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Matuu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.5459,-1.1443 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Matuu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1232,-0.4823 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Karatina Bus Terminals"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1233,-0.4823 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Karatina Bus Terminals"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7201,0.7836 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Kimilili"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1230,-0.4825 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Karatina Bus Stand"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9548,-0.4249 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Down Town Bus Terminals"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9550,-0.4251 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Down Town Bus terminals"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9550,-0.4246 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Down Town Bus Terminals"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9550,-0.4245 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Down town bus Stand"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8305,-1.2854 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Temple Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8303,-1.2854 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Temple Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8304,-1.2854 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Temple Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8304,-1.2854 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Temple Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8302,-1.2854 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Temple Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.5983,3.1191 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Lodwa town",
+    "STREET_ADDRESS":"Nakwamekwi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0770,-1.0353 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Market Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2510,2.8829 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Turkana town",
+    "STREET_ADDRESS":"Lorugum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6119,-0.3623 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Magumoni town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.7498,4.5057 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Turkana town",
+    "STREET_ADDRESS":"Sasame"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8304,-1.2855 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Temple Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8304,-1.2844 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"River Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.5617,0.5635 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Bungoma"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.4010,2.9198 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Turkana town",
+    "STREET_ADDRESS":"Turkwel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0782,0.0139 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Nanyuki Meru Highway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0228,-0.1716 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Naromoru Nyeri Highway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0002,-0.3603 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Chaka Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9488,-0.4197 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Oginga Odinga Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9042,-0.3282 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Muiga Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.7514,4.2697 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Turkana town",
+    "STREET_ADDRESS":"Lokitaung"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.2419,0.0858 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Timau Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8293,-1.2841 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Sheikh Karume Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6464,-0.3356 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Chuka Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8286,-1.2882 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Mfangano Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8352,-1.2857 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Machakos Country Bus"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8355,-1.2858 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Machakos Bus Station"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8356,-1.2861 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Country Bus station"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8355,-1.2860 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Machakos town",
+    "STREET_ADDRESS":"Machakos Bus Stations"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8349,-1.2860 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Machakos Country"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8349,-1.2861 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Country Bus Station"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9521,-0.4223 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Nanyuki Bus Terminals"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9545,-0.4243 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Lower Bus Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9550,-0.4245 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Lower Bus Terminals"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9551,-0.4244 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Lower Bus Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9552,-0.4249 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Gakere Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9554,-0.4251 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Lower Bus Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8336,-1.2857 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Gikoba Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8339,-1.2855 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Gikomba Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8346,-1.2857 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Machakos Bus Station"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.6771,3.2256 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Turkana town",
+    "STREET_ADDRESS":"Kalotum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8348,-1.2857 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Machakos Country Bus"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.8255,3.7295 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Turkana town",
+    "STREET_ADDRESS":"Nasechebuin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.8621,3.5358 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Turkana town",
+    "STREET_ADDRESS":"Kalokol"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6516,0.0476 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Meru Town Opp Co-op Bank Branch"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.2357,-0.4761 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Kagumo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.5457,-1.1443 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Matuu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0726,-1.0439 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Gatitu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6689,-4.0568 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Kobil Mwembe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8286,-1.2880 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Mfangano Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6684,-4.0562 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Jomokenyatta Avenue"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6682,-4.0557 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Jomo Kenyatta Avenue"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8721,-0.7839 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Kangari"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8295,-1.2876 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Bus Station, Off Hakati Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6675,-4.0543 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Jomo Kenyatta Avenue"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8257,-1.2821 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Latema Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6571,0.0458 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Meru Town Shopping Bazaar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6676,-4.0549 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Jomo Kenyatta Avenue"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0810,-1.0384 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Kenyatta Highway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6685,-4.0560 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Jomo Kenyatta Avenue"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6682,-4.0558 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Jomo Kenyatta Avenue"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6682,-4.0555 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Jomo Kenyatta Avenue"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6674,-4.0540 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Jomo Kenyatta Avenue"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6677,-4.0547 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Jomo Kenyatta Avenue"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.1216,-3.2207 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Malindi town",
+    "STREET_ADDRESS":"Tuva Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6678,-4.0548 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Jomo Kenyatta Avenue"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6733,-4.0563 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Makadara Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8512,-1.2757 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Eastleigh"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8515,-1.2766 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Eastleigh"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8514,-1.2769 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Eastleigh"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8515,-1.2790 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Eastligh"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8514,-1.2790 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Eastligh"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8513,-1.2789 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Twelfth Street Eastleigh"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8512,-1.2790 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Eastligh"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8504,-1.2795 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"First Avenue"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9068,-1.2434 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Dandora"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8519,-1.2795 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Twelfth Street eastleigh"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1261,-0.4831 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Nyeri Karatina Highway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8311,-1.2846 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Race Course Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6640,-4.0494 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Kenyatta Avenue"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6685,-4.0560 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Kenyatta Avenue"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.7996,-1.3105 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Mtongwe Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.7668,-1.2197 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Gachie"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.3258,-0.5666 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Kutus"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.3269,-0.5659 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Kutus"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.6429,-1.0388 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Githirioni"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7738,-0.6732 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisii town",
+    "STREET_ADDRESS":"Uchumi-Makutano Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7733,-0.6728 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisii town",
+    "STREET_ADDRESS":"Main Stage-Tuskyz Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7728,-0.6728 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisii town",
+    "STREET_ADDRESS":"Transline Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.3258,-0.5663 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Kianyaga"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.6300,-0.9824 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Kimende"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7738,-0.6731 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisii town",
+    "STREET_ADDRESS":"Transline Road Kisii County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.0621,-0.2870 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nakuru town",
+    "STREET_ADDRESS":"Eldoret Kisumu Highway Nakuru Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0646,-1.0357 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Nyeri"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0646,-1.0357 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Nyeri, Upper Bus Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9521,-0.4213 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Upper Bus Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.0666,-0.2852 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nakuru town",
+    "STREET_ADDRESS":"Kenyatta Avenue"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9552,-0.4241 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Lower Downtown Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9552,-0.4242 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Down Town Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7734,-0.6732 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisii town",
+    "STREET_ADDRESS":"Main Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7702,-0.6731 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Kisii town",
+    "STREET_ADDRESS":"Kisii-Kisumu Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.3527,-0.4964 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Kianyaga"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.5833,0.3512 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Isiolo town",
+    "STREET_ADDRESS":"Moti Plaza"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.5829,0.3539 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Isiolo town",
+    "STREET_ADDRESS":"Isiolo Along Moyale Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.7256,-1.1362 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Nazareth"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9522,-0.4215 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Upper Town Stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.4512,-0.5359 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Embu Town Near Stadium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8307,-1.2855 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Parama Hotel,Temple Rd"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1602,-0.7204 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Murang'a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9504,-0.4228 ]
+    },
+    "properties": {
+    "TYPE":"BUS STANDS",
+    "SERVICE_PROVIDER":"Bus Stands",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Down Town Stage"
+    }
+  }
+]
+}
