@@ -1,0 +1,4737 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.5386,0.0960 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Yala"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.1181,-3.2131 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Malindi town",
+    "STREET_ADDRESS":"Kenyatta Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8515,-1.2773 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Eleventh street Eastleigh"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7542,-0.1047 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Jomo kenyatta street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8366,-1.3116 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Muchimbi Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7748,-0.0851 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Kodele Market"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6621,-4.0612 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Moi Avenue"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.4886,0.3362 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Mumias"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6492,0.0489 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Meru-Makutano rd"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.3467,-1.3028 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Machakos town",
+    "STREET_ADDRESS":"Kangundo Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0753,-1.0370 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Uhuru Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9487,-0.4210 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Kimathi Way"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.7626,-1.3957 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Ongata rongai"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1126,-1.0563 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Madaraka Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.2515,-1.3758 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Machakos town",
+    "STREET_ADDRESS":"Mitaboni"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0148,-1.1042 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Jkuat Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2702,0.5198 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Uganda Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.1428,-3.0828 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Malindi town",
+    "STREET_ADDRESS":"Mjanaheri"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2464,0.5360 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Huruma Estate"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.5663,-1.4111 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Machakos town",
+    "STREET_ADDRESS":"Wamunyu Kitui Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.5734,0.3193 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Shianda"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.0119,-3.3056 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Malindi town",
+    "STREET_ADDRESS":"Gede Watamu Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.4539,-1.3525 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Machakos town",
+    "STREET_ADDRESS":"Mwala Kyawango"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.7072,-1.3232 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Langata Road Posta Karen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.0135,-3.3519 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Malindi town",
+    "STREET_ADDRESS":"Watamu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2552,0.4801 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Langas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.5005,0.3590 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Mumias Sugar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.8349,0.1239 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Mikinduri rd"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8253,-1.1674 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Kiambu Biashara Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7035,-0.0361 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Dago"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.7873,-1.3273 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Kinari Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.7460,0.1615 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Kianjai"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.9786,-1.1871 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Machakos town",
+    "STREET_ADDRESS":"Tulia Kitui Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.8537,-3.6325 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Malindi town",
+    "STREET_ADDRESS":"Kilifi Hospital Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.4610,-1.5542 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Machakos town",
+    "STREET_ADDRESS":"Tawa Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.8200,-2.2807 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Machakos town",
+    "STREET_ADDRESS":"Makindu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.9157,-1.2349 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Machakos town",
+    "STREET_ADDRESS":"Kabati Muthale Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.6433,-1.1171 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Limuru Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.6672,-1.1696 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Ngecha Shopping Centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.5967,-0.0978 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Holo Market"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.5658,-4.2874 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Ukunda"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2925,0.2888 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Moi University"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9602,-1.1480 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Ruiru"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.4308,0.2181 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Burnt Forest"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.4473,-1.1863 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Kithimani"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1399,-0.8778 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Sabasaba"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.4477,-1.6607 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Machakos town",
+    "STREET_ADDRESS":"Tawa Kikima Kyambazi Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.5219,-3.5440 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Malindi town",
+    "STREET_ADDRESS":"Bamba"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.2059,-0.6698 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Sagana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.7588,-1.1731 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Banana Hill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.9617,-3.0305 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Malindi town",
+    "STREET_ADDRESS":"Marafa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.5367,-1.9495 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Machakos town",
+    "STREET_ADDRESS":"Matiliku Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.3618,-1.7924 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Machakos town",
+    "STREET_ADDRESS":"Nunguni"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6636,-0.0650 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"NKUBU Twn"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.1377,-3.0375 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Malindi town",
+    "STREET_ADDRESS":"Gongoni"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.5758,-1.5230 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Machakos town",
+    "STREET_ADDRESS":"miu Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.4172,-4.3653 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Shimba Hills"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.9050,-0.8704 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisii town",
+    "STREET_ADDRESS":"Gesusu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0009,-0.8952 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Kandara"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.1557,0.6733 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Soy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8241,-1.3052 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Langata Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.6273,0.0390 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Emuhaya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6955,-0.8531 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Kivaa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0222,-0.1708 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Naromoru Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.4744,-2.0798 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Machakos town",
+    "STREET_ADDRESS":"Mombasa Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6719,-4.0612 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Digo road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.1228,0.8256 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Matunda"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.7814,-0.1071 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Mitunguu market"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.0559,-0.0667 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Usenge"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0025,-0.3820 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Kiganjo Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.9029,-2.2693 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Malindi town",
+    "STREET_ADDRESS":"Lamu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.0491,0.6337 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Turbo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7397,-0.0010 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Gambogi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.0378,-1.4973 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Garsen town",
+    "STREET_ADDRESS":"Laza Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6739,-0.1260 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Kanyakine mrkt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.6014,-0.7562 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisii town",
+    "STREET_ADDRESS":"Rongo Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.1689,-1.6943 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Garisa town",
+    "STREET_ADDRESS":"Garissa- Masalani Route"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.7925,-1.2998 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Ngong Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.5193,0.0916 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Kibirichia mrkt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.6960,-2.3877 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Malindi town",
+    "STREET_ADDRESS":"Mpeketoni"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7481,0.0515 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Gisambai"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.8220,-0.8598 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisii town",
+    "STREET_ADDRESS":"Nyamache"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.5633,-3.3931 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Voi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6409,0.0583 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Meru-Isiolo rd"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.4399,-2.3883 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Malindi town",
+    "STREET_ADDRESS":"Witu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9630,-0.4368 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Ruringu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.3393,-0.9961 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Kaguku"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.3092,0.5791 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Chepkoilel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.0116,-0.3898 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisii town",
+    "STREET_ADDRESS":"Sondu Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.1087,-2.2701 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Garsen town",
+    "STREET_ADDRESS":"Garsen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.3775,-3.5054 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Mwatate"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8025,-1.2617 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Sarit Centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.3724,0.0442 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"N'giya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8038,-1.2656 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Westlands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.5076,0.6701 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Iten"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.3135,-3.4014 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Mghange Nyika"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.0790,-0.7128 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Kamuwongo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.3149,-3.4985 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Bura Ngambwa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.3819,-0.0719 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Ndori Market"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.9405,0.2333 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Maua twn"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.1103,-0.6918 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisii town",
+    "STREET_ADDRESS":"Sotik"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.5095,-2.9276 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Machakos town",
+    "STREET_ADDRESS":"Oloitoktok Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.1631,-0.2863 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Kaitui,Nairobi Highway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.0726,-0.1604 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Awasi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.0991,0.2011 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Kapsabet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.8545,0.0768 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Serem"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8656,-1.0932 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Kwa-Maiko,Kiambu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.5946,-0.1653 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nakuru town",
+    "STREET_ADDRESS":"Londiani-Kericho Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2000,-0.1551 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Muhoroni"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1304,-0.7936 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Maragua Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.9377,0.3369 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Laare"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.6325,-1.0544 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Nyambari Shopping Centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6428,-0.4542 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Garisa town",
+    "STREET_ADDRESS":"Miraa Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.6883,-1.4298 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Kiserian"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.7425,-1.3651 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Ushirika Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.3234,-0.2842 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Madiany"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.5850,0.3542 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Isiolo town",
+    "STREET_ADDRESS":"Isiolo cbd"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6808,-4.0399 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Nyali Road Kengeleni"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.7642,-1.3432 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Langata Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.7453,-3.9507 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Mtwapa Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5388,0.2620 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Rumuruti Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.6600,-0.7243 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Njabini"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8296,-1.2848 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Ronald Ngala Str"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.7892,-2.5447 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Nairobi,Arusha,Namanga Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.7333,-3.9917 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Mombasa-Malindi Highway Bamburi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.7697,-1.3802 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Magadi Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.2040,0.3034 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Bumala"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.1962,-0.6284 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisii town",
+    "STREET_ADDRESS":"Kapkatet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.0303,-2.5240 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Machakos town",
+    "STREET_ADDRESS":"Machinery"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.0759,-2.5953 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Machakos town",
+    "STREET_ADDRESS":"Kambu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.0583,1.7469 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Waajir town",
+    "STREET_ADDRESS":"Army"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.1827,0.1048 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Nandi Hills"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9757,-1.4481 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Athi River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5983,-0.9479 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Kijabe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.1903,-0.5816 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisii town",
+    "STREET_ADDRESS":"Litein"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.0805,0.2532 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Baraton"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.8791,-2.0572 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Machakos town",
+    "STREET_ADDRESS":"Kitise Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.1177,0.2801 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Funyula"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6467,-0.3362 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Chuka"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.3197,0.4136 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Kinamba Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.7447,0.4924 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Kabarnet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.3237,0.9777 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Samburu",
+    "STREET_ADDRESS":"Wamba Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4319,-0.7167 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nakuru town",
+    "STREET_ADDRESS":"Naivasha-Nairobi Highway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8237,-1.2827 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Tom Mboya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.3553,4.2083 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Turkana town",
+    "STREET_ADDRESS":"Lokichoggio"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8190,-1.2861 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Posta Rd"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8188,-1.2845 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Posta Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.7941,0.6282 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Kabartonjo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.5426,0.0667 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Timboroa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.7458,-1.2402 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Lower Kabete Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.1720,0.7333 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Waajir town",
+    "STREET_ADDRESS":"Moyale-Wajir"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.6974,1.0965 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Samburu",
+    "STREET_ADDRESS":"Maralal Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6273,-0.2307 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Chogoria twn"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.0216,0.2229 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Sio Port"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.3432,-0.2050 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Fort-Ternan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.3012,0.2141 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Lessos"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.2590,-1.8524 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Machakos town",
+    "STREET_ADDRESS":"Salama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2665,-0.1808 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Koru"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.0991,-0.5051 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisii town",
+    "STREET_ADDRESS":"Roret"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.0922,1.2565 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Makutano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.2515,0.4483 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Nambale"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.3698,-0.5737 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Ogongo Region- Mbita Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8202,-1.2501 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Muthaiga Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9350,-0.6389 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Mathioya Area,Gikoe Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.3387,-0.8304 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nakuru town",
+    "STREET_ADDRESS":"Lake Road Naivasha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9133,-1.2700 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Kayole"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.3078,0.0569 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Garisa town",
+    "STREET_ADDRESS":"Miraa Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.5700,-0.4216 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Runyenjes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8398,-1.2615 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Muthaiga"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.6922,0.8282 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Samburu",
+    "STREET_ADDRESS":"Hospital Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.2072,-0.4215 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Mbita Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.7891,-0.4522 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Ishiara-mbeere"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.5528,-1.7695 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Machakos town",
+    "STREET_ADDRESS":"Kilala"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6760,-0.1835 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Igoji-Meru"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.7808,-1.3009 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Adams"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.7506,-1.2644 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Waiyaki Way"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8254,-1.2907 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Workshop Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9256,-1.3303 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"International Arrivals,Airport"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6598,-0.2759 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Marima stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8377,-1.3052 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Garage Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2851,-0.3699 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisii town",
+    "STREET_ADDRESS":"Kericho Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.5818,0.7361 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Chwele"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.0676,-0.4721 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Mfangano Island"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.5371,-1.8191 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Machakos town",
+    "STREET_ADDRESS":"Nziu Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.5796,-4.3029 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Palm Road Beach Line"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.4926,-0.3985 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Miharati Kipipiri"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.9258,0.8943 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Kiminini"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5142,-0.3371 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Kipipiri Area,Wanjohi Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7742,0.6037 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Webuye"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.9784,0.0966 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Port Victoria"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8242,-1.2819 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Timboroa Rd"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.7882,1.7821 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Samburu",
+    "STREET_ADDRESS":"Baragoi Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.4558,-0.5392 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Kubukubu-Embu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.9915,0.8425 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Ndalu Kiminini"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.8737,-1.0896 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nakuru town",
+    "STREET_ADDRESS":"Nairobi Road Narok"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.3793,-0.2006 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Ririi Olkalao"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.9366,-0.3111 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Pap Onditi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.4506,-0.5329 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Embu Town Along Nairobi Highway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.0358,0.7876 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Brigadier,Kitale"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7706,-0.1076 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Mega City"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.6632,-1.2445 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Off C63 Kikuyu Town Opposite Law Courts"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.6637,-1.0037 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nakuru town",
+    "STREET_ADDRESS":"Ololung'a Narok"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.1706,-0.3638 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisii town",
+    "STREET_ADDRESS":"Sosiot"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.3645,-0.0728 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Ol Jororok Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5029,-0.1922 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Ndaragwa Area,Shamata Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.3924,-0.8613 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nakuru town",
+    "STREET_ADDRESS":"Suneka Kamirithu Highway Longisa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.5455,0.3669 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Chepkorio"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.2539,-0.6280 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Kagio Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.4784,-0.4318 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Manyatta-Embu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6724,-1.5335 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Machakos town",
+    "STREET_ADDRESS":"Ikalaasa Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8992,-1.3220 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Embakasi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.1899,0.1928 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Ukwala"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.9266,0.1721 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Sirwa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.3257,-0.5663 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Kutus"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.2785,-0.5027 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Kerugoya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.8477,0.1274 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Chetulu,Shamakhokho"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.9875,2.3287 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Marsabit",
+    "STREET_ADDRESS":"POSTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.4211,-0.9381 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nakuru town",
+    "STREET_ADDRESS":"Mulot Narok Bomet Highway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6486,-0.6875 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Kiritiri-Mbeere"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.5577,0.2362 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Lunza"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.6881,-0.5862 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nakuru town",
+    "STREET_ADDRESS":"Olenguruone-Molo Road- Olenguruone"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6598,-4.0841 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Ushindi Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5779,-0.6027 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Engineer"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.2319,0.0007 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nakuru town",
+    "STREET_ADDRESS":"Nakuru Nyahururu Road Subukia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8752,-1.2365 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Ruaraka"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.1455,-0.1534 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nakuru town",
+    "STREET_ADDRESS":"off Nakuru Nyahururu Road Bahati"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.9757,0.0581 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Kobujoi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.3770,-2.0182 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Machakos town",
+    "STREET_ADDRESS":"Sultan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1587,-0.7208 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Murang'a Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.8461,-0.7350 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisii town",
+    "STREET_ADDRESS":"Keumbu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8567,-1.3080 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Likoni Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.2738,0.0289 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nakuru town",
+    "STREET_ADDRESS":"Nakuru Nyahururu Road Laikipia Campus"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.0713,0.0743 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Kaptumo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0070,-0.7496 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Kahuro Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6420,-0.5780 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Siakago-Mbeere"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9973,-1.2720 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Ruai"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7191,0.7815 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Kimilili"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.6306,-0.9845 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"kimende"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.6568,1.2020 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Tot"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.6919,-0.4264 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nakuru town",
+    "STREET_ADDRESS":"Keringet-Molo Road- Keringet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.5624,0.9783 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Kapsowar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.7878,-1.2923 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Yaya,Argwings Kodhek Rd"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.5019,0.8506 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Malindi town",
+    "STREET_ADDRESS":"Chebiemit"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.1075,0.4608 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Busia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.2442,-0.1765 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nakuru town",
+    "STREET_ADDRESS":"Dundori Ol Joro rok Road,Mirangine"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8045,-1.2299 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Limuru Road,Village Market"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9620,-0.8026 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Kigumo Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0427,-0.7122 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Kiharu Area,Kahuhia Centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.8261,-0.1500 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Rabuor"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.7676,-0.0138 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Gaitu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.8495,-0.2063 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Nyangande"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.9783,-0.1569 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Meru town",
+    "STREET_ADDRESS":"Marimant-Tharakai"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.6148,0.2204 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Bukura"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8779,-0.6300 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Gacarage-ini Town,Mathioya Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.9458,-0.7761 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisii town",
+    "STREET_ADDRESS":"Keroka"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.7139,-1.2197 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Wangige"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.4731,0.3759 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Flax"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.6552,-1.3617 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Ngong Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.8622,-0.1747 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nakuru town",
+    "STREET_ADDRESS":"Nakuru- Rongai Road- Rongai"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.5224,0.5930 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Tambach"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.9625,-0.1671 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nakuru town",
+    "STREET_ADDRESS":"Jordan Road Kabarak Eldama Ravine Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.2491,-1.4548 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Mandera town",
+    "STREET_ADDRESS":"Mutituni"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8273,-1.2765 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Ngara Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.2749,-0.0981 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Bondo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2045,1.3071 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Chepareria"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1588,-0.7185 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Kiria-ini Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.3848,0.8170 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Moiben"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.4631,0.8054 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Chwele Lwakhakha Road,Cheptais"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.3201,1.0387 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Posta Kapcherop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.2908,-0.0399 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Boiman Centre,Silibwet,Nyandarua County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.9294,2.8112 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Mandera town",
+    "STREET_ADDRESS":"Elwak Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.1128,-2.0549 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Malindi town",
+    "STREET_ADDRESS":"Patte Island, Faza"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6045,-0.9739 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Masinga"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.3631,-3.4052 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Mwanyumba Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9712,-0.6862 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Kangema Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.7513,4.2697 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Turkana town",
+    "STREET_ADDRESS":"Lokitaung"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.3573,1.4379 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Ortum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2164,0.8360 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Ziwa Machine"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.4435,0.2195 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Musanda Market"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.8474,-2.2320 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Malindi town",
+    "STREET_ADDRESS":"Mokowe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.0258,0.6190 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nakuru town",
+    "STREET_ADDRESS":"Marigat Lake Baringo Road- Lake Baringo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.8641,3.5370 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Turkana town",
+    "STREET_ADDRESS":"Kalokol"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1239,-0.4833 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Nyeri Karatina Highway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.5471,-1.1484 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Matuu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9062,-1.2459 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Dandora"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.2979,0.1795 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Ugunja Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.0112,1.4806 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Kacheliba"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9496,-0.4208 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Kimathi Way"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8573,-1.2655 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Mathare"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.0847,0.3989 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Kabiyet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1252,-0.9382 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Kenol"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7507,-0.0982 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Makasembo Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8678,-0.7853 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Thika town",
+    "STREET_ADDRESS":"Kangari"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.9661,-0.2038 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nakuru town",
+    "STREET_ADDRESS":"Mangu Menengai Road Nakuru"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0769,0.0125 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Nanyuki Town,Kenyatta Drive"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.5248,-0.1087 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Kombewa Market"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.3857,-0.1483 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Nyilima Market"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.8012,0.3111 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nakuru town",
+    "STREET_ADDRESS":"Saos -Tenges Road- Tenges"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.7265,0.0479 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nakuru town",
+    "STREET_ADDRESS":"Eldoret Ravine Road- Eldama Ravine"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.5996,-0.0091 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Maseno town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.5642,-0.8599 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Magumu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.3226,-0.4993 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nakuru town",
+    "STREET_ADDRESS":"Barracks Road-Gilgil"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.8089,-3.8191 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Malindi town",
+    "STREET_ADDRESS":"Vipingo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.3663,-0.7690 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Karaba"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.6412,-1.0386 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nairobi towns",
+    "STREET_ADDRESS":"Uplands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.4206,0.6818 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Bungoma Malakisi Road,Malakisi Bungoma"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7188,0.7826 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Kimilili Bungoma Road,Kimilili Bungoma"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7146,0.8413 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Kimilili Kapsokwony Mt Elgon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.5602,0.5673 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Bungoma Malaba Road,Bungoma"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.5818,0.7362 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Bungoma Chwele Road,Chwele Bungoma"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.8897,0.7572 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Webuye Naitiri Road,Naitiri Bungoma"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.7303,-0.2459 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nakuru town",
+    "STREET_ADDRESS":"Molo- Mau Summit Road-Molo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7723,-0.6768 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisii town",
+    "STREET_ADDRESS":"Kisii Kisumu Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7707,0.6061 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Bungoma Webuye Road,Webuye Bungoma"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7567,0.7179 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Webuye Misikhu Road,Misikhu Bungoma"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.5054,0.7556 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Bungoma Sirisia Road,Sirisia Bungoma"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.3658,0.0389 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Nyeri town",
+    "STREET_ADDRESS":"Nyahururu Town,Next to Nyandarua County Offices"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.3319,0.6277 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Webuye Malaba Highway,Amagoro Teso"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.2718,0.6354 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Webuye Malaba Highway ,Malaba Teso"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.2858,0.0602 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Siaya town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.4548,0.0760 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Sawagongo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.4271,-0.0598 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Akala Market"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.3802,0.1548 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Sidindi Market"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.4492,0.1158 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Mutumbu market"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.5238,0.1663 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Eldoret town",
+    "STREET_ADDRESS":"Ainabkoi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7531,-0.1040 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Oginga Odinga Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.4445,-4.4916 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Shimoni Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.6674,0.3935 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Nambacha Post office"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.4819,-4.4792 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Msambweni"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7532,0.2802 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Kakamega town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7574,0.2782 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Kakamega town-Milimani area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.5948,0.1717 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Khwisero Post Office"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.5000,0.2171 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Butere town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.4551,-4.1772 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Kwale Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.5934,-4.1792 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Matuga Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.5901,0.0215 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Luanda Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7722,0.2069 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Khayega"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.8154,0.2280 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Shinyalu Market"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7326,0.1172 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Chavakali town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.9176,-0.1745 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Ahero Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.9715,-0.2696 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Katito Market"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.7493,-3.5579 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Mombasa town",
+    "STREET_ADDRESS":"Maungu Area"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.1267,-0.0901 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Chemelil Post Office"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7243,0.0491 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Vihiga town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7218,0.0813 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Mbale Post Office"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.4358,-1.4595 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Machakos town",
+    "STREET_ADDRESS":"Masii Town, Machakos"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.5174,-1.4986 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Machakos town",
+    "STREET_ADDRESS":"Muthetheni Town, Machakos"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.9650,-0.6012 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisii town",
+    "STREET_ADDRESS":"Kebirigo Centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.9321,-0.5591 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisii town",
+    "STREET_ADDRESS":"Nyamira town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6282,-1.7826 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Machakos town",
+    "STREET_ADDRESS":"Wote,Makueni District"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.5118,0.4358 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisumu town",
+    "STREET_ADDRESS":"Harambee market"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.7328,-1.9149 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Machakos town",
+    "STREET_ADDRESS":"Kathonzweni District"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.0243,-0.5305 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisii town",
+    "STREET_ADDRESS":"Ikonge Centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.6488,-0.3704 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisii town",
+    "STREET_ADDRESS":"Kendu-bay Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.1653,-2.6931 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Machakos town",
+    "STREET_ADDRESS":"Mtito Andei, Kibwezi District"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.4572,-0.5298 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisii town",
+    "STREET_ADDRESS":"Homa-Bay Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7323,-0.8875 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisii town",
+    "STREET_ADDRESS":"Kenyenya Centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7250,-0.7956 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisii town",
+    "STREET_ADDRESS":"Ogembo Centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7337,-0.5138 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisii town",
+    "STREET_ADDRESS":"Oyugis Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.9663,-2.4136 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Machakos town",
+    "STREET_ADDRESS":"Kibwezi District"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.8790,-1.0096 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisii town",
+    "STREET_ADDRESS":"Kilgoris Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.5306,-0.9073 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisii town",
+    "STREET_ADDRESS":"Awendo Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.2666,-1.5183 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Machakos town",
+    "STREET_ADDRESS":"Machakos Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.4736,-1.0630 ]
+    },
+    "properties": {
+    "TYPE":"POST OFFICE",
+    "SERVICE_PROVIDER":"Post Office",
+    "REGION":"Kisii town",
+    "STREET_ADDRESS":"Migori Street"
+    }
+  }
+]
+}
