@@ -1,0 +1,1737 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-08-15T14:07:23Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/123458414",
+        "addr:city": "Nairobi",
+        "addr:street": "Harambee Avenue",
+        "amenity": "townhall",
+        "building": "yes",
+        "name": "County Hall Building"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.8207145,
+              -1.29102
+            ],
+            [
+              36.8207626,
+              -1.291111
+            ],
+            [
+              36.8209459,
+              -1.2910143
+            ],
+            [
+              36.8209596,
+              -1.29104
+            ],
+            [
+              36.8211368,
+              -1.2909465
+            ],
+            [
+              36.8211271,
+              -1.2909283
+            ],
+            [
+              36.8211505,
+              -1.2909159
+            ],
+            [
+              36.8211762,
+              -1.2909646
+            ],
+            [
+              36.8212476,
+              -1.2909269
+            ],
+            [
+              36.8211698,
+              -1.2907796
+            ],
+            [
+              36.8207145,
+              -1.29102
+            ]
+          ]
+        ]
+      },
+      "id": "way/123458414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/184167243",
+        "amenity": "townhall",
+        "name": "nakuru town hall"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.0638937,
+              -0.3062412
+            ],
+            [
+              36.0639803,
+              -0.3062107
+            ],
+            [
+              36.0638619,
+              -0.3058745
+            ],
+            [
+              36.0637753,
+              -0.305905
+            ],
+            [
+              36.0638937,
+              -0.3062412
+            ]
+          ]
+        ]
+      },
+      "id": "way/184167243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/241193505",
+        "addr:city": "Nairobi",
+        "addr:housename": "City Hall",
+        "addr:street": "City Hall Way",
+        "amenity": "townhall",
+        "building": "yes",
+        "name": "Nairobi City Hall"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.8214923,
+              -1.2871245
+            ],
+            [
+              36.8217011,
+              -1.2870202
+            ],
+            [
+              36.8217153,
+              -1.2870487
+            ],
+            [
+              36.8217396,
+              -1.2870366
+            ],
+            [
+              36.8217481,
+              -1.2870536
+            ],
+            [
+              36.8218493,
+              -1.287003
+            ],
+            [
+              36.8218399,
+              -1.2869842
+            ],
+            [
+              36.821869,
+              -1.2869697
+            ],
+            [
+              36.8218586,
+              -1.2869488
+            ],
+            [
+              36.822191,
+              -1.2867826
+            ],
+            [
+              36.822158,
+              -1.2867166
+            ],
+            [
+              36.821995,
+              -1.2867981
+            ],
+            [
+              36.8219579,
+              -1.2867238
+            ],
+            [
+              36.821866,
+              -1.2867697
+            ],
+            [
+              36.8218998,
+              -1.2868374
+            ],
+            [
+              36.8218667,
+              -1.286854
+            ],
+            [
+              36.8217828,
+              -1.2866862
+            ],
+            [
+              36.8215912,
+              -1.2867818
+            ],
+            [
+              36.8216072,
+              -1.2868139
+            ],
+            [
+              36.8215438,
+              -1.2868456
+            ],
+            [
+              36.8216125,
+              -1.2869831
+            ],
+            [
+              36.8214598,
+              -1.2870594
+            ],
+            [
+              36.8214923,
+              -1.2871245
+            ]
+          ]
+        ]
+      },
+      "id": "way/241193505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/241193506",
+        "addr:city": "Nairobi",
+        "addr:street": "Wabera Street",
+        "amenity": "townhall",
+        "building": "yes",
+        "name": "Nairobi City Hall"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.8223967,
+              -1.2866949
+            ],
+            [
+              36.8225446,
+              -1.2866185
+            ],
+            [
+              36.8223565,
+              -1.2862544
+            ],
+            [
+              36.8222085,
+              -1.2863308
+            ],
+            [
+              36.8223967,
+              -1.2866949
+            ]
+          ]
+        ]
+      },
+      "id": "way/241193506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/241193507",
+        "addr:city": "Nairobi",
+        "addr:street": "City Hall Way",
+        "amenity": "townhall",
+        "building": "yes",
+        "name": "Nairobi City Hall"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.8218611,
+              -1.2865065
+            ],
+            [
+              36.822001,
+              -1.2867916
+            ],
+            [
+              36.8221441,
+              -1.2867214
+            ],
+            [
+              36.8220041,
+              -1.2864364
+            ],
+            [
+              36.8218611,
+              -1.2865065
+            ]
+          ]
+        ]
+      },
+      "id": "way/241193507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/241193508",
+        "addr:city": "Nairobi",
+        "addr:street": "Mama Ngina Street",
+        "amenity": "townhall",
+        "building": "yes",
+        "name": "Nairobi City Hall"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.8215075,
+              -1.2870239
+            ],
+            [
+              36.82137,
+              -1.2867538
+            ],
+            [
+              36.8223583,
+              -1.286251
+            ],
+            [
+              36.8222993,
+              -1.2861351
+            ],
+            [
+              36.8217363,
+              -1.2864215
+            ],
+            [
+              36.8217607,
+              -1.2864694
+            ],
+            [
+              36.8213183,
+              -1.2866943
+            ],
+            [
+              36.8213078,
+              -1.2866737
+            ],
+            [
+              36.8210974,
+              -1.2867807
+            ],
+            [
+              36.8211243,
+              -1.2868336
+            ],
+            [
+              36.8212854,
+              -1.2867517
+            ],
+            [
+              36.821408,
+              -1.2869926
+            ],
+            [
+              36.8212833,
+              -1.287056
+            ],
+            [
+              36.8213165,
+              -1.2871211
+            ],
+            [
+              36.8215075,
+              -1.2870239
+            ]
+          ]
+        ]
+      },
+      "id": "way/241193508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/241193514",
+        "addr:city": "Nairobi",
+        "addr:street": "Cardinal Otunga Street",
+        "amenity": "townhall",
+        "building": "yes",
+        "building:levels": "15",
+        "name": "City Hall Annexe"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.8210489,
+              -1.2864664
+            ],
+            [
+              36.8209637,
+              -1.2865126
+            ],
+            [
+              36.8210496,
+              -1.2866706
+            ],
+            [
+              36.8212409,
+              -1.2865667
+            ],
+            [
+              36.8211442,
+              -1.2863888
+            ],
+            [
+              36.821038,
+              -1.2864464
+            ],
+            [
+              36.8210489,
+              -1.2864664
+            ]
+          ]
+        ]
+      },
+      "id": "way/241193514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/247573734",
+        "amenity": "townhall",
+        "building": "yes",
+        "name": "Kendu Bay Town Hall"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.6569639,
+              -0.3799696
+            ],
+            [
+              34.6570007,
+              -0.3800607
+            ],
+            [
+              34.6569908,
+              -0.3800647
+            ],
+            [
+              34.6570067,
+              -0.3801043
+            ],
+            [
+              34.6570167,
+              -0.3801002
+            ],
+            [
+              34.6570479,
+              -0.3801771
+            ],
+            [
+              34.6571389,
+              -0.3801403
+            ],
+            [
+              34.6571184,
+              -0.3800898
+            ],
+            [
+              34.6571683,
+              -0.3800694
+            ],
+            [
+              34.6571397,
+              -0.3799997
+            ],
+            [
+              34.6570902,
+              -0.38002
+            ],
+            [
+              34.6570549,
+              -0.3799328
+            ],
+            [
+              34.6569639,
+              -0.3799696
+            ]
+          ]
+        ]
+      },
+      "id": "way/247573734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/330899949",
+        "amenity": "townhall",
+        "building": "yes",
+        "name": "JKUAT assembly hall",
+        "operator": "JKUAT"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37.0148779,
+              -1.0953848
+            ],
+            [
+              37.0151913,
+              -1.0953877
+            ],
+            [
+              37.0151924,
+              -1.0952628
+            ],
+            [
+              37.0152191,
+              -1.095263
+            ],
+            [
+              37.0152202,
+              -1.0951489
+            ],
+            [
+              37.0148804,
+              -1.0951574
+            ],
+            [
+              37.0148779,
+              -1.0953848
+            ]
+          ]
+        ]
+      },
+      "id": "way/330899949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/343542212",
+        "addr:street": "Chumvi-Machakos-Kitui Road",
+        "amenity": "townhall",
+        "building": "yes",
+        "name": "Machakos Town Hall"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37.26621,
+              -1.5202095
+            ],
+            [
+              37.2661587,
+              -1.5203373
+            ],
+            [
+              37.266365,
+              -1.5204201
+            ],
+            [
+              37.2663316,
+              -1.520503
+            ],
+            [
+              37.2664352,
+              -1.5205446
+            ],
+            [
+              37.266479,
+              -1.5204354
+            ],
+            [
+              37.266551,
+              -1.5204643
+            ],
+            [
+              37.2665917,
+              -1.5203629
+            ],
+            [
+              37.26621,
+              -1.5202095
+            ]
+          ]
+        ]
+      },
+      "id": "way/343542212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/368900687",
+        "addr:city": "Mumias",
+        "addr:street": "Mumias-Bungoma Road",
+        "amenity": "townhall",
+        "building": "yes",
+        "name": "Mumias Town Hall"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.4894269,
+              0.3367558
+            ],
+            [
+              34.4893904,
+              0.3365925
+            ],
+            [
+              34.4891884,
+              0.3366441
+            ],
+            [
+              34.4891626,
+              0.3365474
+            ],
+            [
+              34.4894247,
+              0.3364786
+            ],
+            [
+              34.4895773,
+              0.3364378
+            ],
+            [
+              34.4896009,
+              0.3365431
+            ],
+            [
+              34.489472,
+              0.3365753
+            ],
+            [
+              34.4895085,
+              0.3367321
+            ],
+            [
+              34.4894269,
+              0.3367558
+            ]
+          ]
+        ]
+      },
+      "id": "way/368900687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/396423155",
+        "amenity": "townhall",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.3633162,
+              0.0375386
+            ],
+            [
+              36.3633489,
+              0.0374139
+            ],
+            [
+              36.3635563,
+              0.0374683
+            ],
+            [
+              36.3635236,
+              0.037593
+            ],
+            [
+              36.3633162,
+              0.0375386
+            ]
+          ]
+        ]
+      },
+      "id": "way/396423155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/407532884",
+        "addr:city": "Mandera",
+        "amenity": "townhall",
+        "building": "yes",
+        "name": "Mandera Town Hall"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.8635746,
+              3.9403542
+            ],
+            [
+              41.8635867,
+              3.9402682
+            ],
+            [
+              41.8637109,
+              3.9402855
+            ],
+            [
+              41.8637203,
+              3.9402184
+            ],
+            [
+              41.8636989,
+              3.9401997
+            ],
+            [
+              41.8637069,
+              3.9401355
+            ],
+            [
+              41.8637203,
+              3.9401114
+            ],
+            [
+              41.8638088,
+              3.9401221
+            ],
+            [
+              41.8638276,
+              3.9401489
+            ],
+            [
+              41.8638276,
+              3.9401917
+            ],
+            [
+              41.8638088,
+              3.9402184
+            ],
+            [
+              41.8638001,
+              3.9402805
+            ],
+            [
+              41.8638874,
+              3.9402927
+            ],
+            [
+              41.863873,
+              3.9403959
+            ],
+            [
+              41.8635746,
+              3.9403542
+            ]
+          ]
+        ]
+      },
+      "id": "way/407532884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/477106398",
+        "amenity": "townhall",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.2213205,
+              -0.1408724
+            ],
+            [
+              34.221344,
+              -0.1409049
+            ],
+            [
+              34.2213644,
+              -0.1408902
+            ],
+            [
+              34.22138,
+              -0.1409117
+            ],
+            [
+              34.2213997,
+              -0.140939
+            ],
+            [
+              34.2214308,
+              -0.1409165
+            ],
+            [
+              34.2214119,
+              -0.1408904
+            ],
+            [
+              34.2214228,
+              -0.1408826
+            ],
+            [
+              34.2214117,
+              -0.1408672
+            ],
+            [
+              34.2214324,
+              -0.1408522
+            ],
+            [
+              34.2214036,
+              -0.1408123
+            ],
+            [
+              34.2213205,
+              -0.1408724
+            ]
+          ]
+        ]
+      },
+      "id": "way/477106398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/484431948",
+        "addr:city": "Bungoma",
+        "addr:street": "Moi Avenue",
+        "amenity": "townhall",
+        "building": "yes",
+        "name": "Town Hall"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.5610066,
+              0.5673908
+            ],
+            [
+              34.5609293,
+              0.5669888
+            ],
+            [
+              34.561046,
+              0.5669664
+            ],
+            [
+              34.5610826,
+              0.5671635
+            ],
+            [
+              34.5610794,
+              0.5671808
+            ],
+            [
+              34.5610812,
+              0.5671983
+            ],
+            [
+              34.5610877,
+              0.5672146
+            ],
+            [
+              34.5610985,
+              0.5672284
+            ],
+            [
+              34.5611229,
+              0.5673684
+            ],
+            [
+              34.5610066,
+              0.5673908
+            ]
+          ]
+        ]
+      },
+      "id": "way/484431948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/567500056",
+        "amenity": "townhall",
+        "building": "yes",
+        "name": "Bungoma County Assembly"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.5589859,
+              0.5699682
+            ],
+            [
+              34.5590151,
+              0.5699266
+            ],
+            [
+              34.5590613,
+              0.5699358
+            ],
+            [
+              34.5591014,
+              0.5699374
+            ],
+            [
+              34.5591384,
+              0.570019
+            ],
+            [
+              34.5590875,
+              0.5700421
+            ],
+            [
+              34.5591029,
+              0.5702455
+            ],
+            [
+              34.5590275,
+              0.5702624
+            ],
+            [
+              34.5590105,
+              0.570076
+            ],
+            [
+              34.5588657,
+              0.5701299
+            ],
+            [
+              34.5588349,
+              0.5700437
+            ],
+            [
+              34.5589859,
+              0.5699682
+            ]
+          ]
+        ]
+      },
+      "id": "way/567500056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/639060950",
+        "addr:city": "Mombasa",
+        "addr:street": "Tom Mboya road",
+        "amenity": "townhall",
+        "building": "yes",
+        "name": "Assembly Hall"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.6671023,
+              -4.0377395
+            ],
+            [
+              39.6671886,
+              -4.0378272
+            ],
+            [
+              39.6674214,
+              -4.0375494
+            ],
+            [
+              39.6672863,
+              -4.0374585
+            ],
+            [
+              39.6671023,
+              -4.0377395
+            ]
+          ]
+        ]
+      },
+      "id": "way/639060950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/971541231",
+        "amenity": "townhall",
+        "layer": "1",
+        "name": "Gatundu South Sub-County Headquarters",
+        "townhall:type": "township"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.9043064,
+              -1.014698
+            ],
+            [
+              36.9051205,
+              -1.0138735
+            ],
+            [
+              36.9058106,
+              -1.0144291
+            ],
+            [
+              36.9060992,
+              -1.0139438
+            ],
+            [
+              36.9053717,
+              -1.0132047
+            ],
+            [
+              36.9051452,
+              -1.0134347
+            ],
+            [
+              36.9048869,
+              -1.0132189
+            ],
+            [
+              36.9046725,
+              -1.013282
+            ],
+            [
+              36.9042532,
+              -1.0134055
+            ],
+            [
+              36.9040217,
+              -1.0132504
+            ],
+            [
+              36.9039482,
+              -1.0132011
+            ],
+            [
+              36.9037154,
+              -1.013555
+            ],
+            [
+              36.9043064,
+              -1.014698
+            ]
+          ]
+        ]
+      },
+      "id": "way/971541231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/45006022",
+        "amenity": "townhall",
+        "is_in": "Bungoma,Kenya",
+        "name": "Bungoma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5666,
+          0.5666
+        ]
+      },
+      "id": "node/45006022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/976729875",
+        "amenity": "townhall",
+        "name": "Kilifi County Council"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8536417,
+          -3.6342453
+        ]
+      },
+      "id": "node/976729875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/984385328",
+        "amenity": "townhall",
+        "name": "Kilifi Town Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8568004,
+          -3.6333905
+        ]
+      },
+      "id": "node/984385328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1123201204",
+        "amenity": "townhall",
+        "name": "Huruma CDF Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8711225,
+          -1.2587957
+        ]
+      },
+      "id": "node/1123201204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1315243393",
+        "amenity": "townhall",
+        "name": "County Hall Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.1176131,
+          -3.221739
+        ]
+      },
+      "id": "node/1315243393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1427054141",
+        "amenity": "townhall",
+        "name": "ODM Office Rangwe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5735616,
+          -0.6002096
+        ]
+      },
+      "id": "node/1427054141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1483304304",
+        "amenity": "townhall",
+        "name": "Social Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.838261,
+          -1.3060555
+        ]
+      },
+      "id": "node/1483304304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1980700033",
+        "amenity": "townhall",
+        "name": "Human Needs Project"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7815922,
+          -1.3138154
+        ]
+      },
+      "id": "node/1980700033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2155961178",
+        "amenity": "townhall",
+        "name": "Town Council of Molo",
+        "office": "administrative",
+        "project:eurosha_2012": "yes",
+        "source": "Field survey",
+        "source:date": "2013-02-15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7281549,
+          -0.244812
+        ]
+      },
+      "id": "node/2155961178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2475305013",
+        "addr:city": "Nyahururu",
+        "addr:street": "Nyeri-Nyahururu Road",
+        "amenity": "townhall",
+        "name": "Nyahururu Municipal Council"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3634638,
+          0.037623
+        ]
+      },
+      "id": "node/2475305013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2665757131",
+        "addr:city": "Eldoret",
+        "addr:postcode": "30100",
+        "addr:street": "Utalii Street",
+        "amenity": "townhall",
+        "name": "Uasin Gishu County Government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2755648,
+          0.5189804
+        ]
+      },
+      "id": "node/2665757131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864267873",
+        "amenity": "townhall",
+        "contact:mobile": "0728176075",
+        "name": "Assistant chiefs camp",
+        "place:district": "migwani",
+        "place:division": "nguutani",
+        "place:location": "thaananzau",
+        "place:sub_location": "thaana",
+        "place:village": "thaana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8518534,
+          -0.8178632
+        ]
+      },
+      "id": "node/2864267873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2885939509",
+        "amenity": "townhall",
+        "building": "yes",
+        "governance:facility_type": "administrative",
+        "name": "D.O's office",
+        "place:district": "mbeere south",
+        "place:division": "makima",
+        "place:location": "makima",
+        "place:sub_location": "makima",
+        "place:village": "ciamburi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5797385,
+          -0.7767895
+        ]
+      },
+      "id": "node/2885939509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3220088292",
+        "amenity": "townhall",
+        "name": "Hill-Tea County Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5279635,
+          0.0073695
+        ]
+      },
+      "id": "node/3220088292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3283879908",
+        "amenity": "townhall",
+        "name": "mbondoni assistant chief office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5500221,
+          -0.8418737
+        ]
+      },
+      "id": "node/3283879908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3603507676",
+        "amenity": "townhall",
+        "name": "County Government Headquarters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4558787,
+          -4.1793687
+        ]
+      },
+      "id": "node/3603507676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5327793558",
+        "addr:city": "Kiambu",
+        "addr:street": "Kiuu River Road",
+        "amenity": "townhall",
+        "name": "Kiambu County Assembly"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8347459,
+          -1.1720723
+        ]
+      },
+      "id": "node/5327793558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5329702007",
+        "amenity": "townhall",
+        "name": "Kiambu Town Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8251792,
+          -1.1673945
+        ]
+      },
+      "id": "node/5329702007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5588170693",
+        "amenity": "townhall",
+        "image": "https://mapkibera.github.io/counties/data/images/cache/5588170693/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524640116671jpg/orig.jpg",
+        "name": "Nziu Social Hall",
+        "opening_hours": "Mo-Su 8:00-10:00",
+        "village": "Nziu",
+        "wb_pb:id": "21748096",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.53738,
+          -1.8177867
+        ]
+      },
+      "id": "node/5588170693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5592138051",
+        "amenity": "townhall",
+        "image": "https://mapkibera.github.io/counties/data/images/cache/5592138051/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524648771021jpg/orig.jpg",
+        "name": "Wote Social Hall",
+        "opening_hours": "Mo-Fr 8:00-17:00",
+        "village": "Kasarani",
+        "wb_pb:id": "21743948",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6301158,
+          -1.7787908
+        ]
+      },
+      "id": "node/5592138051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5608972514",
+        "amenity": "townhall",
+        "name": "County Assembly"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6205373,
+          -1.7900541
+        ]
+      },
+      "id": "node/5608972514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5637308449",
+        "amenity": "townhall",
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526893703651.jpg",
+        "name": "Kivandini Social Hall",
+        "opening_hours": "Mo-Fr 9:00-5:00",
+        "type": "Social Hall",
+        "wb_pb:id": "22942851",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4574683,
+          -1.6559475
+        ]
+      },
+      "id": "node/5637308449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5641420328",
+        "amenity": "townhall",
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526979313228.jpg",
+        "name": "Mbooni Social Hall",
+        "opening_hours": "Mo- Fr 6:00-10:00",
+        "type": "social_hall",
+        "wb_pb:id": "22956402",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4475142,
+          -1.6625263
+        ]
+      },
+      "id": "node/5641420328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5769881537",
+        "addr:city": "Mwingi",
+        "addr:street": "C93",
+        "amenity": "townhall",
+        "name": "Mwingi Sub-county offices"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.0599642,
+          -0.9318002
+        ]
+      },
+      "id": "node/5769881537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5781399424",
+        "amenity": "townhall",
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532005260959.jpg",
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/5781399424/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532004667617jpg/orig.jpg",
+        "name": "Baringo County Assembly",
+        "wb_pb:id": "26199454"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7440683,
+          0.4925662
+        ]
+      },
+      "id": "node/5781399424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6106202816",
+        "addr:city": "Kitale",
+        "addr:street": "Moi Avenue",
+        "amenity": "townhall",
+        "name": "Town Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.001432,
+          1.0154781
+        ]
+      },
+      "id": "node/6106202816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6130562050",
+        "addr:city": "Kisumu",
+        "addr:street": "Otieno Oyoo Street",
+        "amenity": "townhall",
+        "name": "Aga Khan Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7546082,
+          -0.0980842
+        ]
+      },
+      "id": "node/6130562050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6149305118",
+        "addr:city": "Eldoret",
+        "addr:street": "Utalii Street",
+        "amenity": "townhall",
+        "name": "Town Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2754014,
+          0.5192362
+        ]
+      },
+      "id": "node/6149305118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6236068245",
+        "addr:city": "Kitui",
+        "addr:street": "Kibwezi - Kitui Road",
+        "amenity": "townhall",
+        "name": "Kitui Town Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.0120066,
+          -1.3664813
+        ]
+      },
+      "id": "node/6236068245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6241778035",
+        "addr:city": "Nyahururu",
+        "addr:street": "Koinange Road",
+        "amenity": "townhall",
+        "name": "Nyahururu Social Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3586704,
+          0.0326806
+        ]
+      },
+      "id": "node/6241778035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6259798897",
+        "addr:city": "Nairobi",
+        "addr:street": "Embakasi Road",
+        "amenity": "townhall",
+        "name": "Embakasi Social Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9128548,
+          -1.3082312
+        ]
+      },
+      "id": "node/6259798897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6406115787",
+        "amenity": "townhall",
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1531917205088.jpg",
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6406115787/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1531919215224jpg/orig.jpg",
+        "name": "YEPC kabarnet",
+        "wb_pb:id": "26199372"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7415513,
+          0.4922563
+        ]
+      },
+      "id": "node/6406115787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6807425641",
+        "amenity": "townhall",
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6807425641/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568710645395jpg/orig.jpg",
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6807425641/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568710898612jpg/orig.jpg",
+        "is_in:village": "Mogotio",
+        "name": "Office of the Governor Mogotio",
+        "wb_pb:id": "193"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.95931,
+          -0.0239
+        ]
+      },
+      "id": "node/6807425641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6807425642",
+        "amenity": "townhall",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568704415576.jpg",
+        "is_in:village": "Mogotio",
+        "name": "Mogotio Chiefs Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.96248,
+          -0.02039
+        ]
+      },
+      "id": "node/6807425642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6807425645",
+        "amenity": "townhall",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568701633293.jpg",
+        "is_in:village": "Mogotio",
+        "name": "Mogotio Constituency Development Fund"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.95843,
+          -0.02696
+        ]
+      },
+      "id": "node/6807425645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6807425646",
+        "amenity": "townhall",
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6807425646/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568701770518jpg/orig.jpg",
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6807425646/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568701463635jpg/orig.jpg",
+        "is_in:village": "Mogotio",
+        "name": "Deputy County Commissioner Office",
+        "wb_pb:id": "192"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.95849,
+          -0.02641
+        ]
+      },
+      "id": "node/6807425646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6909005277",
+        "amenity": "townhall",
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6909005277/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571747576746jpg/orig.jpg",
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6909005277/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571747729252jpg/orig.jpg",
+        "image:project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571747749132.jpg",
+        "is_in:village": "Mwotot",
+        "name": "West Pokot County Assembly Chambers",
+        "wb_pb:id": "20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.12024,
+          1.2401644
+        ]
+      },
+      "id": "node/6909005277"
+    }
+  ]
+}
