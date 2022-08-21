@@ -8,8 +8,8 @@
       "type": "Feature",
       "properties": {
         "@id": "relation/3224460",
-        "addr:city": "Nairobi",
-        "addr:street": "Parliament Road",
+        "city": "Nairobi",
+        "street": "Parliament Road",
         "building": "yes",
         "name": "Kenya Parliament Buildings",
         "office": "government",
@@ -45,8 +45,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/106296560",
-        "addr:city": "Nairobi",
-        "addr:street": "Harambee Avenue",
+        "city": "Nairobi",
+        "street": "Harambee Avenue",
         "building": "yes",
         "government": "treasury",
         "name": "Treasury Building",
@@ -64,9 +64,9 @@
       "type": "Feature",
       "properties": {
         "@id": "way/106296562",
-        "addr:city": "Nairobi",
-        "addr:postcode": "P.O Box 30551 – 00100 G.P.O. NAIROBI",
-        "addr:street": "Harambee Avenue",
+        "city": "Nairobi",
+        "postcode": "P.O Box 30551 – 00100 G.P.O. NAIROBI",
+        "street": "Harambee Avenue",
         "building": "yes",
         "government": "ministry",
         "name": "Old Treasury Building",
@@ -84,8 +84,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/106296567",
-        "addr:city": "Nairobi",
-        "addr:street": "Harambee Avenue",
+        "city": "Nairobi",
+        "street": "Harambee Avenue",
         "building": "yes",
         "name": "Jogoo House",
         "office": "government"
@@ -102,9 +102,9 @@
       "type": "Feature",
       "properties": {
         "@id": "way/106296570",
-        "addr:city": "Nairobi",
-        "addr:housenumber": "01",
-        "addr:street": "Taifa Road",
+        "city": "Nairobi",
+        "housenumber": "01",
+        "street": "Taifa Road",
         "building": "yes",
         "name": "Jogoo House A",
         "office": "government"
@@ -121,10 +121,10 @@
       "type": "Feature",
       "properties": {
         "@id": "way/106302138",
-        "addr:city": "Nairobi",
-        "addr:housenumber": "60000",
-        "addr:postcode": "00200",
-        "addr:street": "Haile Selassie Avenue",
+        "city": "Nairobi",
+        "housenumber": "60000",
+        "postcode": "00200",
+        "street": "Haile Selassie Avenue",
         "building": "yes",
         "government": "treasury",
         "name": "Central Bank of Kenya",
@@ -162,8 +162,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/123414870",
-        "addr:city": "Nairobi",
-        "addr:street": "Taifa Road",
+        "city": "Nairobi",
+        "street": "Taifa Road",
         "building": "yes",
         "government": "police",
         "name": "National Police Service Headquaters",
@@ -181,8 +181,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/123415413",
-        "addr:city": "Nairobi",
-        "addr:street": "Harambee Avenue",
+        "city": "Nairobi",
+        "street": "Harambee Avenue",
         "building": "government",
         "government": "register_office",
         "name": "Sheria House",
@@ -200,8 +200,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/123415435",
-        "addr:city": "Nairobi",
-        "addr:street": "Harambee Avenue",
+        "city": "Nairobi",
+        "street": "Harambee Avenue",
         "building": "yes",
         "government": "administrative",
         "name": "Harambee House",
@@ -220,8 +220,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/123458411",
-        "addr:city": "Nairobi",
-        "addr:street": "Harambee Avenue",
+        "city": "Nairobi",
+        "street": "Harambee Avenue",
         "building": "yes",
         "government": "administrative",
         "name": "Office of the Deputy President",
@@ -239,8 +239,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/123458419",
-        "addr:city": "Nairobi",
-        "addr:street": "Harambee Avenue",
+        "city": "Nairobi",
+        "street": "Harambee Avenue",
         "building": "yes",
         "government": "police",
         "name": "Vigilance House",
@@ -258,8 +258,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/123458423",
-        "addr:city": "Nairobi",
-        "addr:street": "Haile Sellassie Avenue",
+        "city": "Nairobi",
+        "street": "Haile Sellassie Avenue",
         "alt_name": "New Central Bank tower",
         "building": "yes",
         "government": "tax",
@@ -279,8 +279,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/123614153",
-        "addr:city": "Nairobi",
-        "addr:street": "Bishop Road",
+        "city": "Nairobi",
+        "street": "Bishop Road",
         "building": "yes",
         "government": "prison",
         "name": "Prisons Head Quarters",
@@ -298,8 +298,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/123614161",
-        "addr:city": "Nairobi",
-        "addr:street": "Bishop Road",
+        "city": "Nairobi",
+        "street": "Bishop Road",
         "building": "yes",
         "government": "pension_fund",
         "name": "NSSF Building",
@@ -334,8 +334,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/130230056",
-        "addr:city": "Nairobi",
-        "addr:street": "Ngara Road",
+        "city": "Nairobi",
+        "street": "Ngara Road",
         "building": "yes",
         "government": "administrative",
         "name": "Ngara Ward MCA Office",
@@ -370,9 +370,9 @@
       "type": "Feature",
       "properties": {
         "@id": "way/239051499",
-        "addr:city": "Nairobi",
-        "addr:housenumber": "P. O. Box 30599-00100, Nairobi",
-        "addr:street": "Ngong Road",
+        "city": "Nairobi",
+        "housenumber": "P. O. Box 30599-00100, Nairobi",
+        "street": "Ngong Road",
         "building": "yes",
         "building:levels": "28",
         "government": "pension_fund",
@@ -408,8 +408,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/242988645",
-        "addr:city": "Nairobi",
-        "addr:street": "Haile Selassie Avenue",
+        "city": "Nairobi",
+        "street": "Haile Selassie Avenue",
         "building": "yes",
         "government": "press",
         "name": "Government Press",
@@ -427,8 +427,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/264715159",
-        "addr:city": "Mlolongo",
-        "addr:street": "Mombasa Road",
+        "city": "Mlolongo",
+        "street": "Mombasa Road",
         "building": "yes",
         "layer": "-1",
         "name": "Mlolongo Weighbridge-MSA",
@@ -462,8 +462,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/310047994",
-        "addr:city": "Nairobi",
-        "addr:street": "Kungu Karumba Road",
+        "city": "Nairobi",
+        "street": "Kungu Karumba Road",
         "name": "Mugumoini Chiefs Camp",
         "office": "government",
         "opening_hours": "0800 - 1700"
@@ -512,7 +512,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/321176902",
-        "addr:city": "Taveta",
+        "city": "Taveta",
         "name": "Taveta Border Control",
         "office": "government"
       },
@@ -543,8 +543,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/355488103",
-        "addr:city": "Nairobi",
-        "addr:street": "Mombasa Road",
+        "city": "Nairobi",
+        "street": "Mombasa Road",
         "building": "yes",
         "name": "Aviation house",
         "office": "government",
@@ -562,7 +562,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/369358248",
-        "addr:street": "JKUAT Entry Road",
+        "street": "JKUAT Entry Road",
         "building": "yes",
         "name": "Chief's Office, Juja",
         "office": "government",
@@ -580,8 +580,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/387479028",
-        "addr:city": "Nairobi",
-        "addr:street": "Kabarnet Lane",
+        "city": "Nairobi",
+        "street": "Kabarnet Lane",
         "building": "yes",
         "building:levels": "3",
         "name": "Nursing Council of Kenya",
@@ -677,8 +677,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/456320718",
-        "addr:city": "Nairobi",
-        "addr:street": "Popo Road",
+        "city": "Nairobi",
+        "street": "Popo Road",
         "name": "Kenya Bureau of Standards",
         "office": "government"
       },
@@ -709,8 +709,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/456330776",
-        "addr:city": "Nairobi",
-        "addr:street": "Popo Road",
+        "city": "Nairobi",
+        "street": "Popo Road",
         "name": "National Environment Management Authority",
         "office": "government"
       },
@@ -775,8 +775,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/492025503",
-        "addr:city": "Mlolongo",
-        "addr:street": "Mombasa Road",
+        "city": "Mlolongo",
+        "street": "Mombasa Road",
         "building": "yes",
         "description": "Truck weighbridge",
         "layer": "-1",
@@ -795,8 +795,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/524757947",
-        "addr:city": "Nairobi",
-        "addr:street": "Thika Road",
+        "city": "Nairobi",
+        "street": "Thika Road",
         "barrier": "wall",
         "name": "Survey of Kenya",
         "office": "government",
@@ -881,10 +881,10 @@
       "type": "Feature",
       "properties": {
         "@id": "way/576704751",
-        "addr:city": "Mombasa",
-        "addr:housenumber": "81599",
-        "addr:postcode": "80100",
-        "addr:street": "Digo Road",
+        "city": "Mombasa",
+        "housenumber": "81599",
+        "postcode": "80100",
+        "street": "Digo Road",
         "building": "yes",
         "ele": "0",
         "government": "yes",
@@ -904,8 +904,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/622686488",
-        "addr:city": "Kakuma",
-        "addr:street": "Lodwar-lokichogio road",
+        "city": "Kakuma",
+        "street": "Lodwar-lokichogio road",
         "government": "administrative",
         "name": "United Nations High Commissioner",
         "office": "government"
@@ -923,8 +923,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/644858089",
-        "addr:city": "Kiambu",
-        "addr:street": "Kahuhu Road",
+        "city": "Kiambu",
+        "street": "Kahuhu Road",
         "building": "yes",
         "name": "Limuru County Offices",
         "office": "government"
@@ -941,8 +941,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/651081557",
-        "addr:city": "Kitale",
-        "addr:street": "Mak Asembo Street",
+        "city": "Kitale",
+        "street": "Mak Asembo Street",
         "building": "yes",
         "government": "administrative",
         "name": "Trans Nzoia District Headquaters,District commisioner headquaters",
@@ -960,8 +960,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/665549119",
-        "addr:city": "Machakos",
-        "addr:street": "Chumvi-Machakos-Kitui Road",
+        "city": "Machakos",
+        "street": "Chumvi-Machakos-Kitui Road",
         "amenity": "public_building",
         "name": "Office of the Governor -Machakos",
         "office": "government"
@@ -978,8 +978,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/666915556",
-        "addr:city": "Webuye",
-        "addr:street": "Eldoret-Malaba Road",
+        "city": "Webuye",
+        "street": "Eldoret-Malaba Road",
         "government": "transportation",
         "name": "Webuye WeighBridge",
         "office": "government"
@@ -1013,8 +1013,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/724337245",
-        "addr:city": "Malindi",
-        "addr:street": "B8",
+        "city": "Malindi",
+        "street": "B8",
         "building": "yes",
         "name": "Kenya Revenue Authority",
         "office": "government"
@@ -1098,7 +1098,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/795558442",
-        "addr:city": "Nairobi",
+        "city": "Nairobi",
         "government": "administrative",
         "name": "Football Kenya Federation",
         "office": "government",
@@ -1133,8 +1133,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/871358454",
-        "addr:city": "Nairobi",
-        "addr:street": "Machakos Road",
+        "city": "Nairobi",
+        "street": "Machakos Road",
         "building": "yes",
         "government": "ministry",
         "name": "National GeoData Center (NGDC)",
@@ -1235,7 +1235,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/1046560209",
-        "addr:city": "Elburgon",
+        "city": "Elburgon",
         "building": "yes",
         "name": "District Education Officer's Office",
         "office": "government",
@@ -1255,9 +1255,9 @@
       "type": "Feature",
       "properties": {
         "@id": "way/1046560969",
-        "addr:city": "Elburgon",
-        "addr:postcode": "20102",
-        "addr:street": "Elburgon",
+        "city": "Elburgon",
+        "postcode": "20102",
+        "street": "Elburgon",
         "building": "yes",
         "name": "District Officer's Office",
         "office": "government",
@@ -1348,7 +1348,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/1050537589",
-        "addr:street": "Kilifi Road",
+        "street": "Kilifi Road",
         "building": "yes",
         "name": "The National Treasury and Planning",
         "office": "government",
@@ -1366,8 +1366,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/1054700428",
-        "addr:city": "Naivasha",
-        "addr:street": "Moi Avenue",
+        "city": "Naivasha",
+        "street": "Moi Avenue",
         "building": "public",
         "name": "NHIF Naivasha Office",
         "office": "government",
@@ -1385,8 +1385,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/1086240128",
-        "addr:city": "Malindi",
-        "addr:street": "Casuarina Road",
+        "city": "Malindi",
+        "street": "Casuarina Road",
         "building": "yes",
         "name": "Ruby Plaza",
         "office": "government",
@@ -1404,9 +1404,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/566602891",
-        "addr:city": "Nairobi",
-        "addr:housenumber": "Harambee House,",
-        "addr:street": "Harambee Avenue",
+        "city": "Nairobi",
+        "housenumber": "Harambee House,",
+        "street": "Harambee Avenue",
         "government": "administrative",
         "name": "Office of the President",
         "office": "government"
@@ -1597,7 +1597,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/976729864",
-        "addr:street": "Bofa Road",
+        "street": "Bofa Road",
         "name": "County Governor's Office",
         "office": "government"
       },
@@ -1631,8 +1631,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/1333619844",
-        "addr:city": "Nairobi",
-        "addr:street": "Lenana Road",
+        "city": "Nairobi",
+        "street": "Lenana Road",
         "name": "National Irrigation Board HQ",
         "office": "government"
       },
@@ -1683,8 +1683,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/1479360589",
-        "addr:city": "Nairobi",
-        "addr:street": "Thika Road",
+        "city": "Nairobi",
+        "street": "Thika Road",
         "government": "land",
         "name": "Survey of Kenya HQ",
         "office": "government"
@@ -1702,8 +1702,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/1764237497",
-        "addr:city": "Nairobi",
-        "addr:street": "Dennis Pritt Road",
+        "city": "Nairobi",
+        "street": "Dennis Pritt Road",
         "name": "Kenya National Examination Council",
         "office": "government"
       },
@@ -2048,8 +2048,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/2149986572",
-        "addr:city": "Wajir",
-        "addr:street": "Wajir-Moyale road",
+        "city": "Wajir",
+        "street": "Wajir-Moyale road",
         "building": "public",
         "name": "County Commissioner Office",
         "office": "government"
@@ -2134,8 +2134,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/2447961853",
-        "addr:city": "Nyanduma Ward",
-        "addr:street": "Gatundu-Kinare  Road",
+        "city": "Nyanduma Ward",
+        "street": "Gatundu-Kinare  Road",
         "name": "Kagwe Chief Office",
         "office": "government"
       },
@@ -2217,8 +2217,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/3607631189",
-        "addr:city": "Namanga",
-        "addr:street": "Athi River-Namanga Road",
+        "city": "Namanga",
+        "street": "Athi River-Namanga Road",
         "name": "Namanga Border Crossing",
         "office": "government"
       },
@@ -2235,8 +2235,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/3646034873",
-        "addr:city": "Narok",
-        "addr:street": "Kaplong-Narok-Maai Road",
+        "city": "Narok",
+        "street": "Kaplong-Narok-Maai Road",
         "name": "Ewaso Nyiro South Development Authority",
         "office": "government"
       },
@@ -2285,8 +2285,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/3683457959",
-        "addr:city": "Wajir",
-        "addr:street": "Wajir-Moyale road",
+        "city": "Wajir",
+        "street": "Wajir-Moyale road",
         "name": "Wajir County Assembly",
         "office": "government"
       },
@@ -2303,8 +2303,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/3713230002",
-        "addr:city": "Habswein",
-        "addr:street": "Isiolo-Mandera Road",
+        "city": "Habswein",
+        "street": "Isiolo-Mandera Road",
         "government": "administrative",
         "name": "Ademasjid Chief Office",
         "office": "government"
@@ -2322,7 +2322,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/3727249095",
-        "addr:city": "Mumias",
+        "city": "Mumias",
         "name": "NHIF",
         "office": "government"
       },
@@ -2339,8 +2339,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/3733303605",
-        "addr:city": "Juja",
-        "addr:street": "Thika Road",
+        "city": "Juja",
+        "street": "Thika Road",
         "name": "Juja police Station",
         "office": "government"
       },
@@ -2357,8 +2357,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/3798185660",
-        "addr:city": "Nakuru",
-        "addr:street": "Old Nairobi Road",
+        "city": "Nakuru",
+        "street": "Old Nairobi Road",
         "government": "administrative",
         "name": "State House Nakuru",
         "office": "government"
@@ -2441,8 +2441,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/4314005289",
-        "addr:postcode": "30728",
-        "addr:street": "Rose Avenue",
+        "postcode": "30728",
+        "street": "Rose Avenue",
         "name": "新华通讯社",
         "office": "government"
       },
@@ -2459,7 +2459,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/4318215510",
-        "addr:street": "Rose Avenue",
+        "street": "Rose Avenue",
         "name": "新华社",
         "office": "government"
       },
@@ -2476,7 +2476,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/4442286491",
-        "addr:street": "Ikhonga Murwi Trail",
+        "street": "Ikhonga Murwi Trail",
         "name": "Chief's office Ilesi",
         "name:en": "Chief's office Ilesi",
         "office": "government"
@@ -2494,8 +2494,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/4454920689",
-        "addr:city": "Nanyuki",
-        "addr:street": "Nyeri-Nanyuki Road",
+        "city": "Nanyuki",
+        "street": "Nyeri-Nanyuki Road",
         "name": "County Assembly hall",
         "office": "government"
       },
@@ -2561,7 +2561,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/4525897883",
-        "addr:city": "Nairobi",
+        "city": "Nairobi",
         "name": "Nuclear Electricity Board",
         "office": "government"
       },
@@ -2578,8 +2578,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/4563124303",
-        "addr:city": "Kakamega",
-        "addr:street": "Kenyatta Avenue",
+        "city": "Kakamega",
+        "street": "Kenyatta Avenue",
         "name": "County Government of Kakamega",
         "office": "government"
       },
@@ -2596,7 +2596,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/4708698889",
-        "addr:street": "Upper Hill Rd, Nairobi",
+        "street": "Upper Hill Rd, Nairobi",
         "name": "NTSA HEADQUARTERS",
         "office": "government",
         "opening_hours": "Mo-Fr"
@@ -2648,7 +2648,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/4743275923",
-        "addr:street": "Nyakuki Road",
+        "street": "Nyakuki Road",
         "name": "Kenya Pipeline Company Ltd",
         "name:en": "Kenya Pipeline Company Ltd",
         "office": "government",
@@ -2667,7 +2667,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/4830338521",
-        "addr:street": "Kenyatta Avenue",
+        "street": "Kenyatta Avenue",
         "name": "Huduma Centre GPO",
         "name:en": "Huduma Centre GPO",
         "office": "government",
@@ -2686,7 +2686,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/4830338721",
-        "addr:street": "Kenyatta Avenue",
+        "street": "Kenyatta Avenue",
         "email": "info@information.go.ke",
         "name": "Ministry of Information Technology and Communications",
         "name:en": "Ministry of Information Technology and Communications",
@@ -2743,8 +2743,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/4941427421",
-        "addr:city": "Eldoret",
-        "addr:street": "Oloo Street",
+        "city": "Eldoret",
+        "street": "Oloo Street",
         "name": "Immigration office",
         "name:en": "Immigration office",
         "office": "government"
@@ -2815,10 +2815,10 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5106252452",
-        "addr:city": "Nairobi",
-        "addr:housenumber": "30450",
-        "addr:postcode": "00100",
-        "addr:street": "1st Ngong Avenue",
+        "city": "Nairobi",
+        "housenumber": "30450",
+        "postcode": "00100",
+        "street": "1st Ngong Avenue",
         "email": "director.sok@ardhi.go.ke",
         "government": "ministry",
         "name": "Survey of Kenya",
@@ -2841,9 +2841,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5106252453",
-        "addr:city": "Nairobi",
-        "addr:housenumber": "Ardhi House, 12th Floor.P.O.Box 30450, Nairobi",
-        "addr:street": "1st Ngong Avenue",
+        "city": "Nairobi",
+        "housenumber": "Ardhi House, 12th Floor.P.O.Box 30450, Nairobi",
+        "street": "1st Ngong Avenue",
         "name": "Ministry of Land, Housing and Urban Development",
         "office": "government",
         "old_name": "Ministry of Land and Physical Planning",
@@ -2862,10 +2862,10 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5134522821",
-        "addr:city": "Nairobi",
-        "addr:housenumber": "32",
-        "addr:postcode": "00800",
-        "addr:street": "Waiyaki Way",
+        "city": "Nairobi",
+        "housenumber": "32",
+        "postcode": "00800",
+        "street": "Waiyaki Way",
         "email": "info@ca.go.ke",
         "government": "telecommunications",
         "name": "Communications Authority of Kenya",
@@ -2885,8 +2885,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5216100922",
-        "addr:city": "Eldoret",
-        "addr:street": "Oloo Street",
+        "city": "Eldoret",
+        "street": "Oloo Street",
         "name": "Ardhi House, Eldoret",
         "office": "government",
         "opening_hours": "Mo-Fr 08:00-17:00"
@@ -2940,8 +2940,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5339359500",
-        "addr:city": "Nairobi",
-        "addr:street": "Kivemia Road",
+        "city": "Nairobi",
+        "street": "Kivemia Road",
         "name": "Permanent Presidential Music Commission",
         "office": "government"
       },
@@ -2990,7 +2990,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5348437322",
-        "addr:city": "Machakos",
+        "city": "Machakos",
         "name": "Machakos Vehicle Inspection Centre",
         "office": "government"
       },
@@ -3007,7 +3007,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5372339343",
-        "addr:housenumber": "De Paul Center Building, P.O. Box 24749, Nairobi",
+        "housenumber": "De Paul Center Building, P.O. Box 24749, Nairobi",
         "name": "De Paul Center",
         "office": "government"
       },
@@ -3024,7 +3024,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5378425143",
-        "addr:housenumber": "Hospital Rd, Nairobi City",
+        "housenumber": "Hospital Rd, Nairobi City",
         "name": "National Construction Authority",
         "office": "government"
       },
@@ -3041,7 +3041,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5378425165",
-        "addr:housenumber": "Eagle Africa Centre, Longonot Rd, Nairobi",
+        "housenumber": "Eagle Africa Centre, Longonot Rd, Nairobi",
         "government": "yes",
         "name": "Energy Regulatory Commission",
         "office": "government"
@@ -3076,7 +3076,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5378545279",
-        "addr:housenumber": "Longonot Rd, Nairobi City",
+        "housenumber": "Longonot Rd, Nairobi City",
         "government": "insurance",
         "name": "Insurance Regulatory Authority",
         "office": "government"
@@ -3094,9 +3094,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5378551727",
-        "addr:city": "Nairobi",
-        "addr:housenumber": "P.O. Box: 30016-00100 Nairobi, Cathedral Rd, Nairobi City",
-        "addr:street": "Cathedral Road",
+        "city": "Nairobi",
+        "housenumber": "P.O. Box: 30016-00100 Nairobi, Cathedral Rd, Nairobi City",
+        "street": "Cathedral Road",
         "government": "healthcare",
         "name": "Ministry of medical Services",
         "office": "government"
@@ -3114,8 +3114,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5378551728",
-        "addr:city": "Nairobi",
-        "addr:street": "Cathedral Road",
+        "city": "Nairobi",
+        "street": "Cathedral Road",
         "government": "yes",
         "name": "Ministry Of Agriculture",
         "office": "government"
@@ -3133,9 +3133,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5378551748",
-        "addr:city": "Nairobi",
-        "addr:housenumber": "P. O. Box 49720",
-        "addr:street": "Ngong Road",
+        "city": "Nairobi",
+        "housenumber": "P. O. Box 49720",
+        "street": "Ngong Road",
         "government": "water",
         "name": "Ministry of Water",
         "office": "government"
@@ -3153,7 +3153,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5378551749",
-        "addr:housenumber": "5th Floor, NHIF Building, Ngong Rd, Nairobi",
+        "housenumber": "5th Floor, NHIF Building, Ngong Rd, Nairobi",
         "name": "Water Services Regulatory Board",
         "office": "government"
       },
@@ -3170,7 +3170,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5378551754",
-        "addr:housenumber": "NHIF Building,Ragati road,, Upper Hill Rd, Nairobi",
+        "housenumber": "NHIF Building,Ragati road,, Upper Hill Rd, Nairobi",
         "name": "Brand Kenya Board",
         "office": "government"
       },
@@ -3187,8 +3187,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5380567801",
-        "addr:city": "Nairobi",
-        "addr:street": "Kilimanjaro Avenue",
+        "city": "Nairobi",
+        "street": "Kilimanjaro Avenue",
         "government": "yes",
         "name": "Vision 2030 Delivery board",
         "office": "government"
@@ -3206,8 +3206,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5383782001",
-        "addr:city": "Nairobi",
-        "addr:street": "Ngong Road",
+        "city": "Nairobi",
+        "street": "Ngong Road",
         "name": "Ministry of Mining",
         "office": "government"
       },
@@ -3224,9 +3224,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5383782002",
-        "addr:city": "Nairobi",
-        "addr:housenumber": "Transcom House",
-        "addr:street": "Ngong Road",
+        "city": "Nairobi",
+        "housenumber": "Transcom House",
+        "street": "Ngong Road",
         "name": "Ministry of Transport, Infrastructure, Housing & Urban Development",
         "office": "government"
       },
@@ -3243,9 +3243,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5383782003",
-        "addr:city": "Nairobi",
-        "addr:housenumber": "Transcom House Annex, First Floor, Ngong Road,P.O.Box 30324, Nairobi",
-        "addr:street": "Ngong Road",
+        "city": "Nairobi",
+        "housenumber": "Transcom House Annex, First Floor, Ngong Road,P.O.Box 30324, Nairobi",
+        "street": "Ngong Road",
         "name": "Engineers Board of Kenya",
         "office": "government"
       },
@@ -3262,8 +3262,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5383782005",
-        "addr:city": "Nairobi",
-        "addr:street": "1st Ngong Avenue",
+        "city": "Nairobi",
+        "street": "1st Ngong Avenue",
         "name": "Kenya Medical Laboratory Technicians and Technologists Board (K.M.L.T.T.B)",
         "office": "government"
       },
@@ -3280,9 +3280,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5383793223",
-        "addr:city": "Nairobi",
-        "addr:housenumber": "10th Floor, NSSF Building, P. O. Box 30406, Nairobi",
-        "addr:street": "Ngong Road",
+        "city": "Nairobi",
+        "housenumber": "10th Floor, NSSF Building, P. O. Box 30406, Nairobi",
+        "street": "Ngong Road",
         "government": "yes",
         "name": "Kenya Dairy Board",
         "office": "government"
@@ -3300,9 +3300,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5383793224",
-        "addr:city": "Nairobi",
-        "addr:housenumber": "NSSF Building, P. O. Box 40326, Nairobi",
-        "addr:street": "Ngong Road",
+        "city": "Nairobi",
+        "housenumber": "NSSF Building, P. O. Box 40326, Nairobi",
+        "street": "Ngong Road",
         "name": "Ministry of Labour, Social Security and Services",
         "office": "government",
         "wikidata": "Q59536964"
@@ -3337,7 +3337,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5383793346",
-        "addr:housenumber": "Kenya Cancer Association",
+        "housenumber": "Kenya Cancer Association",
         "name": "Kenya Cancer Association",
         "office": "government"
       },
@@ -3402,9 +3402,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5401775753",
-        "addr:city": "Nairobi",
-        "addr:housenumber": "Mucai Drive, P.O. Box 79592, Nairobi",
-        "addr:street": "Mucai Drive",
+        "city": "Nairobi",
+        "housenumber": "Mucai Drive, P.O. Box 79592, Nairobi",
+        "street": "Mucai Drive",
         "name": "Local Authorities Provident Fund",
         "office": "government"
       },
@@ -3437,8 +3437,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5412286181",
-        "addr:city": "Nairobi",
-        "addr:street": "Ngong Road",
+        "city": "Nairobi",
+        "street": "Ngong Road",
         "name": "Kenya Flower Council",
         "office": "government"
       },
@@ -3455,9 +3455,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5412286199",
-        "addr:city": "Nairobi",
-        "addr:housenumber": "Morning Side Office Park, 4th Floor. Ngong Road Postal Address: P.O. Box 10501-00100,",
-        "addr:street": "Ngong Road",
+        "city": "Nairobi",
+        "housenumber": "Morning Side Office Park, 4th Floor. Ngong Road Postal Address: P.O. Box 10501-00100,",
+        "street": "Ngong Road",
         "name": "Kenya Community Development Foundation (KCDF)",
         "office": "government"
       },
@@ -3474,9 +3474,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5414008522",
-        "addr:city": "Nairobi",
-        "addr:housenumber": "Commodore Office Suites, Wood Ave,",
-        "addr:street": "Wood Avenue",
+        "city": "Nairobi",
+        "housenumber": "Commodore Office Suites, Wood Ave,",
+        "street": "Wood Avenue",
         "name": "Kenya Nutritionists & Dieticians Institute (KNDI)",
         "office": "government"
       },
@@ -3493,9 +3493,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5416191466",
-        "addr:city": "Nairobi",
-        "addr:housenumber": "Integrity House, P.O. Box 61130,",
-        "addr:street": "Valley Road",
+        "city": "Nairobi",
+        "housenumber": "Integrity House, P.O. Box 61130,",
+        "street": "Valley Road",
         "name": "Ethics and Anti - Corruption Commission",
         "office": "government"
       },
@@ -3578,8 +3578,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5496079243",
-        "addr:city": "Nairobi",
-        "addr:street": "Jogoo Road",
+        "city": "Nairobi",
+        "street": "Jogoo Road",
         "name": "Riftvalley Railways Field Office",
         "office": "government"
       },
@@ -3596,8 +3596,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5496593980",
-        "addr:city": "Nairobi",
-        "addr:street": "Ngara Road",
+        "city": "Nairobi",
+        "street": "Ngara Road",
         "government": "administrative",
         "name": "Chief's Office",
         "office": "government"
@@ -3632,9 +3632,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5555073752",
-        "addr:city": "Nairobi",
-        "addr:housenumber": "bRUCE hOUSE,",
-        "addr:street": "Standard Street",
+        "city": "Nairobi",
+        "housenumber": "bRUCE hOUSE,",
+        "street": "Standard Street",
         "government": "social_services",
         "name": "NSSF",
         "office": "government"
@@ -3652,8 +3652,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5555079933",
-        "addr:city": "Nairobi",
-        "addr:street": "Lt. Tumbo Drive",
+        "city": "Nairobi",
+        "street": "Lt. Tumbo Drive",
         "government": "statistics",
         "name": "Kenya National Bureau of Statistics",
         "office": "government"
@@ -3671,8 +3671,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5555704209",
-        "addr:city": "Nairobi",
-        "addr:street": "Haile Selassie Avenue",
+        "city": "Nairobi",
+        "street": "Haile Selassie Avenue",
         "government": "register_office",
         "name": "Huduma Centre City Square",
         "office": "government"
@@ -3690,8 +3690,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5580851606",
-        "addr:city": "Nairobi",
-        "addr:street": "Waiyaki Way",
+        "city": "Nairobi",
+        "street": "Waiyaki Way",
         "government": "administrative",
         "name": "Westlands District headquarters",
         "office": "government"
@@ -3747,7 +3747,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5588098801",
-        "addr:city": "Unoa",
+        "city": "Unoa",
         "description": "Deputy Governor Residence",
         "image": "https://mapkibera.github.io/counties/data/images/cache/5588098801/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524660296618jpg/orig.jpg",
         "name": "Deputy Governor Residence",
@@ -3808,7 +3808,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5588098806",
-        "addr:city": "Unoa urban",
+        "city": "Unoa urban",
         "description": "Prefab office - map",
         "image": "https://mapkibera.github.io/counties/data/images/cache/5588098806/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524661234663jpg/orig.jpg",
         "name": "Prefabs office - map",
@@ -3830,7 +3830,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5588098810",
-        "addr:city": "Unoa urban",
+        "city": "Unoa urban",
         "description": "Governor's Residence",
         "image": "https://mapkibera.github.io/counties/data/images/cache/5588098810/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524662522272jpg/orig.jpg",
         "name": "Governor's Residence",
@@ -4244,7 +4244,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5826749688",
-        "addr:postcode": "80100",
+        "postcode": "80100",
         "name": "KWS",
         "office": "government"
       },
@@ -4261,7 +4261,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5886553685",
-        "addr:street": "Juja Road",
+        "street": "Juja Road",
         "name": "Moi Air Base",
         "office": "government"
       },
@@ -4278,8 +4278,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6009884493",
-        "addr:city": "Mombasa",
-        "addr:street": "Tom Mboya road",
+        "city": "Mombasa",
+        "street": "Tom Mboya road",
         "name": "Department Of Inspectorate Headquaters Mombasa County Governament",
         "office": "government"
       },
@@ -4296,8 +4296,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6048461264",
-        "addr:city": "Mombasa",
-        "addr:street": "Mwinyi Mpate Street",
+        "city": "Mombasa",
+        "street": "Mwinyi Mpate Street",
         "name": "National Construction Authority, Kenya (Coast Regional Office)",
         "office": "government"
       },
@@ -4314,8 +4314,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6054335986",
-        "addr:city": "Mombasa",
-        "addr:street": "Machakos Street",
+        "city": "Mombasa",
+        "street": "Machakos Street",
         "name": "National Hospital Insurance Fund-Mombasa Office.",
         "office": "government"
       },
@@ -4332,8 +4332,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6054910408",
-        "addr:city": "Kenya",
-        "addr:street": "Lungalunga-Mtandikeni Road",
+        "city": "Kenya",
+        "street": "Lungalunga-Mtandikeni Road",
         "name": "KRA Horo Horo",
         "office": "government"
       },
@@ -4350,9 +4350,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6063334510",
-        "addr:city": "Kiambu",
-        "addr:housenumber": "Njengi Plaza,",
-        "addr:street": "Rongai Market Road",
+        "city": "Kiambu",
+        "housenumber": "Njengi Plaza,",
+        "street": "Rongai Market Road",
         "name": "National Hospital Insurance Fund-Limuru",
         "office": "government"
       },
@@ -4369,8 +4369,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6079543967",
-        "addr:city": "Homa Bay",
-        "addr:street": "Homa Bay-Mbita Road",
+        "city": "Homa Bay",
+        "street": "Homa Bay-Mbita Road",
         "name": "Waondo Sub-Location",
         "office": "government"
       },
@@ -4387,8 +4387,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6102845256",
-        "addr:city": "Kisii",
-        "addr:street": "B3",
+        "city": "Kisii",
+        "street": "B3",
         "name": "Kisii County Government",
         "office": "government"
       },
@@ -4405,8 +4405,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6105571218",
-        "addr:city": "Keroka",
-        "addr:street": "B3",
+        "city": "Keroka",
+        "street": "B3",
         "name": "Keroka Council",
         "office": "government"
       },
@@ -4423,8 +4423,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6105994796",
-        "addr:city": "Sotik",
-        "addr:street": "Kapkures Road",
+        "city": "Sotik",
+        "street": "Kapkures Road",
         "name": "Sotik Sub County Offices",
         "office": "government"
       },
@@ -4441,8 +4441,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6105994803",
-        "addr:city": "Sotik",
-        "addr:street": "B3",
+        "city": "Sotik",
+        "street": "B3",
         "name": "Sotik Law Courts",
         "office": "government"
       },
@@ -4459,8 +4459,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6116638320",
-        "addr:city": "Kabuku",
-        "addr:street": "Ngecha-Kabuku Road",
+        "city": "Kabuku",
+        "street": "Ngecha-Kabuku Road",
         "name": "Kabuku Chief's Camp",
         "office": "government"
       },
@@ -4477,8 +4477,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6123274404",
-        "addr:city": "Kisumu",
-        "addr:street": "Achieng Oneko Road",
+        "city": "Kisumu",
+        "street": "Achieng Oneko Road",
         "name": "State House - Milimani",
         "office": "government"
       },
@@ -4495,8 +4495,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6134851700",
-        "addr:city": "Meru",
-        "addr:street": "Meru-Nairobi Highway",
+        "city": "Meru",
+        "street": "Meru-Nairobi Highway",
         "name": "Kenya National Library Services-Meru",
         "office": "government"
       },
@@ -4513,8 +4513,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6134851702",
-        "addr:city": "Meru",
-        "addr:street": "Meru-Nairobi Highway",
+        "city": "Meru",
+        "street": "Meru-Nairobi Highway",
         "name": "Meru County Transport System",
         "office": "government"
       },
@@ -4531,8 +4531,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6134851703",
-        "addr:city": "Meru",
-        "addr:street": "Meru-Nairobi Highway",
+        "city": "Meru",
+        "street": "Meru-Nairobi Highway",
         "name": "Meru County Assembly",
         "office": "government"
       },
@@ -4549,8 +4549,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6134851704",
-        "addr:city": "Meru",
-        "addr:street": "Meru-Nairobi Highway",
+        "city": "Meru",
+        "street": "Meru-Nairobi Highway",
         "name": "Meru Law Courts",
         "office": "government"
       },
@@ -4599,8 +4599,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6142631950",
-        "addr:city": "Meru",
-        "addr:street": "Meru-Maua Road",
+        "city": "Meru",
+        "street": "Meru-Maua Road",
         "name": "Tigania Magistrate's Court - Kirindine",
         "office": "government"
       },
@@ -4617,8 +4617,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6144610319",
-        "addr:city": "Nkubu",
-        "addr:street": "Meru-Nairobi Highway",
+        "city": "Nkubu",
+        "street": "Meru-Nairobi Highway",
         "name": "Kariene Chief Camp",
         "office": "government"
       },
@@ -4635,8 +4635,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6147580906",
-        "addr:city": "Eldoret",
-        "addr:street": "Eldoret -Webuye - Malaba Road",
+        "city": "Eldoret",
+        "street": "Eldoret -Webuye - Malaba Road",
         "name": "Kenya Ports Authority",
         "office": "government"
       },
@@ -4653,8 +4653,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6149305095",
-        "addr:city": "Eldoret",
-        "addr:street": "Sirikwa Road",
+        "city": "Eldoret",
+        "street": "Sirikwa Road",
         "name": "Huduma Center Eldoret",
         "office": "government"
       },
@@ -4671,8 +4671,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6149305105",
-        "addr:city": "Eldoret",
-        "addr:street": "Oloo Street",
+        "city": "Eldoret",
+        "street": "Oloo Street",
         "name": "Chief Magistrate's Court - Eldoret",
         "office": "government"
       },
@@ -4689,8 +4689,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6149305106",
-        "addr:city": "Eldoret",
-        "addr:street": "Oloo Street",
+        "city": "Eldoret",
+        "street": "Oloo Street",
         "name": "District Head Quarters",
         "office": "government"
       },
@@ -4707,8 +4707,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6149305107",
-        "addr:city": "Eldoret",
-        "addr:street": "Oloo Street",
+        "city": "Eldoret",
+        "street": "Oloo Street",
         "name": "Uasin Gishu County Commissioner's Office",
         "office": "government"
       },
@@ -4725,8 +4725,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6149305112",
-        "addr:city": "Eldoret",
-        "addr:street": "Elgeyo Road",
+        "city": "Eldoret",
+        "street": "Elgeyo Road",
         "name": "Kerio Valley Development Authority.",
         "office": "government"
       },
@@ -4743,8 +4743,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6207376786",
-        "addr:city": "Ruiru",
-        "addr:street": "Ruiru Kamiti Road",
+        "city": "Ruiru",
+        "street": "Ruiru Kamiti Road",
         "name": "District Office Headquaters",
         "office": "government"
       },
@@ -4761,8 +4761,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6208217399",
-        "addr:city": "Nairobi",
-        "addr:street": "Mombasa Road",
+        "city": "Nairobi",
+        "street": "Mombasa Road",
         "name": "Kenya Bureau of Standards-I.C.D Office",
         "office": "government"
       },
@@ -4779,8 +4779,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6212995382",
-        "addr:city": "Saba Saba",
-        "addr:street": "C71",
+        "city": "Saba Saba",
+        "street": "C71",
         "name": "Kaharati",
         "office": "government"
       },
@@ -4797,8 +4797,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6213154943",
-        "addr:city": "Murang'a",
-        "addr:street": "Muranga",
+        "city": "Murang'a",
+        "street": "Muranga",
         "name": "Murang’A Law Courts",
         "office": "government"
       },
@@ -4815,8 +4815,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6213154944",
-        "addr:city": "Murang'a",
-        "addr:street": "Muranga",
+        "city": "Murang'a",
+        "street": "Muranga",
         "name": "COUNTY ASSEMBLY OF MURANG'A",
         "office": "government"
       },
@@ -4833,8 +4833,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6213154945",
-        "addr:city": "Murang'a",
-        "addr:street": "Muranga",
+        "city": "Murang'a",
+        "street": "Muranga",
         "name": "Murang'a County Education Offices",
         "office": "government"
       },
@@ -4851,8 +4851,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6213275406",
-        "addr:city": "Sagana",
-        "addr:street": "C71",
+        "city": "Sagana",
+        "street": "C71",
         "name": "Sagana Town Council Offices",
         "office": "government"
       },
@@ -4869,8 +4869,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6215733423",
-        "addr:city": "Karatina",
-        "addr:street": "A2",
+        "city": "Karatina",
+        "street": "A2",
         "name": "Karatina Town Hall",
         "office": "government"
       },
@@ -4887,8 +4887,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6218487550",
-        "addr:city": "Kiserian",
-        "addr:street": "Forest Line Road",
+        "city": "Kiserian",
+        "street": "Forest Line Road",
         "name": "IEBC Voter Registration Office, Oloosurutia ACK Church",
         "office": "government"
       },
@@ -4920,8 +4920,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6229375921",
-        "addr:city": "Machakos",
-        "addr:street": "Chumvi-Machakos-Kitui Road",
+        "city": "Machakos",
+        "street": "Chumvi-Machakos-Kitui Road",
         "government": "roads",
         "name": "Kenya Rural Roads Authority",
         "office": "government"
@@ -4956,8 +4956,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6229376429",
-        "addr:city": "Machakos",
-        "addr:street": "Mwatu Wa Ngoma Street",
+        "city": "Machakos",
+        "street": "Mwatu Wa Ngoma Street",
         "government": "town_council",
         "name": "County Council Of Machakos, Municipal Court",
         "office": "government"
@@ -4975,8 +4975,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6229376430",
-        "addr:city": "Machakos",
-        "addr:street": "Mwatu Wa Ngoma Street",
+        "city": "Machakos",
+        "street": "Mwatu Wa Ngoma Street",
         "government": "law",
         "name": "The State Law Office",
         "office": "government"
@@ -4994,8 +4994,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6229376431",
-        "addr:city": "Machakos",
-        "addr:street": "Mwatu Wa Ngoma Street",
+        "city": "Machakos",
+        "street": "Mwatu Wa Ngoma Street",
         "government": "administrative",
         "name": "District Commisioners Office",
         "office": "government"
@@ -5012,8 +5012,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6229376434",
-        "addr:city": "Machakos",
-        "addr:street": "Mwatu Wa Ngoma Street",
+        "city": "Machakos",
+        "street": "Mwatu Wa Ngoma Street",
         "government": "legislative",
         "name": "Machakos County Assembly",
         "office": "government"
@@ -5031,8 +5031,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6229376465",
-        "addr:city": "Machakos",
-        "addr:street": "Mbolu Malu Road",
+        "city": "Machakos",
+        "street": "Mbolu Malu Road",
         "government": "social_welfare",
         "name": "Machakos Huduma center",
         "office": "government"
@@ -5050,7 +5050,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6229624429",
-        "addr:street": "Mombasa Road",
+        "street": "Mombasa Road",
         "name": "Mukaa District Headquarters",
         "office": "government"
       },
@@ -5067,8 +5067,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6232739171",
-        "addr:city": "Makindu",
-        "addr:street": "Mombasa Road",
+        "city": "Makindu",
+        "street": "Mombasa Road",
         "name": "Road Works Office",
         "office": "government"
       },
@@ -5085,8 +5085,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6232744912",
-        "addr:city": "Kathonzweni",
-        "addr:street": "Wote-Makindu Road",
+        "city": "Kathonzweni",
+        "street": "Wote-Makindu Road",
         "name": "Kathonzweni District Headquartes",
         "office": "government"
       },
@@ -5103,8 +5103,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6232984103",
-        "addr:city": "Namanga",
-        "addr:street": "Athi River-Namanga Road",
+        "city": "Namanga",
+        "street": "Athi River-Namanga Road",
         "government": "tax",
         "name": "Kenya Bureau of Standards-Namanga",
         "office": "government"
@@ -5122,8 +5122,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6236062019",
-        "addr:city": "Bungoma",
-        "addr:street": "Eldoret Road",
+        "city": "Bungoma",
+        "street": "Eldoret Road",
         "government": "transportation",
         "name": "Bungoma Motor Vehicle Inspection Station",
         "office": "government"
@@ -5141,8 +5141,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6236068240",
-        "addr:city": "Kitui",
-        "addr:street": "2 Kwa Ngendu",
+        "city": "Kitui",
+        "street": "2 Kwa Ngendu",
         "name": "Kitui County Goverment - Co-operatives",
         "office": "government"
       },
@@ -5159,8 +5159,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6236190348",
-        "addr:city": "Bungoma",
-        "addr:street": "Moi Avenue",
+        "city": "Bungoma",
+        "street": "Moi Avenue",
         "name": "Ministry of Agriculture,Livestock & Fisheries",
         "office": "government"
       },
@@ -5177,8 +5177,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6241377502",
-        "addr:city": "Ol Kalou",
-        "addr:street": "Gilgil-Nyahururu",
+        "city": "Ol Kalou",
+        "street": "Gilgil-Nyahururu",
         "name": "Nyandarua Governors Office Olkalou",
         "office": "government"
       },
@@ -5195,8 +5195,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6241377503",
-        "addr:city": "Ol Kalou",
-        "addr:street": "Gilgil-Nyahururu",
+        "city": "Ol Kalou",
+        "street": "Gilgil-Nyahururu",
         "name": "Nyandarua County Assembly",
         "office": "government"
       },
@@ -5213,8 +5213,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6241664255",
-        "addr:city": "Nyahururu",
-        "addr:street": "Gilgil-Nyahururu Road",
+        "city": "Nyahururu",
+        "street": "Gilgil-Nyahururu Road",
         "name": "Nyandarua County Council A.I Centre",
         "office": "government"
       },
@@ -5231,8 +5231,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6249063858",
-        "addr:city": "Nairobi",
-        "addr:street": "Kasarani Mwiki Road",
+        "city": "Nairobi",
+        "street": "Kasarani Mwiki Road",
         "government": "administrative",
         "name": "Kasarani Chief's Camp",
         "office": "government"
@@ -5250,8 +5250,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6249159839",
-        "addr:city": "Isiolo",
-        "addr:street": "Hospital Road",
+        "city": "Isiolo",
+        "street": "Hospital Road",
         "name": "Isiolo County Government",
         "office": "government"
       },
@@ -5268,8 +5268,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6249718145",
-        "addr:city": "Wajir",
-        "addr:street": "Isiolo-Mandera Road",
+        "city": "Wajir",
+        "street": "Isiolo-Mandera Road",
         "name": "Wagberi Ward Administrative Office",
         "office": "government"
       },
@@ -5286,7 +5286,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6249718149",
-        "addr:city": "Wajir",
+        "city": "Wajir",
         "name": "Wajir County Public Works Office",
         "office": "government"
       },
@@ -5303,7 +5303,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6249718398",
-        "addr:city": "Garissa",
+        "city": "Garissa",
         "name": "Provincial Headquarters",
         "office": "government"
       },
@@ -5320,8 +5320,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6249718405",
-        "addr:city": "Garissa",
-        "addr:street": "Harambee Road",
+        "city": "Garissa",
+        "street": "Harambee Road",
         "name": "Kenya Bureau of Standards - North Eastern Region",
         "office": "government"
       },
@@ -5338,8 +5338,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6251561073",
-        "addr:city": "Muguga",
-        "addr:street": "Kikuyu - Nderi Road",
+        "city": "Muguga",
+        "street": "Kikuyu - Nderi Road",
         "name": "Kikuyu Town Hall",
         "office": "government"
       },
@@ -5372,8 +5372,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6263511589",
-        "addr:city": "Lodwar",
-        "addr:street": "Kapenguria-Lodwar Road",
+        "city": "Lodwar",
+        "street": "Kapenguria-Lodwar Road",
         "name": "Ministry of Lands,Physical Plann",
         "office": "government"
       },
@@ -5390,8 +5390,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6263511590",
-        "addr:city": "Lodwar",
-        "addr:street": "Kapenguria-Lodwar Road",
+        "city": "Lodwar",
+        "street": "Kapenguria-Lodwar Road",
         "name": "Turkana County Government",
         "office": "government"
       },
@@ -5559,8 +5559,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6785929482",
-        "addr:city": "Lamu",
-        "addr:street": "Corniche Path",
+        "city": "Lamu",
+        "street": "Corniche Path",
         "name": "County Fisheries Office",
         "office": "government"
       },
@@ -5723,7 +5723,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6860231556",
-        "addr:city": "Embu",
+        "city": "Embu",
         "name": "NTSA Vehicle Inspection",
         "office": "government"
       },
@@ -5740,8 +5740,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6860253196",
-        "addr:city": "Embu",
-        "addr:street": "Embu-Nairobi Highway",
+        "city": "Embu",
+        "street": "Embu-Nairobi Highway",
         "name": "Embu County Government",
         "office": "government"
       },
@@ -5774,7 +5774,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6878395985",
-        "addr:city": "Chuka",
+        "city": "Chuka",
         "name": "Municipal Head Office",
         "office": "government"
       },
@@ -6664,8 +6664,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6934958825",
-        "addr:city": "Amagoro",
-        "addr:street": "Eldoret Road",
+        "city": "Amagoro",
+        "street": "Eldoret Road",
         "name": "Amagoro District Headquarters",
         "office": "government"
       },
@@ -6682,8 +6682,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6934958832",
-        "addr:city": "Malaba",
-        "addr:street": "A104",
+        "city": "Malaba",
+        "street": "A104",
         "name": "Malaba Kenya Immigration Offices",
         "office": "government"
       },
@@ -6769,8 +6769,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7222729628",
-        "addr:city": "Yala",
-        "addr:street": "Kisumu-Busia Highway",
+        "city": "Yala",
+        "street": "Kisumu-Busia Highway",
         "name": "Yala Town Council Offices",
         "office": "government"
       },
@@ -6787,8 +6787,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7227297577",
-        "addr:city": "Kisumu",
-        "addr:street": "Kisumu-Busia Road",
+        "city": "Kisumu",
+        "street": "Kisumu-Busia Road",
         "name": "Green Zone Agencies",
         "office": "government"
       },
@@ -6805,8 +6805,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7263817389",
-        "addr:city": "Marsabit",
-        "addr:street": "Marsabit-Moyale Road",
+        "city": "Marsabit",
+        "street": "Marsabit-Moyale Road",
         "name": "Marsabit County Headquaters",
         "office": "government"
       },
@@ -6840,7 +6840,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7800531986",
-        "addr:street": "Chebororwa",
+        "street": "Chebororwa",
         "name": "Chiefs office",
         "name:en": "Chiefs office, Chebororwa",
         "office": "government"
@@ -6858,8 +6858,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7931233352",
-        "addr:city": "Kwale",
-        "addr:street": "Ukunda-Ramisi Road",
+        "city": "Kwale",
+        "street": "Ukunda-Ramisi Road",
         "name": "Kwale County Office",
         "office": "government"
       },
@@ -7104,8 +7104,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8039934772",
-        "addr:city": "Embu",
-        "addr:street": "Embu - Siakago Road",
+        "city": "Embu",
+        "street": "Embu - Siakago Road",
         "name": "Embu Social Works",
         "office": "government"
       },
@@ -7155,9 +7155,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8299575546",
-        "addr:city": "Embu",
-        "addr:housenumber": "1930",
-        "addr:postcode": "60100",
+        "city": "Embu",
+        "housenumber": "1930",
+        "postcode": "60100",
         "government": "yes",
         "name": "Water Resources Authority Tana Basin Area",
         "office": "government",
@@ -7479,7 +7479,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8932655418",
-        "addr:street": "Bondo - Misori Road",
+        "street": "Bondo - Misori Road",
         "name": "Amuoyo chief's Office",
         "office": "government",
         "opening_hours": "Mo-Su 09:00-18:00"
@@ -7497,7 +7497,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8932781617",
-        "addr:street": "Bondo - Misori Road",
+        "street": "Bondo - Misori Road",
         "name": "Chief's Office Manywanda",
         "office": "government"
       },
@@ -7631,7 +7631,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/9844921017",
-        "addr:street": "Nakuru-Sigor Road",
+        "street": "Nakuru-Sigor Road",
         "name": "Nakuru public works offices",
         "office": "government"
       },
