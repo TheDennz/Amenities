@@ -8,8 +8,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/123458426",
-        "addr:city": "Nairobi",
-        "addr:street": "Harambee Avenue",
+        "city": "Nairobi",
+        "street": "Harambee Avenue",
         "amenity": "police",
         "building": "yes",
         "building:levels": "15",
@@ -58,8 +58,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/134820013",
-        "addr:city": "Nairobi",
-        "addr:street": "Thika Road",
+        "city": "Nairobi",
+        "street": "Thika Road",
         "amenity": "police",
         "barrier": "fence",
         "landuse": "military",
@@ -110,8 +110,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/179573458",
-        "addr:city": "Eldoret",
-        "addr:street": "Eldoret -Webuye - Malaba Road",
+        "city": "Eldoret",
+        "street": "Eldoret -Webuye - Malaba Road",
         "amenity": "police",
         "name": "Kenya Police Divisional Head Quarters",
         "source": "Bing"
@@ -297,8 +297,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/301888935",
-        "addr:city": "Meru",
-        "addr:street": "Meru-Nairobi Highway",
+        "city": "Meru",
+        "street": "Meru-Nairobi Highway",
         "amenity": "police",
         "name": "Meru Central Police Station",
         "wheelchair": "yes"
@@ -331,8 +331,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/332129955",
-        "addr:city": "Athi River",
-        "addr:street": "Jua Kali Road",
+        "city": "Athi River",
+        "street": "Jua Kali Road",
         "amenity": "police",
         "name": "Kitengela Police Station"
       },
@@ -379,7 +379,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/364301185",
-        "addr:city": "wajir",
+        "city": "wajir",
         "amenity": "police",
         "name": "Wajir AP Camp"
       },
@@ -395,7 +395,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/364301190",
-        "addr:city": "Wajir",
+        "city": "Wajir",
         "amenity": "police",
         "name": "Wajir Police Camp"
       },
@@ -516,7 +516,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/367397637",
-        "addr:street": "Habaswein-Dadaab Road",
+        "street": "Habaswein-Dadaab Road",
         "amenity": "police",
         "name": "Sabuli AP Camp"
       },
@@ -592,8 +592,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/368769524",
-        "addr:city": "Mumias",
-        "addr:street": "Mumias-Bungoma Road",
+        "city": "Mumias",
+        "street": "Mumias-Bungoma Road",
         "amenity": "police",
         "name": "Mumias Police Station"
       },
@@ -609,8 +609,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/369553349",
-        "addr:city": "Juja",
-        "addr:street": "Thika Road",
+        "city": "Juja",
+        "street": "Thika Road",
         "amenity": "police",
         "name": "Juja Police"
       },
@@ -707,7 +707,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/442365327",
-        "addr:street": "Garissa-Daadab Road",
+        "street": "Garissa-Daadab Road",
         "amenity": "police",
         "name": "Kambioos Police Compound",
         "source": "http://data.unhcr.org/horn-of-africa/download.php?id=1352"
@@ -724,7 +724,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/453833529",
-        "addr:street": "Gatundu-Kinare Road",
+        "street": "Gatundu-Kinare Road",
         "amenity": "police",
         "building": "yes",
         "name": "Gatundu Police Station"
@@ -758,8 +758,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/488566552",
-        "addr:city": "Nakuru",
-        "addr:street": "Oginga Odinga Avenue",
+        "city": "Nakuru",
+        "street": "Oginga Odinga Avenue",
         "amenity": "police",
         "building": "yes",
         "name": "Central Police"
@@ -776,8 +776,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/493371628",
-        "addr:city": "Nakuru",
-        "addr:street": "Oginga Odinga Avenue",
+        "city": "Nakuru",
+        "street": "Oginga Odinga Avenue",
         "amenity": "police",
         "building": "yes",
         "name": "Police Provincial Headquaters"
@@ -794,8 +794,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/551950348",
-        "addr:city": "Kiambu",
-        "addr:street": "Kiambu Road",
+        "city": "Kiambu",
+        "street": "Kiambu Road",
         "amenity": "police",
         "name": "Kiambu Police Station"
       },
@@ -827,8 +827,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/567488186",
-        "addr:city": "Bungoma",
-        "addr:street": "Moi Avenue",
+        "city": "Bungoma",
+        "street": "Moi Avenue",
         "amenity": "police",
         "name": "Bungoma Police Station"
       },
@@ -844,8 +844,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/572001801",
-        "addr:city": "Nairobi",
-        "addr:street": "Eastlands Crescent",
+        "city": "Nairobi",
+        "street": "Eastlands Crescent",
         "amenity": "police",
         "building": "yes",
         "name": "Jogoo Road Police Station"
@@ -862,8 +862,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/577090018",
-        "addr:city": "Nairobi",
-        "addr:street": "Parklands Road",
+        "city": "Nairobi",
+        "street": "Parklands Road",
         "amenity": "police",
         "building": "yes",
         "name": "Parklands Police Station"
@@ -927,7 +927,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/644904065",
-        "addr:street": "Githiga-Uplands Road",
+        "street": "Githiga-Uplands Road",
         "amenity": "police",
         "building": "yes",
         "name": "Kinungu AP Post"
@@ -944,8 +944,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/644904157",
-        "addr:city": "Githunguri",
-        "addr:street": "Kiambu Road",
+        "city": "Githunguri",
+        "street": "Kiambu Road",
         "amenity": "police",
         "building": "yes",
         "name": "Githunguri Police Station"
@@ -962,8 +962,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/652450296",
-        "addr:city": "Limuru",
-        "addr:street": "Kabuku-Tigoni Road",
+        "city": "Limuru",
+        "street": "Kabuku-Tigoni Road",
         "amenity": "police",
         "building": "yes",
         "name": "Tigoni Police Station"
@@ -980,8 +980,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/655540076",
-        "addr:city": "Nairobi",
-        "addr:street": "James Gichuru Road",
+        "city": "Nairobi",
+        "street": "James Gichuru Road",
         "amenity": "police",
         "name": "Muthangari Police Station"
       },
@@ -1012,8 +1012,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/665548971",
-        "addr:city": "Kyumvi",
-        "addr:street": "Mombasa Road",
+        "city": "Kyumvi",
+        "street": "Mombasa Road",
         "amenity": "police",
         "name": "Kyumbi Police Station"
       },
@@ -1029,8 +1029,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/667417170",
-        "addr:city": "Nairobi",
-        "addr:street": "Kasarani Mwiki Road",
+        "city": "Nairobi",
+        "street": "Kasarani Mwiki Road",
         "amenity": "police",
         "building": "yes",
         "name": "Kasarani Police Station"
@@ -1047,8 +1047,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/686180590",
-        "addr:city": "Nairobi",
-        "addr:street": "Juja Road",
+        "city": "Nairobi",
+        "street": "Juja Road",
         "amenity": "police",
         "building": "yes",
         "name": "Pangani Police Station"
@@ -1065,8 +1065,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/738572541",
-        "addr:city": "Nakuru",
-        "addr:street": "Nairobi Road",
+        "city": "Nakuru",
+        "street": "Nairobi Road",
         "amenity": "police",
         "name": "G. S. U. Molo Camp"
       },
@@ -1230,8 +1230,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/30402254",
-        "addr:city": "Nairobi",
-        "addr:street": "Parklands Road",
+        "city": "Nairobi",
+        "street": "Parklands Road",
         "amenity": "police",
         "name": "Parklands Police Station",
         "toilets:wheelchair": "no",
@@ -1267,8 +1267,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/30694169",
-        "addr:city": "Nairobi",
-        "addr:street": "Jabavu Road",
+        "city": "Nairobi",
+        "street": "Jabavu Road",
         "amenity": "police",
         "name": "Kilimani Divisional Police Station"
       },
@@ -1318,8 +1318,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/293340273",
-        "addr:city": "Nairobi",
-        "addr:street": "Langata Road",
+        "city": "Nairobi",
+        "street": "Langata Road",
         "amenity": "police",
         "name": "Langata Police Station"
       },
@@ -1336,8 +1336,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/521104963",
-        "addr:city": "Ongata Rongai",
-        "addr:street": "Magadi Road",
+        "city": "Ongata Rongai",
+        "street": "Magadi Road",
         "amenity": "police",
         "name": "Rongai Police Station"
       },
@@ -1354,8 +1354,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/526772044",
-        "addr:city": "Naivasha",
-        "addr:street": "Moi South Lake Road",
+        "city": "Naivasha",
+        "street": "Moi South Lake Road",
         "amenity": "police"
       },
       "geometry": {
@@ -1466,8 +1466,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/650331913",
-        "addr:city": "Mombasa",
-        "addr:street": "Malindi Road",
+        "city": "Mombasa",
+        "street": "Malindi Road",
         "amenity": "police",
         "name": "Bamburi Police Station"
       },
@@ -1484,7 +1484,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/695644743",
-        "addr:housenumber": "Forest View Rd, Nairobi",
+        "housenumber": "Forest View Rd, Nairobi",
         "amenity": "police",
         "name": "Karen Plains Police Post"
       },
@@ -1519,7 +1519,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/714721606",
-        "addr:street": "Tembo Road",
+        "street": "Tembo Road",
         "amenity": "police",
         "name": "Hardy Police Station"
       },
@@ -1584,7 +1584,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/824518746",
-        "addr:street": "Woodvale Close",
+        "street": "Woodvale Close",
         "amenity": "police",
         "name": "Evergreen Police Post"
       },
@@ -1853,8 +1853,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/1456853163",
-        "addr:city": "Ukunda",
-        "addr:street": "Ukunda-Ramisi Road",
+        "city": "Ukunda",
+        "street": "Ukunda-Ramisi Road",
         "amenity": "police",
         "name": "Diani police station"
       },
@@ -1919,8 +1919,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/1719682551",
-        "addr:city": "Msambweni",
-        "addr:street": "Ukunda-Ramisi Road",
+        "city": "Msambweni",
+        "street": "Ukunda-Ramisi Road",
         "amenity": "police",
         "name": "Msambweni Police Station"
       },
@@ -2116,7 +2116,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/2153144560",
-        "addr:street": "p.o box 81 Molo",
+        "street": "p.o box 81 Molo",
         "amenity": "police",
         "name": "Kuresoi police station",
         "project:eurosha_2012": "yes",
@@ -2155,8 +2155,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/2294713152",
-        "addr:city": "Mombasa",
-        "addr:street": "Moyne Dr  Road",
+        "city": "Mombasa",
+        "street": "Moyne Dr  Road",
         "amenity": "police",
         "name": "Nyali Police Station"
       },
@@ -2223,8 +2223,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/2393778892",
-        "addr:city": "Kericho",
-        "addr:street": "Kericho-Kisumu Highway",
+        "city": "Kericho",
+        "street": "Kericho-Kisumu Highway",
         "amenity": "police",
         "name": "Kericho Police Station"
       },
@@ -2241,9 +2241,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/2510990017",
-        "addr:city": "Nairobi",
-        "addr:postcode": "00100",
-        "addr:street": "Kiambu Road",
+        "city": "Nairobi",
+        "postcode": "00100",
+        "street": "Kiambu Road",
         "alt_name": "DCI Headquarters",
         "amenity": "police",
         "name": "Kenya Police Directorate of Criminal Investigations Headquarters",
@@ -2262,8 +2262,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/2667395056",
-        "addr:city": "Eldoret",
-        "addr:postcode": "30100",
+        "city": "Eldoret",
+        "postcode": "30100",
         "amenity": "police",
         "name": "AP Residence"
       },
@@ -2390,8 +2390,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/3032456393",
-        "addr:city": "Buruburu",
-        "addr:street": "Mumias South Road",
+        "city": "Buruburu",
+        "street": "Mumias South Road",
         "amenity": "police",
         "name": "Buruburu Police Station",
         "toilets:wheelchair": "no",
@@ -2426,8 +2426,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/3281773317",
-        "addr:city": "Mbita",
-        "addr:street": "Homa Bay-Mbita Road",
+        "city": "Mbita",
+        "street": "Homa Bay-Mbita Road",
         "amenity": "police",
         "name": "Kenya Police Divisional Police Headquarters"
       },
@@ -2582,8 +2582,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/3283812029",
-        "addr:city": "Isiolo",
-        "addr:street": "Hospital Road",
+        "city": "Isiolo",
+        "street": "Hospital Road",
         "amenity": "police",
         "governance:facility_type": "administrative",
         "governance:operator": "govt",
@@ -2677,7 +2677,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/3486537514",
-        "addr:city": "Voi",
+        "city": "Voi",
         "amenity": "police",
         "name": "Voi Police Station"
       },
@@ -2760,8 +2760,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/3680038355",
-        "addr:city": "Wajir",
-        "addr:street": "Wajir-Moyale road",
+        "city": "Wajir",
+        "street": "Wajir-Moyale road",
         "amenity": "police",
         "name": "Wajir Police",
         "opening_hours": "24/7",
@@ -3068,8 +3068,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/3702721561",
-        "addr:city": "Tarbaj",
-        "addr:street": "Isiolo-Mandera Road",
+        "city": "Tarbaj",
+        "street": "Isiolo-Mandera Road",
         "amenity": "police",
         "name": "Tarbaj AP Camp"
       },
@@ -3296,8 +3296,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/3742308076",
-        "addr:city": "Kathonzweni",
-        "addr:street": "Wote-Makindu Road",
+        "city": "Kathonzweni",
+        "street": "Wote-Makindu Road",
         "amenity": "police",
         "name": "Kavumbu Police station"
       },
@@ -3330,8 +3330,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/4326544573",
-        "addr:city": "Kikuyu",
-        "addr:street": "Post Office Road",
+        "city": "Kikuyu",
+        "street": "Post Office Road",
         "amenity": "police",
         "name": "Kikuyu Police Station"
       },
@@ -3364,8 +3364,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/4581740731",
-        "addr:city": "Kiganjo",
-        "addr:street": "Nyeri-Nyahururu Road",
+        "city": "Kiganjo",
+        "street": "Nyeri-Nyahururu Road",
         "amenity": "police",
         "name": "Kiganjo police training college"
       },
@@ -3382,7 +3382,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/4582161391",
-        "addr:street": "Makina, round about",
+        "street": "Makina, round about",
         "amenity": "police",
         "email": "squaremasters@gmail.com",
         "name": "Square Masters Entertainment",
@@ -3688,8 +3688,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5181243928",
-        "addr:city": "Kivaa",
-        "addr:street": "Embu - Siakago Road",
+        "city": "Kivaa",
+        "street": "Embu - Siakago Road",
         "amenity": "police",
         "name": "Administration Police Camp"
       },
@@ -3836,7 +3836,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5343359897",
-        "addr:city": "Nairobi",
+        "city": "Nairobi",
         "amenity": "police",
         "name": "Thome Police Post"
       },
@@ -3853,8 +3853,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5347879960",
-        "addr:city": "Nanyuki",
-        "addr:street": "A2",
+        "city": "Nanyuki",
+        "street": "A2",
         "amenity": "police",
         "name": "Nanyuki Police Station"
       },
@@ -3871,7 +3871,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5352933506",
-        "addr:housenumber": "Acacia Dr, Nairobi",
+        "housenumber": "Acacia Dr, Nairobi",
         "amenity": "police",
         "name": "Runda Police Station"
       },
@@ -3999,8 +3999,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5448172430",
-        "addr:city": "Turbi",
-        "addr:street": "Marsabit-Moyale Road",
+        "city": "Turbi",
+        "street": "Marsabit-Moyale Road",
         "amenity": "police",
         "name": "Police Divisional HQS"
       },
@@ -4048,8 +4048,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5482421934",
-        "addr:city": "Nairobi",
-        "addr:street": "Bondo Street",
+        "city": "Nairobi",
+        "street": "Bondo Street",
         "amenity": "police",
         "name": "Shauri Moyo Police Station"
       },
@@ -4066,8 +4066,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5496066104",
-        "addr:city": "Nairobi",
-        "addr:street": "Jogoo Road",
+        "city": "Nairobi",
+        "street": "Jogoo Road",
         "amenity": "police",
         "name": "Makongeni Police Station"
       },
@@ -4084,9 +4084,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5496079319",
-        "addr:city": "Nairobi",
-        "addr:housenumber": "Eastliegh,",
-        "addr:street": "Eldoret Road",
+        "city": "Nairobi",
+        "housenumber": "Eastliegh,",
+        "street": "Eldoret Road",
         "amenity": "police",
         "name": "Kenya Police"
       },
@@ -4103,9 +4103,9 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5555074031",
-        "addr:city": "Nairobi",
-        "addr:housenumber": "Vigilance House,",
-        "addr:street": "Harambee Avenue",
+        "city": "Nairobi",
+        "housenumber": "Vigilance House,",
+        "street": "Harambee Avenue",
         "amenity": "police",
         "name": "Kenya Police Headquarters"
       },
@@ -4122,8 +4122,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5580872755",
-        "addr:city": "Nairobi",
-        "addr:street": "Kaptagat Road",
+        "city": "Nairobi",
+        "street": "Kaptagat Road",
         "amenity": "police",
         "name": "Loresho Police Post"
       },
@@ -4225,8 +4225,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5769885647",
-        "addr:city": "Mwingi",
-        "addr:street": "C93",
+        "city": "Mwingi",
+        "street": "C93",
         "amenity": "police",
         "name": "Mwingi Police Station"
       },
@@ -4295,8 +4295,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5871261888",
-        "addr:city": "Mtwapa",
-        "addr:street": "Malindi Road",
+        "city": "Mtwapa",
+        "street": "Malindi Road",
         "amenity": "police",
         "name": "Mtwapa Police Station"
       },
@@ -4313,7 +4313,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5903922923",
-        "addr:city": "Marsabit",
+        "city": "Marsabit",
         "amenity": "police",
         "name": "Marsabit Police station"
       },
@@ -4330,7 +4330,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5985291719",
-        "addr:city": "Mombasa",
+        "city": "Mombasa",
         "amenity": "police",
         "name": "Makupa Police Station"
       },
@@ -4347,8 +4347,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5997754375",
-        "addr:city": "Mombasa",
-        "addr:street": "Magongo road",
+        "city": "Mombasa",
+        "street": "Magongo road",
         "amenity": "police",
         "name": "The Kenya Police - Changamwe Police Station"
       },
@@ -4365,8 +4365,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6048913164",
-        "addr:city": "Mombasa",
-        "addr:street": "Nyerere Avenue",
+        "city": "Mombasa",
+        "street": "Nyerere Avenue",
         "amenity": "police",
         "name": "Ferry Police Station, Likoni Division."
       },
@@ -4383,8 +4383,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6048915691",
-        "addr:city": "Mombasa",
-        "addr:street": "Nyerere Avenue",
+        "city": "Mombasa",
+        "street": "Nyerere Avenue",
         "amenity": "police",
         "name": "Kenya Ferry Police Post"
       },
@@ -4401,8 +4401,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6054545497",
-        "addr:city": "Mombasa",
-        "addr:street": "Tononoka road",
+        "city": "Mombasa",
+        "street": "Tononoka road",
         "amenity": "police",
         "name": "Tononoka Police Station"
       },
@@ -4419,8 +4419,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6054892226",
-        "addr:city": "Ntulelei",
-        "addr:street": "Kaplong-Narok-Maai Road",
+        "city": "Ntulelei",
+        "street": "Kaplong-Narok-Maai Road",
         "amenity": "police",
         "name": "Ntulele Police Post"
       },
@@ -4437,8 +4437,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6054976283",
-        "addr:city": "Lunga-lunga",
-        "addr:street": "Lungalunga-Mtandikeni Road",
+        "city": "Lunga-lunga",
+        "street": "Lungalunga-Mtandikeni Road",
         "amenity": "police",
         "name": "Lunga-Lunga Police Station"
       },
@@ -4455,8 +4455,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6060263774",
-        "addr:city": "Ndeyia",
-        "addr:street": "Link Road",
+        "city": "Ndeyia",
+        "street": "Link Road",
         "amenity": "police",
         "name": "Ndeiya Police Post"
       },
@@ -4489,8 +4489,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6073011726",
-        "addr:city": "Likoni",
-        "addr:street": "Likoni-Ukunda Road",
+        "city": "Likoni",
+        "street": "Likoni-Ukunda Road",
         "amenity": "police",
         "name": "The Kenya Police - Likoni Divisional Police Station"
       },
@@ -4507,8 +4507,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6073490894",
-        "addr:city": "Mariakani",
-        "addr:street": "Mombasa Road",
+        "city": "Mariakani",
+        "street": "Mombasa Road",
         "amenity": "police",
         "name": "Kaloleni Divisional Police Headquarters & Mariakani Police Station"
       },
@@ -4525,8 +4525,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6076115889",
-        "addr:city": "Mtito Andei",
-        "addr:street": "Mombasa Road",
+        "city": "Mtito Andei",
+        "street": "Mombasa Road",
         "amenity": "police",
         "name": "Police Station, Mtito Andei"
       },
@@ -4543,8 +4543,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6095320786",
-        "addr:city": "Suneka",
-        "addr:street": "Rongo-Kisii Road",
+        "city": "Suneka",
+        "street": "Rongo-Kisii Road",
         "amenity": "police",
         "name": "Gesonso Police Post"
       },
@@ -4561,8 +4561,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6102935025",
-        "addr:city": "Nyamira",
-        "addr:street": "Gachuba-keboba-keumbu road",
+        "city": "Nyamira",
+        "street": "Gachuba-keboba-keumbu road",
         "amenity": "police",
         "name": "Keumbu Police post"
       },
@@ -4579,8 +4579,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6105930788",
-        "addr:city": "Keroka",
-        "addr:street": "B3",
+        "city": "Keroka",
+        "street": "B3",
         "amenity": "police",
         "name": "Keroka Police Station"
       },
@@ -4597,8 +4597,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6106056674",
-        "addr:city": "Kiatale",
-        "addr:street": "Kitale Suam Road",
+        "city": "Kiatale",
+        "street": "Kitale Suam Road",
         "amenity": "police",
         "name": "Matisi Police Station"
       },
@@ -4615,7 +4615,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6116638685",
-        "addr:street": "Dharamshi-Raini Road",
+        "street": "Dharamshi-Raini Road",
         "amenity": "police",
         "name": "Kantaria Police Post."
       },
@@ -4632,8 +4632,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6144610324",
-        "addr:city": "Nkubu",
-        "addr:street": "Meru-Nairobi Highway",
+        "city": "Nkubu",
+        "street": "Meru-Nairobi Highway",
         "amenity": "police",
         "name": "Nkubu Police Station"
       },
@@ -4650,8 +4650,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6147336321",
-        "addr:city": "Eldoret",
-        "addr:street": "Eldoret -Webuye - Malaba Road",
+        "city": "Eldoret",
+        "street": "Eldoret -Webuye - Malaba Road",
         "amenity": "police",
         "name": "Administration Police Service"
       },
@@ -4668,8 +4668,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6147457919",
-        "addr:city": "Eldoret",
-        "addr:street": "Maili Nne-Baharini Police Post-ACK Church",
+        "city": "Eldoret",
+        "street": "Maili Nne-Baharini Police Post-ACK Church",
         "amenity": "police",
         "name": "Baharini Police Post"
       },
@@ -4718,8 +4718,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6207692016",
-        "addr:city": "Nairobi",
-        "addr:street": "Nairobi Park East  Gate Road",
+        "city": "Nairobi",
+        "street": "Nairobi Park East  Gate Road",
         "amenity": "police",
         "name": "Mombasa Road Police Post"
       },
@@ -4736,8 +4736,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6210018133",
-        "addr:city": "Thika",
-        "addr:street": "Garissa Road",
+        "city": "Thika",
+        "street": "Garissa Road",
         "amenity": "police",
         "name": "Kiandutu AP Post"
       },
@@ -4754,8 +4754,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6210121719",
-        "addr:city": "Mlolongo",
-        "addr:street": "Mombasa Road",
+        "city": "Mlolongo",
+        "street": "Mombasa Road",
         "amenity": "police",
         "name": "Weighbridge Traffic Police Station"
       },
@@ -4789,8 +4789,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6213154956",
-        "addr:city": "Murang'a",
-        "addr:street": "C71",
+        "city": "Murang'a",
+        "street": "C71",
         "amenity": "police",
         "name": "Mumbi Police Post"
       },
@@ -4807,8 +4807,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6213266446",
-        "addr:city": "Sagana",
-        "addr:street": "C73",
+        "city": "Sagana",
+        "street": "C73",
         "amenity": "police",
         "name": "Sagana Police Station"
       },
@@ -4825,8 +4825,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6215733412",
-        "addr:city": "Karatina",
-        "addr:street": "Karatina Gaikuyu Gitunduti Road",
+        "city": "Karatina",
+        "street": "Karatina Gaikuyu Gitunduti Road",
         "amenity": "police",
         "name": "Karatina Police Station"
       },
@@ -4843,8 +4843,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6218487555",
-        "addr:city": "Kiserian",
-        "addr:street": "Magadi Road",
+        "city": "Kiserian",
+        "street": "Magadi Road",
         "amenity": "police",
         "name": "Kiserian Police Station"
       },
@@ -4861,8 +4861,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6229376428",
-        "addr:city": "Machakos",
-        "addr:street": "Syokimau Avenue",
+        "city": "Machakos",
+        "street": "Syokimau Avenue",
         "amenity": "police",
         "name": "Machakos Police Station"
       },
@@ -4879,8 +4879,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6232737925",
-        "addr:city": "Salama",
-        "addr:street": "Mombasa Road",
+        "city": "Salama",
+        "street": "Mombasa Road",
         "amenity": "police",
         "name": "Police Station Salama"
       },
@@ -4897,7 +4897,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6232739115",
-        "addr:city": "Sultan Hamud",
+        "city": "Sultan Hamud",
         "amenity": "police",
         "name": "Sultan Hamud Police Station"
       },
@@ -4914,8 +4914,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6232739175",
-        "addr:city": "Makindu",
-        "addr:street": "Mombasa Road",
+        "city": "Makindu",
+        "street": "Mombasa Road",
         "amenity": "police",
         "name": "Makindu Police Station"
       },
@@ -4932,8 +4932,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6232739485",
-        "addr:city": "Makindu",
-        "addr:street": "Mombasa Road",
+        "city": "Makindu",
+        "street": "Mombasa Road",
         "amenity": "police",
         "name": "Makindu Traffic Police"
       },
@@ -4950,7 +4950,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6232806605",
-        "addr:city": "Kibwezi",
+        "city": "Kibwezi",
         "amenity": "police",
         "name": "Kibwezi Police Station"
       },
@@ -4967,8 +4967,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6235830588",
-        "addr:city": "Jomvu",
-        "addr:street": "Mombasa Road",
+        "city": "Jomvu",
+        "street": "Mombasa Road",
         "amenity": "police",
         "name": "Jomvu Police Booth"
       },
@@ -4985,7 +4985,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6236068238",
-        "addr:city": "Kitui",
+        "city": "Kitui",
         "amenity": "police",
         "name": "Administration Police Kitui"
       },
@@ -5002,8 +5002,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6241342229",
-        "addr:city": "Gilgil",
-        "addr:street": "Nairobi-Nakuru Road",
+        "city": "Gilgil",
+        "street": "Nairobi-Nakuru Road",
         "amenity": "police",
         "name": "Gilgil Anti Stock Theft"
       },
@@ -5020,8 +5020,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6241663891",
-        "addr:city": "Ol Kalou",
-        "addr:street": "Gilgil-Nyahururu",
+        "city": "Ol Kalou",
+        "street": "Gilgil-Nyahururu",
         "amenity": "police",
         "name": "Ol Kalou Police Station"
       },
@@ -5038,8 +5038,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6241664242",
-        "addr:city": "Joro Orok",
-        "addr:street": "Gilgil-Nyahururu Road",
+        "city": "Joro Orok",
+        "street": "Gilgil-Nyahururu Road",
         "amenity": "police",
         "name": "Ol joro orok Police post"
       },
@@ -5056,8 +5056,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6241666252",
-        "addr:city": "Mumias",
-        "addr:street": "Mumias-Bungoma Road",
+        "city": "Mumias",
+        "street": "Mumias-Bungoma Road",
         "amenity": "police",
         "name": "AP Camp"
       },
@@ -5074,8 +5074,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6241778074",
-        "addr:city": "Nyahururu",
-        "addr:street": "Nyeri-Nyahururu Road",
+        "city": "Nyahururu",
+        "street": "Nyeri-Nyahururu Road",
         "amenity": "police",
         "name": "Mairo-inya Police Station"
       },
@@ -5092,8 +5092,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6241778487",
-        "addr:city": "Ndaragwa",
-        "addr:street": "Nyeri-Nyahururu Road",
+        "city": "Ndaragwa",
+        "street": "Nyeri-Nyahururu Road",
         "amenity": "police",
         "name": "Ndaragwa Police Station"
       },
@@ -5110,7 +5110,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6241778493",
-        "addr:city": "Wiyumiririe",
+        "city": "Wiyumiririe",
         "amenity": "police",
         "name": "Wiyumiririe Police Post"
       },
@@ -5127,8 +5127,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6244079979",
-        "addr:city": "Belle Vue",
-        "addr:street": "Nyeri-Nyahururu Road",
+        "city": "Belle Vue",
+        "street": "Nyeri-Nyahururu Road",
         "amenity": "police",
         "name": "Nairutia Police Post"
       },
@@ -5145,8 +5145,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6244083320",
-        "addr:city": "Muiga",
-        "addr:street": "Nyeri-Nyahururu Road",
+        "city": "Muiga",
+        "street": "Nyeri-Nyahururu Road",
         "amenity": "police",
         "name": "Mweiga Police Station"
       },
@@ -5179,8 +5179,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6244921224",
-        "addr:city": "Naro Moru",
-        "addr:street": "Nyeri-Nanyuki Road",
+        "city": "Naro Moru",
+        "street": "Nyeri-Nanyuki Road",
         "amenity": "police",
         "name": "Naro Moru Police Station"
       },
@@ -5197,8 +5197,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6247215823",
-        "addr:city": "Nairobi",
-        "addr:street": "Thika Road",
+        "city": "Nairobi",
+        "street": "Thika Road",
         "amenity": "police",
         "name": "Ruaraka Police Station"
       },
@@ -5215,8 +5215,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6247234538",
-        "addr:city": "Timau",
-        "addr:street": "A2",
+        "city": "Timau",
+        "street": "A2",
         "amenity": "police",
         "name": "Timau Police Station"
       },
@@ -5233,8 +5233,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6249063019",
-        "addr:city": "Nairobi",
-        "addr:street": "Kasarani Mwiki Road",
+        "city": "Nairobi",
+        "street": "Kasarani Mwiki Road",
         "amenity": "police",
         "name": "Kasarani Traffic Unit"
       },
@@ -5251,8 +5251,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6249159838",
-        "addr:city": "Isiolo",
-        "addr:street": "Hospital Road",
+        "city": "Isiolo",
+        "street": "Hospital Road",
         "amenity": "police",
         "name": "Police Mess"
       },
@@ -5269,8 +5269,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6249723279",
-        "addr:city": "Nairobi",
-        "addr:street": "Kahawa Sukari Avenue",
+        "city": "Nairobi",
+        "street": "Kahawa Sukari Avenue",
         "amenity": "police",
         "name": "Kahawa Sukari Police Post"
       },
@@ -5287,8 +5287,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6251561787",
-        "addr:city": "Kikuyu",
-        "addr:street": "Magana Road",
+        "city": "Kikuyu",
+        "street": "Magana Road",
         "amenity": "police",
         "name": "Administration Police Service - Magana Town"
       },
@@ -5305,8 +5305,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6259798895",
-        "addr:city": "Nairobi",
-        "addr:street": "Rd to Utawala Academy",
+        "city": "Nairobi",
+        "street": "Rd to Utawala Academy",
         "amenity": "police",
         "name": "Embakasi Police Station"
       },
@@ -5339,7 +5339,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6301408385",
-        "addr:city": "Muchiene",
+        "city": "Muchiene",
         "amenity": "police",
         "name": "Subuiga Police Post",
         "name:fr": "Station de Police"
@@ -5373,8 +5373,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6799223057",
-        "addr:city": "Watamu",
-        "addr:street": "Jacaranda Road",
+        "city": "Watamu",
+        "street": "Jacaranda Road",
         "amenity": "police",
         "name": "Watamu Police Station"
       },
@@ -5428,8 +5428,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6819685077",
-        "addr:city": "Nairobi",
-        "addr:street": "Lusaka Road",
+        "city": "Nairobi",
+        "street": "Lusaka Road",
         "amenity": "police",
         "name": "Industrial Area Police Station"
       },
@@ -5446,7 +5446,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6827320506",
-        "addr:city": "Nairobi",
+        "city": "Nairobi",
         "amenity": "police",
         "name": "Ngomongo"
       },
@@ -5463,8 +5463,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6847249045",
-        "addr:city": "Githurai",
-        "addr:street": "Thika Road",
+        "city": "Githurai",
+        "street": "Thika Road",
         "amenity": "police",
         "name": "Administration Police Camp"
       },
@@ -5481,8 +5481,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6847661783",
-        "addr:city": "Thika",
-        "addr:street": "Kenyatta Highway",
+        "city": "Thika",
+        "street": "Kenyatta Highway",
         "amenity": "police",
         "name": "Thika Police Station"
       },
@@ -5499,8 +5499,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6851381352",
-        "addr:city": "Matuu",
-        "addr:street": "Garissa Road",
+        "city": "Matuu",
+        "street": "Garissa Road",
         "amenity": "police",
         "name": "Matuu Police Station"
       },
@@ -5517,8 +5517,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6857588664",
-        "addr:city": "Kikumini",
-        "addr:street": "Embu Kangonde Road",
+        "city": "Kikumini",
+        "street": "Embu Kangonde Road",
         "amenity": "police",
         "name": "Kikumini Police Post"
       },
@@ -5535,7 +5535,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6860231555",
-        "addr:city": "Embu",
+        "city": "Embu",
         "amenity": "police",
         "name": "Embu Provincial Headquaters"
       },
@@ -5568,8 +5568,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6905898160",
-        "addr:city": "Limuru",
-        "addr:street": "Mutarakwa-Limuru Road",
+        "city": "Limuru",
+        "street": "Mutarakwa-Limuru Road",
         "amenity": "police",
         "name": "Mutarakwa Police Post"
       },
@@ -5586,8 +5586,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6905900393",
-        "addr:city": "Naivasha",
-        "addr:street": "Police Line Road",
+        "city": "Naivasha",
+        "street": "Police Line Road",
         "amenity": "police",
         "name": "Naivasha Police Station"
       },
@@ -5655,7 +5655,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6915619061",
-        "addr:city": "Nakuru",
+        "city": "Nakuru",
         "amenity": "police",
         "name": "Mwariki Police Post"
       },
@@ -5672,8 +5672,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6915929178",
-        "addr:city": "Nakuru",
-        "addr:street": "Nakuru - Eldoret Road",
+        "city": "Nakuru",
+        "street": "Nakuru - Eldoret Road",
         "amenity": "police",
         "name": "Ngata Police Post"
       },
@@ -5690,8 +5690,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6926999939",
-        "addr:city": "Turbo",
-        "addr:street": "C37",
+        "city": "Turbo",
+        "street": "C37",
         "amenity": "police",
         "name": "Turbo Police Post"
       },
@@ -5708,8 +5708,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6948177507",
-        "addr:city": "Bumala",
-        "addr:street": "Kisumu-Busia Road",
+        "city": "Bumala",
+        "street": "Kisumu-Busia Road",
         "amenity": "police",
         "name": "Bumala Police Station"
       },
@@ -5726,8 +5726,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6966453740",
-        "addr:city": "Kisumu",
-        "addr:street": "Jomo Kenyatta Highway",
+        "city": "Kisumu",
+        "street": "Jomo Kenyatta Highway",
         "amenity": "police",
         "name": "Kondele Police Station"
       },
@@ -5744,8 +5744,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6966453741",
-        "addr:city": "Kisumu",
-        "addr:street": "Pamba Road",
+        "city": "Kisumu",
+        "street": "Pamba Road",
         "amenity": "police",
         "name": "Obunga Police Post"
       },
@@ -5762,8 +5762,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6969176820",
-        "addr:city": "Ahero",
-        "addr:street": "Nairobi Road",
+        "city": "Ahero",
+        "street": "Nairobi Road",
         "amenity": "police",
         "name": "Ahero Police Station"
       },
@@ -5780,8 +5780,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6976663148",
-        "addr:city": "Sondu",
-        "addr:street": "Kisii-Kisumu Road",
+        "city": "Sondu",
+        "street": "Kisii-Kisumu Road",
         "amenity": "police",
         "name": "Sondu Police Station"
       },
@@ -5798,8 +5798,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6976663149",
-        "addr:city": "Nyamira",
-        "addr:street": "Kisii-Kisumu Road",
+        "city": "Nyamira",
+        "street": "Kisii-Kisumu Road",
         "amenity": "police",
         "name": "Chabera Police Post"
       },
@@ -5816,8 +5816,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6979788411",
-        "addr:city": "Litein",
-        "addr:street": "C23",
+        "city": "Litein",
+        "street": "C23",
         "amenity": "police",
         "name": "Litein Police Station"
       },
@@ -5834,8 +5834,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7011472130",
-        "addr:city": "Madogo",
-        "addr:street": "Garissa-Daadab Road",
+        "city": "Madogo",
+        "street": "Garissa-Daadab Road",
         "amenity": "police",
         "name": "Madogo police"
       },
@@ -5852,8 +5852,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7023166214",
-        "addr:city": "Busia",
-        "addr:street": "Kisumu-Busia Road",
+        "city": "Busia",
+        "street": "Kisumu-Busia Road",
         "amenity": "police",
         "name": "Korinda Police Post"
       },
@@ -5888,7 +5888,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7172031315",
-        "addr:city": "Mombasa",
+        "city": "Mombasa",
         "amenity": "police",
         "name": "The Kenya Police Kilindini"
       },
@@ -5905,8 +5905,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7190722332",
-        "addr:city": "Nakuru",
-        "addr:street": "Kisumu-Nakuru road",
+        "city": "Nakuru",
+        "street": "Kisumu-Nakuru road",
         "amenity": "police",
         "name": "Baraka Police Post"
       },
@@ -5923,7 +5923,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7193028937",
-        "addr:street": "Nakuru - Eldoret Road",
+        "street": "Nakuru - Eldoret Road",
         "amenity": "police",
         "name": "Timboroa Police Station"
       },
@@ -5940,8 +5940,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7193028939",
-        "addr:city": "Cheptiret",
-        "addr:street": "Eldoret - Nakuru Road",
+        "city": "Cheptiret",
+        "street": "Eldoret - Nakuru Road",
         "amenity": "police",
         "name": "Cheptiret police Post"
       },
@@ -5958,8 +5958,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7208516721",
-        "addr:city": "Bungoma",
-        "addr:street": "Mumias-Bungoma Road",
+        "city": "Bungoma",
+        "street": "Mumias-Bungoma Road",
         "amenity": "police",
         "name": "Musikoma Police"
       },
@@ -6024,8 +6024,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7222729629",
-        "addr:city": "Yala",
-        "addr:street": "Old Town Road",
+        "city": "Yala",
+        "street": "Old Town Road",
         "amenity": "police",
         "name": "Yala Police Station"
       },
@@ -6042,8 +6042,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7229869126",
-        "addr:city": "Kisumu",
-        "addr:street": "Jomo Kenyatta Highway",
+        "city": "Kisumu",
+        "street": "Jomo Kenyatta Highway",
         "amenity": "police",
         "name": "Kisumu Police"
       },
@@ -6060,8 +6060,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7232815587",
-        "addr:city": "Vihiga",
-        "addr:street": "Kisumu-Vihiga Road",
+        "city": "Vihiga",
+        "street": "Kisumu-Vihiga Road",
         "amenity": "police",
         "name": "Vihiga Police Station"
       },
@@ -6078,8 +6078,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7239126635",
-        "addr:city": "Kakamega",
-        "addr:street": "Kakamega-Bungoma Road",
+        "city": "Kakamega",
+        "street": "Kakamega-Bungoma Road",
         "amenity": "police",
         "name": "Lurambi Police Station"
       },
@@ -6096,7 +6096,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7239126640",
-        "addr:city": "Malava",
+        "city": "Malava",
         "amenity": "police",
         "name": "Malava Police Station"
       },
@@ -6128,8 +6128,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7242597689",
-        "addr:city": "Kainuk",
-        "addr:street": "Kapenguria-Lodwar Road",
+        "city": "Kainuk",
+        "street": "Kapenguria-Lodwar Road",
         "amenity": "police",
         "name": "Kainuk Police Station"
       },
@@ -6146,7 +6146,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7266358645",
-        "addr:street": "A2",
+        "street": "A2",
         "amenity": "police",
         "name": "Archers Post Police Station"
       },
@@ -6163,8 +6163,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7279836604",
-        "addr:city": "Baricho",
-        "addr:street": "Kerugoya - Baricho Road",
+        "city": "Baricho",
+        "street": "Kerugoya - Baricho Road",
         "amenity": "police",
         "name": "Baricho Police station"
       },
@@ -6181,7 +6181,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7279836613",
-        "addr:street": "A2",
+        "street": "A2",
         "amenity": "police",
         "name": "Kiangwaci Police Post"
       },
@@ -6198,8 +6198,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7282595071",
-        "addr:city": "Makutano",
-        "addr:street": "A2",
+        "city": "Makutano",
+        "street": "A2",
         "amenity": "police",
         "name": "Makutano Police Station"
       },
@@ -6216,8 +6216,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7288678594",
-        "addr:city": "Nairobi",
-        "addr:street": "Outer Ring Road",
+        "city": "Nairobi",
+        "street": "Outer Ring Road",
         "amenity": "police",
         "name": "Kariobangi North Police Station"
       },
@@ -6234,7 +6234,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7838188786",
-        "addr:street": "Kengelani Road",
+        "street": "Kengelani Road",
         "amenity": "police",
         "name": "Dog Section Police Unit"
       },
@@ -6251,7 +6251,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7838188985",
-        "addr:street": "Kengelani Road",
+        "street": "Kengelani Road",
         "amenity": "police",
         "name": "Dog Section Police  Station"
       },
@@ -6316,8 +6316,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7846414732",
-        "addr:city": "Nairobi",
-        "addr:street": "Doonholm Road",
+        "city": "Nairobi",
+        "street": "Doonholm Road",
         "amenity": "police",
         "name": "Donholm Police Station"
       },
@@ -6350,7 +6350,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7920478335",
-        "addr:city": "Busia",
+        "city": "Busia",
         "amenity": "police",
         "name": "Adungosi Police Station"
       },
@@ -6438,7 +6438,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7976569601",
-        "addr:street": "Eldoret-Kitale Road",
+        "street": "Eldoret-Kitale Road",
         "amenity": "police",
         "name": "Moi's Bridge Police Station"
       },
@@ -6455,8 +6455,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7976569603",
-        "addr:city": "Burnt Forest",
-        "addr:street": "Eldoret-Nakuru Road",
+        "city": "Burnt Forest",
+        "street": "Eldoret-Nakuru Road",
         "amenity": "police",
         "name": "Tarakwa Police Station"
       },
@@ -6473,8 +6473,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7976569605",
-        "addr:city": "Burnt Forest",
-        "addr:street": "Eldoret-Nakuru Road",
+        "city": "Burnt Forest",
+        "street": "Eldoret-Nakuru Road",
         "amenity": "police",
         "name": "Kondoo Police Station"
       },
@@ -6491,8 +6491,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7977345311",
-        "addr:city": "Awasi",
-        "addr:street": "Kericho-Kisumu Highway",
+        "city": "Awasi",
+        "street": "Kericho-Kisumu Highway",
         "amenity": "police",
         "name": "Awasi Police Station"
       },
@@ -6509,7 +6509,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7977345314",
-        "addr:street": "Kericho-Kisumu Highway",
+        "street": "Kericho-Kisumu Highway",
         "amenity": "police",
         "name": "Boya Police Station"
       },
@@ -6526,8 +6526,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8000314520",
-        "addr:city": "El Wak",
-        "addr:street": "Isiolo-Mandera Road",
+        "city": "El Wak",
+        "street": "Isiolo-Mandera Road",
         "amenity": "police",
         "name": "Elwak Police Station"
       },
@@ -6544,8 +6544,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8084727723",
-        "addr:city": "Kilifi",
-        "addr:street": "Bofa Road",
+        "city": "Kilifi",
+        "street": "Bofa Road",
         "amenity": "police",
         "name": "Kilifi Police Station"
       },
@@ -6616,7 +6616,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8246901176",
-        "addr:city": "Nakuru",
+        "city": "Nakuru",
         "amenity": "police",
         "opening_hours": "24/7",
         "operator": "Kenya Police Service"
@@ -6650,7 +6650,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8321307640",
-        "addr:street": "Dagoretti Road",
+        "street": "Dagoretti Road",
         "amenity": "police",
         "name": "Kamangu Police Post"
       },
@@ -6667,8 +6667,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8338714150",
-        "addr:city": "Tala",
-        "addr:street": "Kangundo Road",
+        "city": "Tala",
+        "street": "Kangundo Road",
         "amenity": "police",
         "name": "Tala Police Station"
       },
@@ -6717,8 +6717,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8371880132",
-        "addr:city": "Nairobi",
-        "addr:street": "Masai Lodge Road",
+        "city": "Nairobi",
+        "street": "Masai Lodge Road",
         "amenity": "police",
         "name": "Ole kasasi Police Post"
       },
@@ -6905,8 +6905,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/9004506168",
-        "addr:city": "Nairobi",
-        "addr:street": "Kasarani Mwiki Road",
+        "city": "Nairobi",
+        "street": "Kasarani Mwiki Road",
         "amenity": "police",
         "name": "Mwiki Police Station"
       },
@@ -6923,8 +6923,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/9020201620",
-        "addr:city": "Nairobi",
-        "addr:street": "John Osogo road",
+        "city": "Nairobi",
+        "street": "John Osogo road",
         "amenity": "police",
         "name": "Dandora police station"
       },
