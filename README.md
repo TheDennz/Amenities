@@ -1,1 +1,1 @@
-# Locations of Amenities in Kenya in JSON format.
+# Locations of Amenities & facilities in GeoJSON.
