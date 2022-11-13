@@ -1,1 +1,1 @@
-# Locations of Amenities & facilities in GeoJSON.
+#Amenities & facilities data in GeoJSON.
