@@ -8,18 +8,18 @@
        "coordinates":  [ -112.861867,54.923116 ]
     },
     "properties": {
-    "NPRI ID":1,
-    "Facility name":"Alberta-Pacific Forest Industries Inc.",
-    "Company name":"Alberta-Pacific Forest Industries Inc.",
+    "NPRI_ID":1,
+    "Facility_name":"Alberta-Pacific Forest Industries Inc.",
+    "Company_name":"Alberta-Pacific Forest Industries Inc.",
     "Address":"",
     "City":"County of Athabasca",
     "Province":"Alberta",
     "Postal code":"T0A 0M0",
     "Releases":5.36,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=041&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=041&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -29,18 +29,18 @@
        "coordinates":  [ -117.1756,56.3772 ]
     },
     "properties": {
-    "NPRI ID":223,
-    "Facility name":"Mercer Peace River",
-    "Company name":"Mercer Peace River Pulp Ltd.",
+    "NPRI_ID":223,
+    "Facility_name":"Mercer Peace River",
+    "Company_name":"Mercer Peace River Pulp Ltd.",
     "Address":"11/13/24-085-21-W5",
     "City":"Md of Northern Lights",
     "Province":"Alberta",
     "Postal code":"T8S 1V7",
     "Releases":34.28,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=04223&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=223&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=04223&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=223&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -50,18 +50,18 @@
        "coordinates":  [ -114.305,53.344 ]
     },
     "properties": {
-    "NPRI ID":267,
-    "Facility name":"Genesee Thermal Generating Station",
-    "Company name":"Capital Power Generation Services Inc.",
+    "NPRI_ID":267,
+    "Facility_name":"Genesee Thermal Generating Station",
+    "Company_name":"Capital Power Generation Services Inc.",
     "Address":"50444 Highway 770",
     "City":"Warburg",
     "Province":"Alberta",
     "Postal code":"T0C 2T0",
     "Releases":0.02,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=04267&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=267&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=04267&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=267&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -71,18 +71,18 @@
        "coordinates":  [ -115.6917,54.1444 ]
     },
     "properties": {
-    "NPRI ID":878,
-    "Facility name":"Whitecourt Pulp Division",
-    "Company name":"Millar Western Forest Products Ltd.",
+    "NPRI_ID":878,
+    "Facility_name":"Whitecourt Pulp Division",
+    "Company_name":"Millar Western Forest Products Ltd.",
     "Address":"50 Mill Road",
     "City":"Whitecourt",
     "Province":"Alberta",
     "Postal code":"T7S 1N9",
     "Releases":2.39,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=04878&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=878&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=04878&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=878&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -92,18 +92,18 @@
        "coordinates":  [ -113.3875,53.5291 ]
     },
     "properties": {
-    "NPRI ID":1106,
-    "Facility name":"Altasteel Inc.",
-    "Company name":"Altasteel Inc.",
+    "NPRI_ID":1106,
+    "Facility_name":"Altasteel Inc.",
+    "Company_name":"Altasteel Inc.",
     "Address":"9401 34th Street",
     "City":"Edmonton",
     "Province":"Alberta",
     "Postal code":"T6B 2X6",
     "Releases":0.03,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=041106&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1106&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=041106&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1106&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -113,18 +113,18 @@
        "coordinates":  [ -113.0979,53.8416 ]
     },
     "properties": {
-    "NPRI ID":2134,
-    "Facility name":"Redwater Fertilizer Operations",
-    "Company name":"Agrium Inc.",
+    "NPRI_ID":2134,
+    "Facility_name":"Redwater Fertilizer Operations",
+    "Company_name":"Agrium Inc.",
     "Address":"56225 Sh643",
     "City":"Sturgeon County",
     "Province":"Alberta",
     "Postal code":"T0A 2W0",
     "Releases":0.08,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=042134&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2134&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=042134&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2134&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -134,18 +134,18 @@
        "coordinates":  [ -111.4661,57.0033 ]
     },
     "properties": {
-    "NPRI ID":2230,
-    "Facility name":"Suncor Energy Inc. Oil Sands",
-    "Company name":"Suncor Energy Oil Sands Limited Partnership",
+    "NPRI_ID":2230,
+    "Facility_name":"Suncor Energy Inc. Oil Sands",
+    "Company_name":"Suncor Energy Oil Sands Limited Partnership",
     "Address":"1 Tar Island",
     "City":"Fort McMurray",
     "Province":"Alberta",
     "Postal code":"T9H 3E3",
     "Releases":1.12,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=042230&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2230&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=042230&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2230&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -155,18 +155,18 @@
        "coordinates":  [ -111.6192,57.0405 ]
     },
     "properties": {
-    "NPRI ID":2274,
-    "Facility name":"Syncrude Canada Ltd",
-    "Company name":"Syncrude Canada Ltd.",
+    "NPRI_ID":2274,
+    "Facility_name":"Syncrude Canada Ltd",
+    "Company_name":"Syncrude Canada Ltd.",
     "Address":"Highway 63 Highway North",
     "City":"Fort McMurray",
     "Province":"Alberta",
     "Postal code":"T9H 3L1",
     "Releases":0.06,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=042274&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2274&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=042274&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2274&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -176,18 +176,18 @@
        "coordinates":  [ -114.5571,53.5085 ]
     },
     "properties": {
-    "NPRI ID":2284,
-    "Facility name":"Sundance Thermal Electric Power Generating Plant",
-    "Company name":"TransAlta Generation Partnership",
+    "NPRI_ID":2284,
+    "Facility_name":"Sundance Thermal Electric Power Generating Plant",
+    "Company_name":"TransAlta Generation Partnership",
     "Address":"Site 4, Box 1, RR1",
     "City":"Duffield",
     "Province":"Alberta",
     "Postal code":"T0E 0N0",
     "Releases":0.3,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=042284&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2284&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=042284&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2284&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -197,18 +197,18 @@
        "coordinates":  [ -117.5706,53.4133 ]
     },
     "properties": {
-    "NPRI ID":2991,
-    "Facility name":"Hinton Pulp, A Division of West Fraser Mills Ltd.",
-    "Company name":"West Fraser Mills Ltd.",
+    "NPRI_ID":2991,
+    "Facility_name":"Hinton Pulp, A Division of West Fraser Mills Ltd.",
+    "Company_name":"West Fraser Mills Ltd.",
     "Address":"760 Switzer Drive",
     "City":"Hinton",
     "Province":"Alberta",
     "Postal code":"T7V 1V7",
     "Releases":8.26,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=042991&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2991&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=042991&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2991&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -218,18 +218,18 @@
        "coordinates":  [ -113.3917,53.5417 ]
     },
     "properties": {
-    "NPRI ID":3707,
-    "Facility name":"Imperial Oil, Strathcona Refinery",
-    "Company name":"Imperial Oil",
+    "NPRI_ID":3707,
+    "Facility_name":"Imperial Oil, Strathcona Refinery",
+    "Company_name":"Imperial Oil",
     "Address":"3400 Baseline Road",
     "City":"Edmonton",
     "Province":"Alberta",
     "Postal code":"T6P 0E5",
     "Releases":0.07,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=043707&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3707&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=043707&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3707&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -239,18 +239,18 @@
        "coordinates":  [ -113.3589,53.5505 ]
     },
     "properties": {
-    "NPRI ID":3903,
-    "Facility name":"Edmonton Refinery",
-    "Company name":"Suncor Enery Products Partenership",
+    "NPRI_ID":3903,
+    "Facility_name":"Edmonton Refinery",
+    "Company_name":"Suncor Enery Products Partenership",
     "Address":"801 Petroleum Way",
     "City":"Sherwood Park",
     "Province":"Alberta",
     "Postal code":"T8H 2G2",
     "Releases":0.12,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=043903&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3903&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=043903&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3903&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -260,18 +260,18 @@
        "coordinates":  [ -114.514,55.2481 ]
     },
     "properties": {
-    "NPRI ID":3959,
-    "Facility name":"Slave Lake Pulp",
-    "Company name":"West Fraser Mills Ltd., Operating As Slave Lake Pulp",
+    "NPRI_ID":3959,
+    "Facility_name":"Slave Lake Pulp",
+    "Company_name":"West Fraser Mills Ltd., Operating As Slave Lake Pulp",
     "Address":"20 Km Se of Slave Lake",
     "City":"Slave Lake",
     "Province":"Alberta",
     "Postal code":"T0G 2A0",
     "Releases":56.91,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=043959&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3959&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=043959&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3959&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -281,18 +281,18 @@
        "coordinates":  [ -114.022,51.0128 ]
     },
     "properties": {
-    "NPRI ID":5308,
-    "Facility name":"Bonnybrook Wastewater Treatment Plant",
-    "Company name":"City of Calgary",
+    "NPRI_ID":5308,
+    "Facility_name":"Bonnybrook Wastewater Treatment Plant",
+    "Company_name":"City of Calgary",
     "Address":"4302 15 Street Southeast",
     "City":"Calgary",
     "Province":"Alberta",
     "Postal code":"T2G 3M8",
     "Releases":30.3,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=045308&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=5308&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=045308&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=5308&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -302,18 +302,18 @@
        "coordinates":  [ -113.4153,53.5608 ]
     },
     "properties": {
-    "NPRI ID":5390,
-    "Facility name":"Gold Bar Wastewater Treatment Plant",
-    "Company name":"EPCOR Water Services Inc.",
+    "NPRI_ID":5390,
+    "Facility_name":"Gold Bar Wastewater Treatment Plant",
+    "Company_name":"EPCOR Water Services Inc.",
     "Address":"10977 50 Street Northwest",
     "City":"Edmonton",
     "Province":"Alberta",
     "Postal code":"T6A 2E9",
     "Releases":11.7,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=045390&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=5390&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=045390&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=5390&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -323,18 +323,18 @@
        "coordinates":  [ -113.094411,53.798367 ]
     },
     "properties": {
-    "NPRI ID":6546,
-    "Facility name":"Scotford Upgrader and Upgrader Cogeneration",
-    "Company name":"Shell Canada Energy Limited",
+    "NPRI_ID":6546,
+    "Facility_name":"Scotford Upgrader and Upgrader Cogeneration",
+    "Company_name":"Shell Canada Energy Limited",
     "Address":"55522 Range Road 214",
     "City":"Fort Saskatchewan",
     "Province":"Alberta",
     "Postal code":"T8L 3T2",
     "Releases":0.07,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=046546&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=6546&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=046546&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=6546&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -344,18 +344,18 @@
        "coordinates":  [ -111.5033,57.2989 ]
     },
     "properties": {
-    "NPRI ID":6572,
-    "Facility name":"Aurora North Mine Site",
-    "Company name":"Syncrude Canada Ltd.",
+    "NPRI_ID":6572,
+    "Facility_name":"Aurora North Mine Site",
+    "Company_name":"Syncrude Canada Ltd.",
     "Address":"",
     "City":"Fort McMurray",
     "Province":"Alberta",
     "Postal code":"",
     "Releases":0,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=046572&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=6572&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=046572&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=6572&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -365,18 +365,18 @@
        "coordinates":  [ -113.79,52.3088 ]
     },
     "properties": {
-    "NPRI ID":6635,
-    "Facility name":"Wastewater Treatment Plant",
-    "Company name":"City of Red Deer",
+    "NPRI_ID":6635,
+    "Facility_name":"Wastewater Treatment Plant",
+    "Company_name":"City of Red Deer",
     "Address":"7890 40th Avenue",
     "City":"Red Deer",
     "Province":"Alberta",
     "Postal code":"T4P 3R6",
     "Releases":1.81,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=046635&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=6635&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=046635&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=6635&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -386,18 +386,18 @@
        "coordinates":  [ -113.3077,53.6288 ]
     },
     "properties": {
-    "NPRI ID":6648,
-    "Facility name":"Alberta Capital Region Wastewater Commission Treatment Plant",
-    "Company name":"Alberta Capital Region Wastewater Commision",
+    "NPRI_ID":6648,
+    "Facility_name":"Alberta Capital Region Wastewater Commission Treatment Plant",
+    "Company_name":"Alberta Capital Region Wastewater Commision",
     "Address":"23262 Township Road 540 Road",
     "City":"Fort Saskatchewan",
     "Province":"Alberta",
     "Postal code":"T8L 4A2",
     "Releases":0.48,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=046648&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=6648&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=046648&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=6648&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -407,18 +407,18 @@
        "coordinates":  [ -117.4048,53.0665 ]
     },
     "properties": {
-    "NPRI ID":6895,
-    "Facility name":"Cardinal River Operations",
-    "Company name":"Teck Coal Limited",
+    "NPRI_ID":6895,
+    "Facility_name":"Cardinal River Operations",
+    "Company_name":"Teck Coal Limited",
     "Address":"",
     "City":"Hinton",
     "Province":"Alberta",
     "Postal code":"T7V 1V5",
     "Releases":1.02,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=046895&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=6895&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=046895&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=6895&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -428,18 +428,18 @@
        "coordinates":  [ -113.9885,50.8589 ]
     },
     "properties": {
-    "NPRI ID":22740,
-    "Facility name":"Pine Creek Wastewater Treatment Plant",
-    "Company name":"City of Calgary",
+    "NPRI_ID":22740,
+    "Facility_name":"Pine Creek Wastewater Treatment Plant",
+    "Company_name":"City of Calgary",
     "Address":"3131 210 Avenue Southeast",
     "City":"Calgary",
     "Province":"Alberta",
     "Postal code":"T2X 1Z3",
     "Releases":8,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=0422740&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=22740&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=0422740&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=22740&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -449,18 +449,18 @@
        "coordinates":  [ -111.567907,57.39207 ]
     },
     "properties": {
-    "NPRI ID":26403,
-    "Facility name":"Fort Hills Oil Sands",
-    "Company name":"Fort Hills Energy L.P.",
+    "NPRI_ID":26403,
+    "Facility_name":"Fort Hills Oil Sands",
+    "Company_name":"Fort Hills Energy L.P.",
     "Address":"90 Kms North of Fort McMurray",
     "City":"Fort McMurray",
     "Province":"Alberta",
     "Postal code":"T9H 4V9",
     "Releases":0.01,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=0426403&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=26403&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=0426403&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=26403&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -470,18 +470,18 @@
        "coordinates":  [ -122.483,52.998 ]
     },
     "properties": {
-    "NPRI ID":479,
-    "Facility name":"Cariboo Pulp and Paper Company",
-    "Company name":"Cariboo Pulp and Paper Company",
+    "NPRI_ID":479,
+    "Facility_name":"Cariboo Pulp and Paper Company",
+    "Company_name":"Cariboo Pulp and Paper Company",
     "Address":"50 North Star Road",
     "City":"Quesnel",
     "Province":"British Columbia",
     "Postal code":"V2J 3J6",
     "Releases":7.14,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=04479&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=479&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=04479&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=479&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -491,18 +491,18 @@
        "coordinates":  [ -117.728,49.3357 ]
     },
     "properties": {
-    "NPRI ID":672,
-    "Facility name":"Mercer Celgar Limited Partnership",
-    "Company name":"Mercer Celgar Limited Partnership",
+    "NPRI_ID":672,
+    "Facility_name":"Mercer Celgar Limited Partnership",
+    "Company_name":"Mercer Celgar Limited Partnership",
     "Address":"1921 Arrow Lakes Drive",
     "City":"Castlegar",
     "Province":"British Columbia",
     "Postal code":"V1N 3H9",
     "Releases":6.29,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=04672&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=672&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=04672&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=672&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -512,18 +512,18 @@
        "coordinates":  [ -124.5516,49.8727 ]
     },
     "properties": {
-    "NPRI ID":723,
-    "Facility name":"Powell River Division",
-    "Company name":"Catalyst Paper Corporation",
+    "NPRI_ID":723,
+    "Facility_name":"Powell River Division",
+    "Company_name":"Catalyst Paper Corporation",
     "Address":"5775 Ash Avenue",
     "City":"Powell River",
     "Province":"British Columbia",
     "Postal code":"V8A 4R3",
     "Releases":12.52,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=04723&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=723&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=04723&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=723&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -533,18 +533,18 @@
        "coordinates":  [ -115.7579,49.9151 ]
     },
     "properties": {
-    "NPRI ID":1185,
-    "Facility name":"Skookumchuck Operation",
-    "Company name":"Skookumchuck Pulp Inc.",
+    "NPRI_ID":1185,
+    "Facility_name":"Skookumchuck Operation",
+    "Company_name":"Skookumchuck Pulp Inc.",
     "Address":"4501 Farstad Way",
     "City":"Skookumchuck",
     "Province":"British Columbia",
     "Postal code":"V0B 2E0",
     "Releases":0,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=041185&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1185&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=041185&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1185&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -554,18 +554,18 @@
        "coordinates":  [ -120.651,56.145 ]
     },
     "properties": {
-    "NPRI ID":1257,
-    "Facility name":"Canfor Taylor Pulp",
-    "Company name":"Canfor Pulp Ltd.",
+    "NPRI_ID":1257,
+    "Facility_name":"Canfor Taylor Pulp",
+    "Company_name":"Canfor Pulp Ltd.",
     "Address":"8300 Cherry Avenue East",
     "City":"Taylor",
     "Province":"British Columbia",
     "Postal code":"V0C 2K0",
     "Releases":48.89,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=041257&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1257&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=041257&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1257&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -575,18 +575,18 @@
        "coordinates":  [ -123.645,48.875 ]
     },
     "properties": {
-    "NPRI ID":1266,
-    "Facility name":"Crofton Division",
-    "Company name":"Catalyst Paper Corporation",
+    "NPRI_ID":1266,
+    "Facility_name":"Crofton Division",
+    "Company_name":"Catalyst Paper Corporation",
     "Address":"8541 Hay Road North",
     "City":"Crofton",
     "Province":"British Columbia",
     "Postal code":"V0R 1R0",
     "Releases":4.45,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=041266&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1266&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=041266&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1266&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -596,18 +596,18 @@
        "coordinates":  [ -122.2851,52.5299 ]
     },
     "properties": {
-    "NPRI ID":1303,
-    "Facility name":"Gibraltar Mine (Sfo)",
-    "Company name":"Gibraltar Mines Ltd.",
+    "NPRI_ID":1303,
+    "Facility_name":"Gibraltar Mine (Sfo)",
+    "Company_name":"Gibraltar Mines Ltd.",
     "Address":"10251 Gibraltar Mine Rd. Road",
     "City":"Mcleese Lake",
     "Province":"British Columbia",
     "Postal code":"V0L 1P0",
     "Releases":0.12,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=041303&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1303&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=041303&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1303&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -617,18 +617,18 @@
        "coordinates":  [ -122.952,49.1661 ]
     },
     "properties": {
-    "NPRI ID":1338,
-    "Facility name":"Annacis Island Wastewater Treatment Plant",
-    "Company name":"Greater Vancouver Sewerage and Drainage District",
+    "NPRI_ID":1338,
+    "Facility_name":"Annacis Island Wastewater Treatment Plant",
+    "Company_name":"Greater Vancouver Sewerage and Drainage District",
     "Address":"1299 Derwent Way",
     "City":"Delta",
     "Province":"British Columbia",
     "Postal code":"V3M 5V9",
     "Releases":20.5,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=041338&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1338&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=041338&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1338&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -638,18 +638,18 @@
        "coordinates":  [ -123.136,49.3195 ]
     },
     "properties": {
-    "NPRI ID":1342,
-    "Facility name":"Lions Gate Wastewater Treatment Plant",
-    "Company name":"Greater Vancouver Sewerage and Drainage District",
+    "NPRI_ID":1342,
+    "Facility_name":"Lions Gate Wastewater Treatment Plant",
+    "Company_name":"Greater Vancouver Sewerage and Drainage District",
     "Address":"101 Bridge Road",
     "City":"West Vancouver",
     "Province":"British Columbia",
     "Postal code":"V7P 3R2",
     "Releases":3.81,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=041342&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1342&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=041342&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1342&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -659,18 +659,18 @@
        "coordinates":  [ -123.8564,49.1369 ]
     },
     "properties": {
-    "NPRI ID":1383,
-    "Facility name":"Harmac Pacific Operations",
-    "Company name":"Nanaimo Forest Products Ltd.",
+    "NPRI_ID":1383,
+    "Facility_name":"Harmac Pacific Operations",
+    "Company_name":"Nanaimo Forest Products Ltd.",
     "Address":"1000 Wave Place",
     "City":"Nanaimo",
     "Province":"British Columbia",
     "Postal code":"V9X 1J2",
     "Releases":9.38,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=041383&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1383&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=041383&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1383&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -680,18 +680,18 @@
        "coordinates":  [ -123.4837,49.5237 ]
     },
     "properties": {
-    "NPRI ID":1419,
-    "Facility name":"Howe Sound Pulp and Paper Mill",
-    "Company name":"Howe Sound Pulp & Paper Corporation",
+    "NPRI_ID":1419,
+    "Facility_name":"Howe Sound Pulp and Paper Mill",
+    "Company_name":"Howe Sound Pulp & Paper Corporation",
     "Address":"3838 Port Mellon Highway",
     "City":"Port Mellon",
     "Province":"British Columbia",
     "Postal code":"V0N 2S0",
     "Releases":55.42,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=041419&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1419&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=041419&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1419&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -701,18 +701,18 @@
        "coordinates":  [ -123.1592,55.2914 ]
     },
     "properties": {
-    "NPRI ID":1486,
-    "Facility name":"Mackenzie Pulp Mill",
-    "Company name":"Mackenzie Pulp Mill Corporation",
+    "NPRI_ID":1486,
+    "Facility_name":"Mackenzie Pulp Mill",
+    "Company_name":"Mackenzie Pulp Mill Corporation",
     "Address":"1000 Coquawaldie Road",
     "City":"Mackenzie",
     "Province":"British Columbia",
     "Postal code":"V0J 2C0",
     "Releases":3.75,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=041486&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1486&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=041486&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1486&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -722,18 +722,18 @@
        "coordinates":  [ -124.811,49.2478 ]
     },
     "properties": {
-    "NPRI ID":1593,
-    "Facility name":"Port Alberni Division",
-    "Company name":"Catalyst Paper Corporation",
+    "NPRI_ID":1593,
+    "Facility_name":"Port Alberni Division",
+    "Company_name":"Catalyst Paper Corporation",
     "Address":"4000 Stamp Avenue",
     "City":"Port Alberni",
     "Province":"British Columbia",
     "Postal code":"V9Y 5J7",
     "Releases":18.24,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=041593&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1593&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=041593&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1593&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -743,18 +743,18 @@
        "coordinates":  [ -122.695,53.9779 ]
     },
     "properties": {
-    "NPRI ID":1797,
-    "Facility name":"Northwood Pulp Mill",
-    "Company name":"Canfor Pulp Ltd.",
+    "NPRI_ID":1797,
+    "Facility_name":"Northwood Pulp Mill",
+    "Company_name":"Canfor Pulp Ltd.",
     "Address":"5353 Northwood Pulp Mill Road",
     "City":"Prince George",
     "Province":"British Columbia",
     "Postal code":"V2L 4W2",
     "Releases":35.12,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=041797&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1797&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=041797&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1797&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -764,18 +764,18 @@
        "coordinates":  [ -125.602,49.5772 ]
     },
     "properties": {
-    "NPRI ID":2372,
-    "Facility name":"Myra Falls Mine Ltd",
-    "Company name":"Myra Falls Mine Ltd",
+    "NPRI_ID":2372,
+    "Facility_name":"Myra Falls Mine Ltd",
+    "Company_name":"Myra Falls Mine Ltd",
     "Address":"1 Westmin Road Highway",
     "City":"Campbell River",
     "Province":"British Columbia",
     "Postal code":"V9W 5E2",
     "Releases":13.46,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=042372&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2372&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=042372&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2372&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -785,18 +785,18 @@
        "coordinates":  [ -120.4037,50.6861 ]
     },
     "properties": {
-    "NPRI ID":2924,
-    "Facility name":"Kamloops Mill (Sfo)",
-    "Company name":"Domtar Inc.",
+    "NPRI_ID":2924,
+    "Facility_name":"Kamloops Mill (Sfo)",
+    "Company_name":"Domtar Inc.",
     "Address":"2005 Mission Flats Road",
     "City":"Kamloops",
     "Province":"British Columbia",
     "Postal code":"V2C 1A9",
     "Releases":42.74,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=042924&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2924&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=042924&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2924&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -806,18 +806,18 @@
        "coordinates":  [ -117.7178,49.0999 ]
     },
     "properties": {
-    "NPRI ID":3802,
-    "Facility name":"Trail Operations",
-    "Company name":"Teck Metals Ltd.",
+    "NPRI_ID":3802,
+    "Facility_name":"Trail Operations",
+    "Company_name":"Teck Metals Ltd.",
     "Address":"25 Aldridge Avenue",
     "City":"Trail",
     "Province":"British Columbia",
     "Postal code":"V1R 4L8",
     "Releases":124.44,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=043802&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3802&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=043802&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3802&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -827,18 +827,18 @@
        "coordinates":  [ -122.6944,53.925 ]
     },
     "properties": {
-    "NPRI ID":4063,
-    "Facility name":"Prince George Pulp and Paper and Intercontinental Pulp Mills",
-    "Company name":"Canfor Pulp Ltd.",
+    "NPRI_ID":4063,
+    "Facility_name":"Prince George Pulp and Paper and Intercontinental Pulp Mills",
+    "Company_name":"Canfor Pulp Ltd.",
     "Address":"2789 Prince George Pulp Mill Road",
     "City":"Prince George",
     "Province":"British Columbia",
     "Postal code":"V2N 2K3",
     "Releases":86.29,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=044063&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=4063&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=044063&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=4063&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -848,18 +848,18 @@
        "coordinates":  [ -123.1172,49.3111 ]
     },
     "properties": {
-    "NPRI ID":4723,
-    "Facility name":"Vancouver Wharves Terminal",
-    "Company name":"Pkm Canada Marine Terminal Limited Partnership",
+    "NPRI_ID":4723,
+    "Facility_name":"Vancouver Wharves Terminal",
+    "Company_name":"Pkm Canada Marine Terminal Limited Partnership",
     "Address":"1995 W 1st Street",
     "City":"North Vancouver",
     "Province":"British Columbia",
     "Postal code":"V7P 1A8",
     "Releases":1.03,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=044723&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=4723&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=044723&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=4723&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -869,18 +869,18 @@
        "coordinates":  [ -121.637,52.5508 ]
     },
     "properties": {
-    "NPRI ID":5102,
-    "Facility name":"Mount Polley Mine",
-    "Company name":"Imperial Metals Corporation",
+    "NPRI_ID":5102,
+    "Facility_name":"Mount Polley Mine",
+    "Company_name":"Imperial Metals Corporation",
     "Address":"5720 Bootjack Forest Service Road",
     "City":"Likely",
     "Province":"British Columbia",
     "Postal code":"V0L 1N0",
     "Releases":0.38,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=045102&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=5102&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=045102&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=5102&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -890,18 +890,18 @@
        "coordinates":  [ -127.1776,53.6793 ]
     },
     "properties": {
-    "NPRI ID":5146,
-    "Facility name":"Huckleberry Mines Ltd.",
-    "Company name":"Huckleberry Mines Ltd.",
+    "NPRI_ID":5146,
+    "Facility_name":"Huckleberry Mines Ltd.",
+    "Company_name":"Huckleberry Mines Ltd.",
     "Address":"Forest Service Road",
     "City":"Houston",
     "Province":"British Columbia",
     "Postal code":"V0J 1Z0",
     "Releases":1.04,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=045146&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=5146&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=045146&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=5146&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -911,18 +911,18 @@
        "coordinates":  [ -123.203,49.2185 ]
     },
     "properties": {
-    "NPRI ID":5189,
-    "Facility name":"Iona Island Wastewater Treatment Plant",
-    "Company name":"Greater Vancouver Sewerage and Drainage District",
+    "NPRI_ID":5189,
+    "Facility_name":"Iona Island Wastewater Treatment Plant",
+    "Company_name":"Greater Vancouver Sewerage and Drainage District",
     "Address":"1000 Ferguson Road",
     "City":"Richmond",
     "Province":"British Columbia",
     "Postal code":"V7B 1W7",
     "Releases":24.03,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=045189&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=5189&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=045189&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=5189&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -932,18 +932,18 @@
        "coordinates":  [ -114.8793,50.1895 ]
     },
     "properties": {
-    "NPRI ID":6669,
-    "Facility name":"Fording River Operations",
-    "Company name":"Teck Coal Limited",
+    "NPRI_ID":6669,
+    "Facility_name":"Fording River Operations",
+    "Company_name":"Teck Coal Limited",
     "Address":"100 PO Box Route",
     "City":"Elkford",
     "Province":"British Columbia",
     "Postal code":"V0B 1H0",
     "Releases":23.04,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=046669&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=6669&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=046669&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=6669&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -953,18 +953,18 @@
        "coordinates":  [ -114.87,50.0843 ]
     },
     "properties": {
-    "NPRI ID":6671,
-    "Facility name":"Greenhills Operations",
-    "Company name":"Teck Coal Limited",
+    "NPRI_ID":6671,
+    "Facility_name":"Greenhills Operations",
+    "Company_name":"Teck Coal Limited",
     "Address":"PO Box 5000 Highway",
     "City":"Elkford",
     "Province":"British Columbia",
     "Postal code":"V0B 1H0",
     "Releases":0.34,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=046671&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=6671&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=046671&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=6671&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -974,18 +974,18 @@
        "coordinates":  [ -114.865,49.7496 ]
     },
     "properties": {
-    "NPRI ID":7838,
-    "Facility name":"Elkview Operations",
-    "Company name":"Teck Coal Limited",
+    "NPRI_ID":7838,
+    "Facility_name":"Elkview Operations",
+    "Company_name":"Teck Coal Limited",
     "Address":"1 Highway 3 Highway",
     "City":"Sparwood",
     "Province":"British Columbia",
     "Postal code":"V0B 2G1",
     "Releases":0.99,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=047838&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=7838&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=047838&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=7838&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -995,18 +995,18 @@
        "coordinates":  [ -114.8528,49.8844 ]
     },
     "properties": {
-    "NPRI ID":7839,
-    "Facility name":"Line Creek Operations",
-    "Company name":"Teck Coal Limited",
+    "NPRI_ID":7839,
+    "Facility_name":"Line Creek Operations",
+    "Company_name":"Teck Coal Limited",
     "Address":"15km North Highway 43 Highway",
     "City":"Sparwood",
     "Province":"British Columbia",
     "Postal code":"V0B 2G0",
     "Releases":7.79,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=047839&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=7839&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=047839&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=7839&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1016,18 +1016,18 @@
        "coordinates":  [ -120.4625,50.6905 ]
     },
     "properties": {
-    "NPRI ID":7858,
-    "Facility name":"Wastewater Treatment Centre",
-    "Company name":"City of Kamloops",
+    "NPRI_ID":7858,
+    "Facility_name":"Wastewater Treatment Centre",
+    "Company_name":"City of Kamloops",
     "Address":"3300 Mission Flats Road",
     "City":"Kamloops",
     "Province":"British Columbia",
     "Postal code":"V2B 5K1",
     "Releases":0.21,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=047858&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=7858&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=047858&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=7858&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1037,18 +1037,18 @@
        "coordinates":  [ -130.34199,59.92736 ]
     },
     "properties": {
-    "NPRI ID":29381,
-    "Facility name":"Silvertip Mine",
-    "Company name":"Coeur Silvertip Holdings Ltd.",
+    "NPRI_ID":29381,
+    "Facility_name":"Silvertip Mine",
+    "Company_name":"Coeur Silvertip Holdings Ltd.",
     "Address":"1055 Dunsmuir Street",
     "City":"Vancouver",
     "Province":"British Columbia",
     "Postal code":"V7X 1L2",
     "Releases":0.06,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=0429381&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=29381&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=0429381&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=29381&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1058,18 +1058,18 @@
        "coordinates":  [ -120.51,49.34556 ]
     },
     "properties": {
-    "NPRI ID":30798,
-    "Facility name":"Copper Mountain Mine",
-    "Company name":"Copper Mountain Mine (BC) Ltd.",
+    "NPRI_ID":30798,
+    "Facility_name":"Copper Mountain Mine",
+    "Company_name":"Copper Mountain Mine (BC) Ltd.",
     "Address":"6500 Copper Mountain Road",
     "City":"Princeton",
     "Province":"British Columbia",
     "Postal code":"V0X 1W0",
     "Releases":0.03,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=0430798&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=30798&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=0430798&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=30798&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1079,18 +1079,18 @@
        "coordinates":  [ -97.8561,55.7138 ]
     },
     "properties": {
-    "NPRI ID":1473,
-    "Facility name":"Thompson Operations",
-    "Company name":"Vale Canada Limited",
+    "NPRI_ID":1473,
+    "Facility_name":"Thompson Operations",
+    "Company_name":"Vale Canada Limited",
     "Address":"1 Inco Road",
     "City":"Thompson",
     "Province":"Manitoba",
     "Postal code":"R8N 1P3",
     "Releases":0.28,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=041473&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1473&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=041473&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1473&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1100,18 +1100,18 @@
        "coordinates":  [ -101.213325,53.860974 ]
     },
     "properties": {
-    "NPRI ID":2051,
-    "Facility name":"Canadian Kraft Paper Industries Ltd.",
-    "Company name":"Canadian Kraft Paper Industries Ltd.",
+    "NPRI_ID":2051,
+    "Facility_name":"Canadian Kraft Paper Industries Ltd.",
+    "Company_name":"Canadian Kraft Paper Industries Ltd.",
     "Address":"1 Kraft Rd., Highway 10 North",
     "City":"The Pas",
     "Province":"Manitoba",
     "Postal code":"R9A 1L4",
     "Releases":1.05,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=042051&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2051&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=042051&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2051&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1121,18 +1121,18 @@
        "coordinates":  [ -99.9434,54.8561 ]
     },
     "properties": {
-    "NPRI ID":3411,
-    "Facility name":"Hbms Snow Lake Mill",
-    "Company name":"Hudbay Minerals",
+    "NPRI_ID":3411,
+    "Facility_name":"Hbms Snow Lake Mill",
+    "Company_name":"Hudbay Minerals",
     "Address":"1 393 Highway",
     "City":"Snow Lake",
     "Province":"Manitoba",
     "Postal code":"R0B 1M0",
     "Releases":1,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=043411&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3411&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=043411&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3411&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1142,18 +1142,18 @@
        "coordinates":  [ -101.884,54.771 ]
     },
     "properties": {
-    "NPRI ID":3414,
-    "Facility name":"Hbms Flin Flon Metallurgical Complex",
-    "Company name":"Hudbay Minerals",
+    "NPRI_ID":3414,
+    "Facility_name":"Hbms Flin Flon Metallurgical Complex",
+    "Company_name":"Hudbay Minerals",
     "Address":"1 Company Road",
     "City":"Flin Flon",
     "Province":"Manitoba",
     "Postal code":"R8A 1N9",
     "Releases":32.7,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=043414&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3414&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=043414&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3414&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1163,18 +1163,18 @@
        "coordinates":  [ -97.1094,49.952 ]
     },
     "properties": {
-    "NPRI ID":5386,
-    "Facility name":"North End Water Pollution Control Centre (Newpcc)",
-    "Company name":"City of Winnipeg, Water & Waste Department",
+    "NPRI_ID":5386,
+    "Facility_name":"North End Water Pollution Control Centre (Newpcc)",
+    "Company_name":"City of Winnipeg, Water & Waste Department",
     "Address":"2230 Main Street",
     "City":"Winnipeg",
     "Province":"Manitoba",
     "Postal code":"R2V 4T8",
     "Releases":2.42,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=045386&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=5386&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=045386&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=5386&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1184,18 +1184,18 @@
        "coordinates":  [ -65.867,47.9058 ]
     },
     "properties": {
-    "NPRI ID":1698,
-    "Facility name":"Belledune Generating Station",
-    "Company name":"New Brunswick Power Corporation",
+    "NPRI_ID":1698,
+    "Facility_name":"Belledune Generating Station",
+    "Company_name":"New Brunswick Power Corporation",
     "Address":"1558 Main Street",
     "City":"Belledune",
     "Province":"New Brunswick",
     "Postal code":"E8G 2M3",
     "Releases":1.32,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=041698&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1698&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=041698&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1698&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1205,18 +1205,18 @@
        "coordinates":  [ -67.2265,46.0111 ]
     },
     "properties": {
-    "NPRI ID":2181,
-    "Facility name":"Nackawic Mill",
-    "Company name":"Av Group NB Inc.",
+    "NPRI_ID":2181,
+    "Facility_name":"Nackawic Mill",
+    "Company_name":"Av Group NB Inc.",
     "Address":"103 Pinder Road",
     "City":"Nackawic",
     "Province":"New Brunswick",
     "Postal code":"E6G 1W4",
     "Releases":15.2,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=042181&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2181&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=042181&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2181&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1226,18 +1226,18 @@
        "coordinates":  [ -66.0924,45.262 ]
     },
     "properties": {
-    "NPRI ID":2604,
-    "Facility name":"Irving Pulp & Paper, Limited",
-    "Company name":"Irving Pulp & Paper, Limited",
+    "NPRI_ID":2604,
+    "Facility_name":"Irving Pulp & Paper, Limited",
+    "Company_name":"Irving Pulp & Paper, Limited",
     "Address":"408 Mill Street",
     "City":"Saint John",
     "Province":"New Brunswick",
     "Postal code":"E2M 3H1",
     "Releases":27.92,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=042604&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2604&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=042604&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2604&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1247,18 +1247,18 @@
        "coordinates":  [ -66.0249,45.2788 ]
     },
     "properties": {
-    "NPRI ID":3394,
-    "Facility name":"Irving Paper",
-    "Company name":"Irving Paper Limited",
+    "NPRI_ID":3394,
+    "Facility_name":"Irving Paper",
+    "Company_name":"Irving Paper Limited",
     "Address":"435 Bayside Drive",
     "City":"Saint John",
     "Province":"New Brunswick",
     "Postal code":"E2L 4K9",
     "Releases":10.1,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=043394&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3394&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=043394&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3394&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1268,18 +1268,18 @@
        "coordinates":  [ -66.7234,47.9924 ]
     },
     "properties": {
-    "NPRI ID":5008,
-    "Facility name":"Atholville Mill",
-    "Company name":"Av Group NB Inc.",
+    "NPRI_ID":5008,
+    "Facility_name":"Atholville Mill",
+    "Company_name":"Av Group NB Inc.",
     "Address":"175 Mill Road",
     "City":"Atholville",
     "Province":"New Brunswick",
     "Postal code":"E3N 4S7",
     "Releases":4.45,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=045008&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=5008&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=045008&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=5008&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1289,18 +1289,18 @@
        "coordinates":  [ -66.6178,45.9584 ]
     },
     "properties": {
-    "NPRI ID":5094,
-    "Facility name":"Barker St. Treatment Facility",
-    "Company name":"City of Fredericton",
+    "NPRI_ID":5094,
+    "Facility_name":"Barker St. Treatment Facility",
+    "Company_name":"City of Fredericton",
     "Address":"975 Barker St. Street East",
     "City":"Fredericton",
     "Province":"New Brunswick",
     "Postal code":"E3A 3K6",
     "Releases":6.7,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=045094&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=5094&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=045094&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=5094&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1310,18 +1310,18 @@
        "coordinates":  [ -57.9485,48.9552 ]
     },
     "properties": {
-    "NPRI ID":4929,
-    "Facility name":"Corner Brook Pulp and Paper",
-    "Company name":"Corner Brook Pulp and Paper Ltd.",
+    "NPRI_ID":4929,
+    "Facility_name":"Corner Brook Pulp and Paper",
+    "Company_name":"Corner Brook Pulp and Paper Ltd.",
     "Address":"1 Mill Road",
     "City":"Corner Brook",
     "Province":"Newfoundland and Labrador",
     "Postal code":"A2H 6J4",
     "Releases":4.72,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=044929&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=4929&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=044929&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=4929&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1331,18 +1331,18 @@
        "coordinates":  [ -66.8936,52.9565 ]
     },
     "properties": {
-    "NPRI ID":5013,
-    "Facility name":"Carol Project",
-    "Company name":"Iron Ore Company of Canada",
+    "NPRI_ID":5013,
+    "Facility_name":"Carol Project",
+    "Company_name":"Iron Ore Company of Canada",
     "Address":"2 Avalon Drive East",
     "City":"Labrador City",
     "Province":"Newfoundland and Labrador",
     "Postal code":"A2V 2V6",
     "Releases":0.08,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=045013&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=5013&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=045013&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=5013&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1352,18 +1352,18 @@
        "coordinates":  [ -66.9109,52.9077 ]
     },
     "properties": {
-    "NPRI ID":5460,
-    "Facility name":"Wabush Mines - Scully",
-    "Company name":"Tacora Resources Inc.",
+    "NPRI_ID":5460,
+    "Facility_name":"Wabush Mines - Scully",
+    "Company_name":"Tacora Resources Inc.",
     "Address":"1 Wabush Mines Road Street",
     "City":"Wabush",
     "Province":"Newfoundland and Labrador",
     "Postal code":"A0R 1B0",
     "Releases":0.02,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=045460&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=5460&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=045460&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=5460&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1373,18 +1373,18 @@
        "coordinates":  [ -62.0985,56.3325 ]
     },
     "properties": {
-    "NPRI ID":6093,
-    "Facility name":"Voisey's Bay Mine Site",
-    "Company name":"Vale Newfoundland and Labrador Limited",
+    "NPRI_ID":6093,
+    "Facility_name":"Voisey's Bay Mine Site",
+    "Company_name":"Vale Newfoundland and Labrador Limited",
     "Address":"",
     "City":"Happy Valley-Goose Bay",
     "Province":"Newfoundland and Labrador",
     "Postal code":"A0P 1C0",
     "Releases":0.12,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=046093&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=6093&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=046093&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=6093&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1394,18 +1394,18 @@
        "coordinates":  [ -55.7731,49.8448 ]
     },
     "properties": {
-    "NPRI ID":8015,
-    "Facility name":"Nugget Pond Facility",
-    "Company name":"Rambler Metals & Mining L",
+    "NPRI_ID":8015,
+    "Facility_name":"Nugget Pond Facility",
+    "Company_name":"Rambler Metals & Mining L",
     "Address":"416 Snook's Arm Highway Highway South",
     "City":"Snooks Arm",
     "Province":"Newfoundland and Labrador",
     "Postal code":"A0K 1B0",
     "Releases":0.08,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=048015&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=8015&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=048015&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=8015&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1415,18 +1415,18 @@
        "coordinates":  [ -110.2832,64.4951 ]
     },
     "properties": {
-    "NPRI ID":18241,
-    "Facility name":"Diavik Diamond Mines (2012) Inc.",
-    "Company name":"Rio Tinto Plc",
+    "NPRI_ID":18241,
+    "Facility_name":"Diavik Diamond Mines (2012) Inc.",
+    "Company_name":"Rio Tinto Plc",
     "Address":"5201 50 Avenue",
     "City":"Yellowknife",
     "Province":"Northwest Territories",
     "Postal code":"X1A 2P8",
     "Releases":0.04,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=0418241&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=18241&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=0418241&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=18241&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1436,18 +1436,18 @@
        "coordinates":  [ -110.8676,63.605 ]
     },
     "properties": {
-    "NPRI ID":18714,
-    "Facility name":"Snap Lake Mine",
-    "Company name":"De Beers Group",
+    "NPRI_ID":18714,
+    "Facility_name":"Snap Lake Mine",
+    "Company_name":"De Beers Group",
     "Address":"",
     "City":"Snap Lake",
     "Province":"Northwest Territories",
     "Postal code":"",
     "Releases":0,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=0418714&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=18714&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=0418714&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=18714&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1457,18 +1457,18 @@
        "coordinates":  [ -60.0386,46.2358 ]
     },
     "properties": {
-    "NPRI ID":3992,
-    "Facility name":"Lingan Generating Station",
-    "Company name":"Nova Scotia Power Incorporated",
+    "NPRI_ID":3992,
+    "Facility_name":"Lingan Generating Station",
+    "Company_name":"Nova Scotia Power Incorporated",
     "Address":"2599 Hinchey Avenue",
     "City":"Lingan",
     "Province":"Nova Scotia",
     "Postal code":"B1H 5E6",
     "Releases":0.38,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=043992&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3992&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=043992&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3992&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1478,18 +1478,18 @@
        "coordinates":  [ -61.3489,45.5872 ]
     },
     "properties": {
-    "NPRI ID":3994,
-    "Facility name":"Point Tupper Generating Station",
-    "Company name":"Nova Scotia Power Incorporated",
+    "NPRI_ID":3994,
+    "Facility_name":"Point Tupper Generating Station",
+    "Company_name":"Nova Scotia Power Incorporated",
     "Address":"4137 Port Malcolm Road",
     "City":"Port Hawkesbury",
     "Province":"Nova Scotia",
     "Postal code":"B9A 1Z4",
     "Releases":0.02,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=043994&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3994&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=043994&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3994&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1499,18 +1499,18 @@
        "coordinates":  [ -62.6498,45.6202 ]
     },
     "properties": {
-    "NPRI ID":3996,
-    "Facility name":"Trenton Generating Station",
-    "Company name":"Nova Scotia Power Incorporated",
+    "NPRI_ID":3996,
+    "Facility_name":"Trenton Generating Station",
+    "Company_name":"Nova Scotia Power Incorporated",
     "Address":"1 Power Plant Road",
     "City":"Trenton",
     "Province":"Nova Scotia",
     "Postal code":"B0K 1X0",
     "Releases":0.06,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=043996&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3996&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=043996&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3996&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1520,18 +1520,18 @@
        "coordinates":  [ -60.3039,46.3225 ]
     },
     "properties": {
-    "NPRI ID":4000,
-    "Facility name":"Point Aconi Generating Station",
-    "Company name":"Nova Scotia Power Incorporated",
+    "NPRI_ID":4000,
+    "Facility_name":"Point Aconi Generating Station",
+    "Company_name":"Nova Scotia Power Incorporated",
     "Address":"1800 Prince Mine Road",
     "City":"Point Aconi",
     "Province":"Nova Scotia",
     "Postal code":"B1Y 2A6",
     "Releases":0.27,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=044000&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=4000&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=044000&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=4000&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1541,18 +1541,18 @@
        "coordinates":  [ -63.3443,45.3667 ]
     },
     "properties": {
-    "NPRI ID":6051,
-    "Facility name":"Central Colchester Wastewater Treatment Facility",
-    "Company name":"Municipality of the County of Colchester",
+    "NPRI_ID":6051,
+    "Facility_name":"Central Colchester Wastewater Treatment Facility",
+    "Company_name":"Municipality of the County of Colchester",
     "Address":"3899 236 Highway",
     "City":"Truro",
     "Province":"Nova Scotia",
     "Postal code":"B6L 1J4",
     "Releases":0.27,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=046051&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=6051&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=046051&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=6051&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1562,18 +1562,18 @@
        "coordinates":  [ -62.91917,44.97361 ]
     },
     "properties": {
-    "NPRI ID":30745,
-    "Facility name":"Touquoy Mine",
-    "Company name":"St Barbara Limited",
+    "NPRI_ID":30745,
+    "Facility_name":"Touquoy Mine",
+    "Company_name":"St Barbara Limited",
     "Address":"409 Billybell Way, Mooseland Road",
     "City":"Middle Musquodoboit",
     "Province":"Nova Scotia",
     "Postal code":"B0N 1X0",
     "Releases":0.03,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=0430745&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=30745&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=0430745&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=30745&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1583,18 +1583,18 @@
        "coordinates":  [ -96.0524,65.0149 ]
     },
     "properties": {
-    "NPRI ID":24216,
-    "Facility name":"Division Meadowbank",
-    "Company name":"Agnico Eagle Mines Ltd.",
+    "NPRI_ID":24216,
+    "Facility_name":"Division Meadowbank",
+    "Company_name":"Agnico Eagle Mines Ltd.",
     "Address":"",
     "City":"Baker Lake",
     "Province":"Nunavut",
     "Postal code":"X0C 0A0",
     "Releases":0.02,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=0424216&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=24216&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=0424216&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=24216&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1604,18 +1604,18 @@
        "coordinates":  [ -80.88611,71.88444 ]
     },
     "properties": {
-    "NPRI ID":28455,
-    "Facility name":"Milne Port Site",
-    "Company name":"Baffinland Iron Mines",
+    "NPRI_ID":28455,
+    "Facility_name":"Milne Port Site",
+    "Company_name":"Baffinland Iron Mines",
     "Address":"N/A",
     "City":"N/A",
     "Province":"Nunavut",
     "Postal code":"",
     "Releases":0,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=0428455&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=28455&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=0428455&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=28455&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1625,18 +1625,18 @@
        "coordinates":  [ -92.13443,63.22418 ]
     },
     "properties": {
-    "NPRI ID":29389,
-    "Facility name":"Meliadine Gold Project",
-    "Company name":"Agnico Eagle Mines Ltd.",
+    "NPRI_ID":29389,
+    "Facility_name":"Meliadine Gold Project",
+    "Company_name":"Agnico Eagle Mines Ltd.",
     "Address":"",
     "City":"Rankin Inlet",
     "Province":"Nunavut",
     "Postal code":"X0C 0G0",
     "Releases":0.05,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=0429389&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=29389&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=0429389&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=29389&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1646,18 +1646,18 @@
        "coordinates":  [ -92.8472,49.7831 ]
     },
     "properties": {
-    "NPRI ID":928,
-    "Facility name":"Dryden Mill",
-    "Company name":"Domtar Inc.",
+    "NPRI_ID":928,
+    "Facility_name":"Dryden Mill",
+    "Company_name":"Domtar Inc.",
     "Address":"1 Duke Street",
     "City":"Dryden",
     "Province":"Ontario",
     "Postal code":"P8N 2Z7",
     "Releases":15.23,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=04928&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=928&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=04928&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=928&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1667,18 +1667,18 @@
        "coordinates":  [ -89.3067,48.3486 ]
     },
     "properties": {
-    "NPRI ID":930,
-    "Facility name":"Resolute Forest Products - Thunder Bay Operations",
-    "Company name":"Produits Forestiers R�solu",
+    "NPRI_ID":930,
+    "Facility_name":"Resolute Forest Products - Thunder Bay Operations",
+    "Company_name":"Produits Forestiers R�solu",
     "Address":"2001 Neebing Avenue",
     "City":"Thunder Bay",
     "Province":"Ontario",
     "Postal code":"P7E 6S3",
     "Releases":22.28,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=04930&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=930&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=04930&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=930&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1688,18 +1688,18 @@
        "coordinates":  [ -81.3425,46.6742 ]
     },
     "properties": {
-    "NPRI ID":1233,
-    "Facility name":"Sudbury Operations Mines Mill - Onaping Area",
-    "Company name":"Glencore",
+    "NPRI_ID":1233,
+    "Facility_name":"Sudbury Operations Mines Mill - Onaping Area",
+    "Company_name":"Glencore",
     "Address":"Strathcona Services Bldg Street",
     "City":"Onaping",
     "Province":"Ontario",
     "Postal code":"P0M 2R0",
     "Releases":5.17,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=041233&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1233&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=041233&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1233&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1709,18 +1709,18 @@
        "coordinates":  [ -80.8042,46.5775 ]
     },
     "properties": {
-    "NPRI ID":1236,
-    "Facility name":"Sudbury Integrated Nickel Operations Smelter",
-    "Company name":"Glencore Canada Corporation",
+    "NPRI_ID":1236,
+    "Facility_name":"Sudbury Integrated Nickel Operations Smelter",
+    "Company_name":"Glencore Canada Corporation",
     "Address":"2 Longyear Drive",
     "City":"Falconbridge",
     "Province":"Ontario",
     "Postal code":"P0M 1S0",
     "Releases":1.67,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=041236&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1236&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=041236&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1236&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1730,18 +1730,18 @@
        "coordinates":  [ -81.0561,46.495 ]
     },
     "properties": {
-    "NPRI ID":1465,
-    "Facility name":"Clarabelle Mill",
-    "Company name":"Vale Canada Limited",
+    "NPRI_ID":1465,
+    "Facility_name":"Clarabelle Mill",
+    "Company_name":"Vale Canada Limited",
     "Address":"1 - 1701 Elm Street",
     "City":"Copper Cliff",
     "Province":"Ontario",
     "Postal code":"P0M 1N0",
     "Releases":2,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=041465&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1465&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=041465&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1465&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1751,18 +1751,18 @@
        "coordinates":  [ -79.2405,42.8826 ]
     },
     "properties": {
-    "NPRI ID":1471,
-    "Facility name":"Port Colborne Refinery",
-    "Company name":"Vale Canada Limited",
+    "NPRI_ID":1471,
+    "Facility_name":"Port Colborne Refinery",
+    "Company_name":"Vale Canada Limited",
     "Address":"187 Davis Street",
     "City":"Port Colborne",
     "Province":"Ontario",
     "Postal code":"L3K 5W2",
     "Releases":0.1,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=041471&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1471&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=041471&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1471&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1772,18 +1772,18 @@
        "coordinates":  [ -80.0607,48.1463 ]
     },
     "properties": {
-    "NPRI ID":1568,
-    "Facility name":"Macassa Mine",
-    "Company name":"Kirkland Lake Gold Ltd",
+    "NPRI_ID":1568,
+    "Facility_name":"Macassa Mine",
+    "Company_name":"Kirkland Lake Gold Ltd",
     "Address":"66 Highway",
     "City":"Kirkland Lake",
     "Province":"Ontario",
     "Postal code":"P2N 3J1",
     "Releases":0.86,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=041568&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1568&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=041568&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1568&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1793,18 +1793,18 @@
        "coordinates":  [ -81.2475,48.4633 ]
     },
     "properties": {
-    "NPRI ID":1941,
-    "Facility name":"Porcupine Gold Mines",
-    "Company name":"Goldcorp Canada Ltd",
+    "NPRI_ID":1941,
+    "Facility_name":"Porcupine Gold Mines",
+    "Company_name":"Goldcorp Canada Ltd",
     "Address":"4315 Gold Mine Road",
     "City":"South Porcupine",
     "Province":"Ontario",
     "Postal code":"P0N 1H0",
     "Releases":0.34,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=041941&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1941&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=041941&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1941&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1814,18 +1814,18 @@
        "coordinates":  [ -82.4239,49.41 ]
     },
     "properties": {
-    "NPRI ID":2173,
-    "Facility name":"Kapuskasing Operations",
-    "Company name":"Rayonier A.M. Canada G.P.",
+    "NPRI_ID":2173,
+    "Facility_name":"Kapuskasing Operations",
+    "Company_name":"Rayonier A.M. Canada G.P.",
     "Address":"1 Government Road",
     "City":"Kapuskasing",
     "Province":"Ontario",
     "Postal code":"P5N 2Y2",
     "Releases":0.51,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=042173&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2173&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=042173&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2173&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1835,18 +1835,18 @@
        "coordinates":  [ -79.4806,43.6333 ]
     },
     "properties": {
-    "NPRI ID":2238,
-    "Facility name":"Humber Treatment Plant",
-    "Company name":"City of Toronto",
+    "NPRI_ID":2238,
+    "Facility_name":"Humber Treatment Plant",
+    "Company_name":"City of Toronto",
     "Address":"130 the Queensway",
     "City":"Toronto",
     "Province":"Ontario",
     "Postal code":"M8Y 1H9",
     "Releases":272,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=042238&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2238&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=042238&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2238&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1856,18 +1856,18 @@
        "coordinates":  [ -79.3194,43.6569 ]
     },
     "properties": {
-    "NPRI ID":2240,
-    "Facility name":"Ashbridges Bay Treatment Plant",
-    "Company name":"City of Toronto",
+    "NPRI_ID":2240,
+    "Facility_name":"Ashbridges Bay Treatment Plant",
+    "Company_name":"City of Toronto",
     "Address":"9 Leslie Street",
     "City":"Toronto",
     "Province":"Ontario",
     "Postal code":"M4M 3M9",
     "Releases":407,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=042240&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2240&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=042240&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2240&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1877,18 +1877,18 @@
        "coordinates":  [ -87.1039,48.7965 ]
     },
     "properties": {
-    "NPRI ID":2607,
-    "Facility name":"Av Terrace Bay",
-    "Company name":"AV Terrace Bay Inc.",
+    "NPRI_ID":2607,
+    "Facility_name":"Av Terrace Bay",
+    "Company_name":"AV Terrace Bay Inc.",
     "Address":"21 Mill Road",
     "City":"Terrace Bay",
     "Province":"Ontario",
     "Postal code":"P0T 2W0",
     "Releases":11.19,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=042607&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2607&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=042607&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2607&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1898,18 +1898,18 @@
        "coordinates":  [ -93.917984,50.967626 ]
     },
     "properties": {
-    "NPRI ID":2710,
-    "Facility name":"Red Lake Operation",
-    "Company name":"Evolution Mining Gold Operations Ltd.",
+    "NPRI_ID":2710,
+    "Facility_name":"Red Lake Operation",
+    "Company_name":"Evolution Mining Gold Operations Ltd.",
     "Address":"15 Eric Radford Way",
     "City":"Balmertown",
     "Province":"Ontario",
     "Postal code":"P0V 1C0",
     "Releases":0.02,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=042710&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2710&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=042710&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2710&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1919,18 +1919,18 @@
        "coordinates":  [ -81.078,48.5493 ]
     },
     "properties": {
-    "NPRI ID":2815,
-    "Facility name":"Kidd Metallurgical Site",
-    "Company name":"Glencore Canada Corporation",
+    "NPRI_ID":2815,
+    "Facility_name":"Kidd Metallurgical Site",
+    "Company_name":"Glencore Canada Corporation",
     "Address":"10050 Highway 101 East Highway East",
     "City":"Timmins/District of Cochrane",
     "Province":"Ontario",
     "Postal code":"P4N 7K1",
     "Releases":1.26,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=042815&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2815&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=042815&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2815&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1940,18 +1940,18 @@
        "coordinates":  [ -81.7683,46.2681 ]
     },
     "properties": {
-    "NPRI ID":3185,
-    "Facility name":"Espanola Mill",
-    "Company name":"Domtar Inc.",
+    "NPRI_ID":3185,
+    "Facility_name":"Espanola Mill",
+    "Company_name":"Domtar Inc.",
     "Address":"1 Station Road",
     "City":"Espanola",
     "Province":"Ontario",
     "Postal code":"P5E 1R6",
     "Releases":8.27,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=043185&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3185&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=043185&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3185&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1961,18 +1961,18 @@
        "coordinates":  [ -85.9188,48.6942 ]
     },
     "properties": {
-    "NPRI ID":3197,
-    "Facility name":"Williams Mine",
-    "Company name":"Williams Operating Corporation",
+    "NPRI_ID":3197,
+    "Facility_name":"Williams Mine",
+    "Company_name":"Williams Operating Corporation",
     "Address":"3km West of Junction Hwy 17 and 614 Highway W",
     "City":"Marathon",
     "Province":"Ontario",
     "Postal code":"P0T 2E0",
     "Releases":0.3,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=043197&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3197&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=043197&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3197&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -1982,18 +1982,18 @@
        "coordinates":  [ -91.5656,48.8361 ]
     },
     "properties": {
-    "NPRI ID":3238,
-    "Facility name":"Atikokan Generating Station",
-    "Company name":"Ontario Power Generation Inc.",
+    "NPRI_ID":3238,
+    "Facility_name":"Atikokan Generating Station",
+    "Company_name":"Ontario Power Generation Inc.",
     "Address":"15202 622 Highway",
     "City":"Atikokan",
     "Province":"Ontario",
     "Postal code":"P0T 1C0",
     "Releases":0,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=043238&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3238&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=043238&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3238&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2003,18 +2003,18 @@
        "coordinates":  [ -80.3416,48.5344 ]
     },
     "properties": {
-    "NPRI ID":3810,
-    "Facility name":"Mcewen Ontario Black Fox Mine",
-    "Company name":"Mcewen Ontario",
+    "NPRI_ID":3810,
+    "Facility_name":"Mcewen Ontario Black Fox Mine",
+    "Company_name":"Mcewen Ontario",
     "Address":"2839 Hwy 101 Highway East",
     "City":"Matheson",
     "Province":"Ontario",
     "Postal code":"P0K 1N0",
     "Releases":0.03,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=043810&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3810&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=043810&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3810&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2024,18 +2024,18 @@
        "coordinates":  [ -78.9097,43.8578 ]
     },
     "properties": {
-    "NPRI ID":3824,
-    "Facility name":"Gerdau Ameristeel Corporation, Whitby Mill",
-    "Company name":"Gerdau Ameristeel Corporation",
+    "NPRI_ID":3824,
+    "Facility_name":"Gerdau Ameristeel Corporation, Whitby Mill",
+    "Company_name":"Gerdau Ameristeel Corporation",
     "Address":"1 Gerdau Court",
     "City":"Whitby",
     "Province":"Ontario",
     "Postal code":"L1N 5T1",
     "Releases":0.03,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=043824&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3824&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=043824&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3824&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2045,18 +2045,18 @@
        "coordinates":  [ -80.0967,42.81 ]
     },
     "properties": {
-    "NPRI ID":3855,
-    "Facility name":"Lake Erie",
-    "Company name":"Stelco Inc.",
+    "NPRI_ID":3855,
+    "Facility_name":"Lake Erie",
+    "Company_name":"Stelco Inc.",
     "Address":"2330 Regional #3 Road",
     "City":"Haldimand County",
     "Province":"Ontario",
     "Postal code":"N0A 1L0",
     "Releases":13.62,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=043855&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3855&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=043855&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3855&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2066,18 +2066,18 @@
        "coordinates":  [ -79.15,43.7667 ]
     },
     "properties": {
-    "NPRI ID":4435,
-    "Facility name":"Highland Creek Treatment Plant",
-    "Company name":"City of Toronto",
+    "NPRI_ID":4435,
+    "Facility_name":"Highland Creek Treatment Plant",
+    "Company_name":"City of Toronto",
     "Address":"51 Beechgrove Drive",
     "City":"Toronto",
     "Province":"Ontario",
     "Postal code":"M1E 3Z3",
     "Releases":127,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=044435&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=4435&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=044435&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=4435&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2087,18 +2087,18 @@
        "coordinates":  [ -81.2821,42.9744 ]
     },
     "properties": {
-    "NPRI ID":4743,
-    "Facility name":"Greenway Pollution Control Centre",
-    "Company name":"Corporation of the City of London",
+    "NPRI_ID":4743,
+    "Facility_name":"Greenway Pollution Control Centre",
+    "Company_name":"Corporation of the City of London",
     "Address":"109 Greenside Avenue",
     "City":"London",
     "Province":"Ontario",
     "Postal code":"N6J 2X5",
     "Releases":4.77,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=044743&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=4743&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=044743&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=4743&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2108,18 +2108,18 @@
        "coordinates":  [ -90.3682,52.6039 ]
     },
     "properties": {
-    "NPRI ID":5656,
-    "Facility name":"Musselwhite Mine",
-    "Company name":"Goldcorp Canada Ltd",
+    "NPRI_ID":5656,
+    "Facility_name":"Musselwhite Mine",
+    "Company_name":"Goldcorp Canada Ltd",
     "Address":"PO Box 7500",
     "City":"N/A Concession, Kenora Distric",
     "Province":"Ontario",
     "Postal code":"",
     "Releases":0.01,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=045656&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=5656&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=045656&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=5656&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2129,18 +2129,18 @@
        "coordinates":  [ -79.3569,43.7003 ]
     },
     "properties": {
-    "NPRI ID":5884,
-    "Facility name":"North Toronto Treatment Plant",
-    "Company name":"City of Toronto",
+    "NPRI_ID":5884,
+    "Facility_name":"North Toronto Treatment Plant",
+    "Company_name":"City of Toronto",
     "Address":"21 Redway Road",
     "City":"Toronto",
     "Province":"Ontario",
     "Postal code":"M4H 1P6",
     "Releases":12.7,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=045884&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=5884&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=045884&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=5884&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2150,18 +2150,18 @@
        "coordinates":  [ -79.7711,43.253 ]
     },
     "properties": {
-    "NPRI ID":5970,
-    "Facility name":"Woodward Avenue Wastewater Treatment Plant",
-    "Company name":"City of Hamilton",
+    "NPRI_ID":5970,
+    "Facility_name":"Woodward Avenue Wastewater Treatment Plant",
+    "Company_name":"City of Hamilton",
     "Address":"700 Woodward Avenue North",
     "City":"Hamilton",
     "Province":"Ontario",
     "Postal code":"L8H 6P4",
     "Releases":5,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=045970&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=5970&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=045970&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=5970&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2171,18 +2171,18 @@
        "coordinates":  [ -79.7467,48.5232 ]
     },
     "properties": {
-    "NPRI ID":7051,
-    "Facility name":"Holloway Mine Site",
-    "Company name":"St Andrew Goldfields Ltd. /Kirkland Lake Gold Ltd",
+    "NPRI_ID":7051,
+    "Facility_name":"Holloway Mine Site",
+    "Company_name":"St Andrew Goldfields Ltd. /Kirkland Lake Gold Ltd",
     "Address":"Hwy 101 East Highway",
     "City":"Cochrane Dist.",
     "Province":"Ontario",
     "Postal code":"P0K 1N0",
     "Releases":0.14,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=047051&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=7051&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=047051&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=7051&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2192,18 +2192,18 @@
        "coordinates":  [ -82.5881,42.0361 ]
     },
     "properties": {
-    "NPRI ID":7264,
-    "Facility name":"Leamington Pollution Control Centre",
-    "Company name":"Corporation of the Municipality of Leamington",
+    "NPRI_ID":7264,
+    "Facility_name":"Leamington Pollution Control Centre",
+    "Company_name":"Corporation of the Municipality of Leamington",
     "Address":"435 Seacliff Drive East",
     "City":"Leamington",
     "Province":"Ontario",
     "Postal code":"N8H 3V7",
     "Releases":1.1,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=047264&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=7264&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=047264&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=7264&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2213,18 +2213,18 @@
        "coordinates":  [ -89.6167,49.1593 ]
     },
     "properties": {
-    "NPRI ID":7369,
-    "Facility name":"Impala Canada Ltd.",
-    "Company name":"Impala Canada Ltd.",
+    "NPRI_ID":7369,
+    "Facility_name":"Impala Canada Ltd.",
+    "Company_name":"Impala Canada Ltd.",
     "Address":"Highway 527 Highway",
     "City":"Thunder Bay",
     "Province":"Ontario",
     "Postal code":"P7B 6T9",
     "Releases":0.01,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=047369&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=7369&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=047369&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=7369&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2234,18 +2234,18 @@
        "coordinates":  [ -76.4199,44.2416 ]
     },
     "properties": {
-    "NPRI ID":10149,
-    "Facility name":"Ravensview Wastewater Treatment",
-    "Company name":"The Corporation of the City of Kingston",
+    "NPRI_ID":10149,
+    "Facility_name":"Ravensview Wastewater Treatment",
+    "Company_name":"The Corporation of the City of Kingston",
     "Address":"947 2 Highway",
     "City":"Kingston",
     "Province":"Ontario",
     "Postal code":"K7L 4V1",
     "Releases":54,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=0410149&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=10149&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=0410149&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=10149&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2255,18 +2255,18 @@
        "coordinates":  [ -81.3701,48.687 ]
     },
     "properties": {
-    "NPRI ID":10153,
-    "Facility name":"Kidd Mine Site",
-    "Company name":"Glencore Canada Corporation",
+    "NPRI_ID":10153,
+    "Facility_name":"Kidd Mine Site",
+    "Company_name":"Glencore Canada Corporation",
     "Address":"11335 Highway 655 North Highway North",
     "City":"Timmins",
     "Province":"Ontario",
     "Postal code":"P4N 7K1",
     "Releases":2.18,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=0410153&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=10153&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=0410153&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=10153&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2276,18 +2276,18 @@
        "coordinates":  [ -80.8562,46.5667 ]
     },
     "properties": {
-    "NPRI ID":10202,
-    "Facility name":"Garson Mine",
-    "Company name":"Vale Canada Limited",
+    "NPRI_ID":10202,
+    "Facility_name":"Garson Mine",
+    "Company_name":"Vale Canada Limited",
     "Address":"60 Mine Road",
     "City":"Garson",
     "Province":"Ontario",
     "Postal code":"P3L 1A3",
     "Releases":0.17,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=0410202&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=10202&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=0410202&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=10202&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2297,18 +2297,18 @@
        "coordinates":  [ -76.5516,44.2143 ]
     },
     "properties": {
-    "NPRI ID":10400,
-    "Facility name":"Cataraqui Bay Wastewater Treatment",
-    "Company name":"The Corporation of the City of Kingston",
+    "NPRI_ID":10400,
+    "Facility_name":"Cataraqui Bay Wastewater Treatment",
+    "Company_name":"The Corporation of the City of Kingston",
     "Address":"409 Front Road",
     "City":"Kingston",
     "Province":"Ontario",
     "Postal code":"K7L 5A5",
     "Releases":30,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=0410400&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=10400&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=0410400&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=10400&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2318,18 +2318,18 @@
        "coordinates":  [ -79.6663,47.3727 ]
     },
     "properties": {
-    "NPRI ID":10622,
-    "Facility name":"Smc (Canada) Ltd.",
-    "Company name":"SMC (Canada) Ltd.",
+    "NPRI_ID":10622,
+    "Facility_name":"Smc (Canada) Ltd.",
+    "Company_name":"SMC (Canada) Ltd.",
     "Address":"797318 Coleman Road",
     "City":"Cobalt",
     "Province":"Ontario",
     "Postal code":"P0J 1C0",
     "Releases":0.57,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=0410622&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=10622&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=0410622&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=10622&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2339,18 +2339,18 @@
        "coordinates":  [ -84.553,48.3505 ]
     },
     "properties": {
-    "NPRI ID":11454,
-    "Facility name":"Island Gold Mine",
-    "Company name":"Island Gold Mines (A Subsidiary Company of Alamos Gold Incor",
+    "NPRI_ID":11454,
+    "Facility_name":"Island Gold Mine",
+    "Company_name":"Island Gold Mines (A Subsidiary Company of Alamos Gold Incor",
     "Address":"15 Goudreau Road",
     "City":"Dubreuilville",
     "Province":"Ontario",
     "Postal code":"P0S 1B0",
     "Releases":0.02,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=0411454&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=11454&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=0411454&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=11454&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2360,18 +2360,18 @@
        "coordinates":  [ -81.1166,48.3612 ]
     },
     "properties": {
-    "NPRI ID":11514,
-    "Facility name":"Redstone Mine",
-    "Company name":"Liberty Mines Inc",
+    "NPRI_ID":11514,
+    "Facility_name":"Redstone Mine",
+    "Company_name":"Liberty Mines Inc",
     "Address":"Stringers Road",
     "City":"South Porcupine",
     "Province":"Ontario",
     "Postal code":"P0N 1H0",
     "Releases":0,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=0411514&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=11514&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=0411514&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=11514&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2381,18 +2381,18 @@
        "coordinates":  [ -80.7509,48.5515 ]
     },
     "properties": {
-    "NPRI ID":11743,
-    "Facility name":"Mcewen Ontario Black Fox Mill",
-    "Company name":"Mcewen Ontario",
+    "NPRI_ID":11743,
+    "Facility_name":"Mcewen Ontario Black Fox Mill",
+    "Company_name":"Mcewen Ontario",
     "Address":"5300 Hwy 101 Highway East",
     "City":"Matheson",
     "Province":"Ontario",
     "Postal code":"P0K 1N0",
     "Releases":0.01,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=0411743&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=11743&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=0411743&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=11743&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2402,18 +2402,18 @@
        "coordinates":  [ -81.0419,48.4741 ]
     },
     "properties": {
-    "NPRI ID":11796,
-    "Facility name":"Bell Creek Complex",
-    "Company name":"Lake Shore Gold",
+    "NPRI_ID":11796,
+    "Facility_name":"Bell Creek Complex",
+    "Company_name":"Lake Shore Gold",
     "Address":"3160 Florence Street",
     "City":"Porcupine",
     "Province":"Ontario",
     "Postal code":"P0N 1C0",
     "Releases":0.03,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=0411796&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=11796&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=0411796&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=11796&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2423,18 +2423,18 @@
        "coordinates":  [ -93.7411,51.1248 ]
     },
     "properties": {
-    "NPRI ID":11852,
-    "Facility name":"Battle North Gold Corporation - Bateman Gold Project",
-    "Company name":"Evolution Mining Gold Operations Ltd",
+    "NPRI_ID":11852,
+    "Facility_name":"Battle North Gold Corporation - Bateman Gold Project",
+    "Company_name":"Evolution Mining Gold Operations Ltd",
     "Address":"103 East Bay Access Road",
     "City":"Cochenour",
     "Province":"Ontario",
     "Postal code":"P0V 1L0",
     "Releases":0,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=0411852&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=11852&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=0411852&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=11852&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2444,18 +2444,18 @@
        "coordinates":  [ -81.34961,46.43125 ]
     },
     "properties": {
-    "NPRI ID":11877,
-    "Facility name":"Ellen Pit",
-    "Company name":"Vale Canada Limited",
+    "NPRI_ID":11877,
+    "Facility_name":"Ellen Pit",
+    "Company_name":"Vale Canada Limited",
     "Address":"Crean Hill Road Road",
     "City":"Denison Township",
     "Province":"Ontario",
     "Postal code":"P0M 1L0",
     "Releases":0.03,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=0411877&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=11877&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=0411877&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=11877&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2465,18 +2465,18 @@
        "coordinates":  [ -81.4541,46.3813 ]
     },
     "properties": {
-    "NPRI ID":11878,
-    "Facility name":"Totten Mine",
-    "Company name":"Vale Canada Limited",
+    "NPRI_ID":11878,
+    "Facility_name":"Totten Mine",
+    "Company_name":"Vale Canada Limited",
     "Address":"6 C. Johnson Road",
     "City":"Worthington",
     "Province":"Ontario",
     "Postal code":"P0M 3H0",
     "Releases":0.07,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=0411878&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=11878&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=0411878&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=11878&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2486,18 +2486,18 @@
        "coordinates":  [ -80.67722,47.94722 ]
     },
     "properties": {
-    "NPRI ID":26132,
-    "Facility name":"Young-Davidson",
-    "Company name":"Alamos Gold Incorporated",
+    "NPRI_ID":26132,
+    "Facility_name":"Young-Davidson",
+    "Company_name":"Alamos Gold Incorporated",
     "Address":"566 Hwy 566 Road West",
     "City":"Matachewan",
     "Province":"Ontario",
     "Postal code":"P0K 1M0",
     "Releases":0.21,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=0426132&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=26132&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=0426132&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=26132&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2507,18 +2507,18 @@
        "coordinates":  [ -83.25873,47.87057 ]
     },
     "properties": {
-    "NPRI ID":29877,
-    "Facility name":"Borden Gold Mine",
-    "Company name":"Goldcorp Canada Ltd.",
+    "NPRI_ID":29877,
+    "Facility_name":"Borden Gold Mine",
+    "Company_name":"Goldcorp Canada Ltd.",
     "Address":"Highway 101 East",
     "City":"Chapleau",
     "Province":"Ontario",
     "Postal code":"P0M 1K0",
     "Releases":0.01,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=0429877&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=29877&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=0429877&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=29877&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2528,18 +2528,18 @@
        "coordinates":  [ -85.229848,48.622573 ]
     },
     "properties": {
-    "NPRI ID":29897,
-    "Facility name":"Harte Gold Corporation - Sugar Zone Project",
-    "Company name":"Harte Gold Corp",
+    "NPRI_ID":29897,
+    "Facility_name":"Harte Gold Corporation - Sugar Zone Project",
+    "Company_name":"Harte Gold Corp",
     "Address":"113 Tukanee Lake Road",
     "City":"White River",
     "Province":"Ontario",
     "Postal code":"P0M 3G0",
     "Releases":0,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=0429897&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=29897&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=0429897&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=29897&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2549,18 +2549,18 @@
        "coordinates":  [ -63.1118,46.2457 ]
     },
     "properties": {
-    "NPRI ID":5090,
-    "Facility name":"Charlottetown Pollution Control Plant",
-    "Company name":"City of Charlottetown",
+    "NPRI_ID":5090,
+    "Facility_name":"Charlottetown Pollution Control Plant",
+    "Company_name":"City of Charlottetown",
     "Address":"18 Riverside Drive",
     "City":"Charlottetown",
     "Province":"Prince Edward Island",
     "Postal code":"C1A 7K2",
     "Releases":12.3,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=045090&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=5090&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=045090&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=5090&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2570,18 +2570,18 @@
        "coordinates":  [ -78.3958,48.2375 ]
     },
     "properties": {
-    "NPRI ID":99,
-    "Facility name":"Division Laronde",
-    "Company name":"Les Mines Agnico Eagle Limit�e",
+    "NPRI_ID":99,
+    "Facility_name":"Division Laronde",
+    "Company_name":"Les Mines Agnico Eagle Limit�e",
     "Address":"10200 Route de Preissac",
     "City":"Rouyn-Noranda",
     "Province":"Quebec",
     "Postal code":"J0Y 1C0",
     "Releases":4.61,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=0499&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=99&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=0499&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=99&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2591,18 +2591,18 @@
        "coordinates":  [ -75.6556,45.4808 ]
     },
     "properties": {
-    "NPRI ID":929,
-    "Facility name":"Usine de Gatineau",
-    "Company name":"Produits Forestiers R�solu",
+    "NPRI_ID":929,
+    "Facility_name":"Usine de Gatineau",
+    "Company_name":"Produits Forestiers R�solu",
     "Address":"79 Main",
     "City":"Gatineau",
     "Province":"Quebec",
     "Postal code":"J8P 4X6",
     "Releases":11.47,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=04929&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=929&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=04929&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=929&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2612,18 +2612,18 @@
        "coordinates":  [ -71.2437,48.4289 ]
     },
     "properties": {
-    "NPRI ID":979,
-    "Facility name":"Usine K�nogami",
-    "Company name":"Produits Forestiers R�solu",
+    "NPRI_ID":979,
+    "Facility_name":"Usine K�nogami",
+    "Company_name":"Produits Forestiers R�solu",
     "Address":"3750 de Champlain",
     "City":"Saguenay",
     "Province":"Quebec",
     "Postal code":"G7X 1M1",
     "Releases":4.14,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=04979&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=979&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=04979&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=979&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2633,18 +2633,18 @@
        "coordinates":  [ -71.6558,48.565 ]
     },
     "properties": {
-    "NPRI ID":983,
-    "Facility name":"Division Alma",
-    "Company name":"Produits Forestiers R�solu",
+    "NPRI_ID":983,
+    "Facility_name":"Division Alma",
+    "Company_name":"Produits Forestiers R�solu",
     "Address":"1100 Melanion Street",
     "City":"Alma",
     "Province":"Quebec",
     "Postal code":"G8B 5W2",
     "Releases":8.27,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=04983&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=983&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=04983&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=983&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2654,18 +2654,18 @@
        "coordinates":  [ -71.979,45.5644 ]
     },
     "properties": {
-    "NPRI ID":1195,
-    "Facility name":"Domtar Usine de Windsor",
-    "Company name":"Domtar Inc.",
+    "NPRI_ID":1195,
+    "Facility_name":"Domtar Usine de Windsor",
+    "Company_name":"Domtar Inc.",
     "Address":"609 Rang 12",
     "City":"Windsor",
     "Province":"Quebec",
     "Postal code":"J1S 2L9",
     "Releases":21.6,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=041195&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1195&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=041195&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1195&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2675,18 +2675,18 @@
        "coordinates":  [ -75.2562,45.5985 ]
     },
     "properties": {
-    "NPRI ID":1528,
-    "Facility name":"Usine de Thurso",
-    "Company name":"Fortress Cellulose Sp�cialis�e",
+    "NPRI_ID":1528,
+    "Facility_name":"Usine de Thurso",
+    "Company_name":"Fortress Cellulose Sp�cialis�e",
     "Address":"",
     "City":"Thurso",
     "Province":"Quebec",
     "Postal code":"J0X 3B0",
     "Releases":0,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=041528&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1528&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=041528&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1528&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2696,18 +2696,18 @@
        "coordinates":  [ -72.2189,48.8791 ]
     },
     "properties": {
-    "NPRI ID":1979,
-    "Facility name":"Papeterie de Dolbeau",
-    "Company name":"Produits Forestiers R�solu",
+    "NPRI_ID":1979,
+    "Facility_name":"Papeterie de Dolbeau",
+    "Company_name":"Produits Forestiers R�solu",
     "Address":"1 4i�me Avenue",
     "City":"Dolbeau-Mistassini",
     "Province":"Quebec",
     "Postal code":"G8L 2R4",
     "Releases":9.1,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=041979&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1979&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=041979&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1979&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2717,18 +2717,18 @@
        "coordinates":  [ -66.791,50.0334 ]
     },
     "properties": {
-    "NPRI ID":2000,
-    "Facility name":"Usine de Bouletage de Port-Cartier",
-    "Company name":"Arcelormittal Exploitation Mini�re Canada S.E.N.C.",
+    "NPRI_ID":2000,
+    "Facility_name":"Usine de Bouletage de Port-Cartier",
+    "Company_name":"Arcelormittal Exploitation Mini�re Canada S.E.N.C.",
     "Address":"186 Portage des Mousses",
     "City":"Port-Cartier",
     "Province":"Quebec",
     "Postal code":"G5B 2H3",
     "Releases":0.5,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=042000&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2000&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=042000&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2000&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2738,18 +2738,18 @@
        "coordinates":  [ -71.1578,48.5322 ]
     },
     "properties": {
-    "NPRI ID":2100,
-    "Facility name":"La Mine Niobec",
-    "Company name":"Magris Ressources",
+    "NPRI_ID":2100,
+    "Facility_name":"La Mine Niobec",
+    "Company_name":"Magris Ressources",
     "Address":"3400 du Columbium Road",
     "City":"Saint-Honor�",
     "Province":"Quebec",
     "Postal code":"G0V 1L0",
     "Releases":0.9,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=042100&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2100&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=042100&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2100&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2759,18 +2759,18 @@
        "coordinates":  [ -72.5185,46.3583 ]
     },
     "properties": {
-    "NPRI ID":2502,
-    "Facility name":"Kruger Wayagamack Inc.",
-    "Company name":"Kruger Wayagamack S.E.C.",
+    "NPRI_ID":2502,
+    "Facility_name":"Kruger Wayagamack Inc.",
+    "Company_name":"Kruger Wayagamack S.E.C.",
     "Address":"1 Ile de la Potherie Street",
     "City":"Trois-Rivi�res",
     "Province":"Quebec",
     "Postal code":"G9A 5E9",
     "Releases":4.79,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=042502&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2502&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=042502&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2502&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2780,18 +2780,18 @@
        "coordinates":  [ -77.9417,48.1083 ]
     },
     "properties": {
-    "NPRI ID":2935,
-    "Facility name":"Complexe Minier Kiena",
-    "Company name":"Mines d'Or Wesdome Limit�e",
+    "NPRI_ID":2935,
+    "Facility_name":"Complexe Minier Kiena",
+    "Company_name":"Mines d'Or Wesdome Limit�e",
     "Address":"950 Kienawisik Road",
     "City":"Val-D'Or",
     "Province":"Quebec",
     "Postal code":"J9P 4P3",
     "Releases":0.17,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=042935&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2935&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=042935&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2935&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2801,18 +2801,18 @@
        "coordinates":  [ -74.0981,45.2283 ]
     },
     "properties": {
-    "NPRI ID":2938,
-    "Facility name":"Soci�t� en Commandite Revenu Noranda - Valleyfield",
-    "Company name":"Soci�t� en Commandite Revenu Noranda",
+    "NPRI_ID":2938,
+    "Facility_name":"Soci�t� en Commandite Revenu Noranda - Valleyfield",
+    "Company_name":"Soci�t� en Commandite Revenu Noranda",
     "Address":"860 G�rard Cadieux Boulevard",
     "City":"Salaberry de Valleyfield",
     "Province":"Quebec",
     "Postal code":"J6T 6L4",
     "Releases":31.99,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=042938&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2938&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=042938&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2938&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2822,18 +2822,18 @@
        "coordinates":  [ -79.0967,46.7111 ]
     },
     "properties": {
-    "NPRI ID":2948,
-    "Facility name":"Site de T�miscaming",
-    "Company name":"Rayonier A.M. Canada G.P.",
+    "NPRI_ID":2948,
+    "Facility_name":"Site de T�miscaming",
+    "Company_name":"Rayonier A.M. Canada G.P.",
     "Address":"33 Kipawa Road",
     "City":"T�miscaming",
     "Province":"Quebec",
     "Postal code":"J0Z 3R0",
     "Releases":7.31,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=042948&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2948&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=042948&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2948&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2843,18 +2843,18 @@
        "coordinates":  [ -73.2661,45.8206 ]
     },
     "properties": {
-    "NPRI ID":2986,
-    "Facility name":"Arcelormittal Contrecoeur Ouest",
-    "Company name":"Arcelormittal Produits Longs Canada S.E.N.C",
+    "NPRI_ID":2986,
+    "Facility_name":"Arcelormittal Contrecoeur Ouest",
+    "Company_name":"Arcelormittal Produits Longs Canada S.E.N.C",
     "Address":"2050 Route des Aci�ries",
     "City":"Contrecoeur",
     "Province":"Quebec",
     "Postal code":"J0L 1C0",
     "Releases":0,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=042986&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2986&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=042986&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=2986&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2864,18 +2864,18 @@
        "coordinates":  [ -72.4583,48.6667 ]
     },
     "properties": {
-    "NPRI ID":3242,
-    "Facility name":"Fibrek Senc",
-    "Company name":"Fibrek S.E.N.C.",
+    "NPRI_ID":3242,
+    "Facility_name":"Fibrek Senc",
+    "Company_name":"Fibrek S.E.N.C.",
     "Address":"4000 St-Eusebe Road",
     "City":"St-F�licien",
     "Province":"Quebec",
     "Postal code":"G8K 2R6",
     "Releases":20.25,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=043242&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3242&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=043242&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3242&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2885,18 +2885,18 @@
        "coordinates":  [ -73.525,45.6722 ]
     },
     "properties": {
-    "NPRI ID":3571,
-    "Facility name":"Station d'�puration des Eaux Us�es Jean-R.-Marcotte",
-    "Company name":"Ville de Montreal",
+    "NPRI_ID":3571,
+    "Facility_name":"Station d'�puration des Eaux Us�es Jean-R.-Marcotte",
+    "Company_name":"Ville de Montreal",
     "Address":"12001 Maurice-Duplessis Boulevard Northeast",
     "City":"Montr�al",
     "Province":"Quebec",
     "Postal code":"H1C 1V3",
     "Releases":110.33,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=043571&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3571&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=043571&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3571&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2906,18 +2906,18 @@
        "coordinates":  [ -79.0167,48.2542 ]
     },
     "properties": {
-    "NPRI ID":3623,
-    "Facility name":"Glencore Canada Corporation - Fonderie Horne",
-    "Company name":"Glencore Canada Corporation",
+    "NPRI_ID":3623,
+    "Facility_name":"Glencore Canada Corporation - Fonderie Horne",
+    "Company_name":"Glencore Canada Corporation",
     "Address":"156 Marcel-Baril Avenue",
     "City":"Rouyn-Noranda",
     "Province":"Quebec",
     "Postal code":"J9X 7C1",
     "Releases":122.58,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=043623&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3623&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=043623&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3623&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2927,18 +2927,18 @@
        "coordinates":  [ -73.263617,45.820545 ]
     },
     "properties": {
-    "NPRI ID":3649,
-    "Facility name":"Arcelormittal Contrecoeur Est",
-    "Company name":"Arcelormittal Produits Longs Canada S.E.N.C",
+    "NPRI_ID":3649,
+    "Facility_name":"Arcelormittal Contrecoeur Est",
+    "Company_name":"Arcelormittal Produits Longs Canada S.E.N.C",
     "Address":"3900 Route des Aci�ries",
     "City":"Contrecoeur",
     "Province":"Quebec",
     "Postal code":"J0L 1C0",
     "Releases":3.02,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=043649&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3649&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=043649&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3649&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2948,18 +2948,18 @@
        "coordinates":  [ -73.255033,45.83466 ]
     },
     "properties": {
-    "NPRI ID":3655,
-    "Facility name":"Usine de D�chiquetage - Arcelormittal Contrecoeur",
-    "Company name":"Arcelormittal Produits Longs Canada S.E.N.C",
+    "NPRI_ID":3655,
+    "Facility_name":"Usine de D�chiquetage - Arcelormittal Contrecoeur",
+    "Company_name":"Arcelormittal Produits Longs Canada S.E.N.C",
     "Address":"3185 Marie-Victorin Route",
     "City":"Contrecoeur",
     "Province":"Quebec",
     "Postal code":"J0L 1C0",
     "Releases":0,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=043655&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3655&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=043655&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3655&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2969,18 +2969,18 @@
        "coordinates":  [ -78.1625,48.5625 ]
     },
     "properties": {
-    "NPRI ID":3828,
-    "Facility name":"Abibow Canada Inc. Division Amos",
-    "Company name":"Produits Forestiers R�solu",
+    "NPRI_ID":3828,
+    "Facility_name":"Abibow Canada Inc. Division Amos",
+    "Company_name":"Produits Forestiers R�solu",
     "Address":"801 des Papetiers",
     "City":"Amos",
     "Province":"Quebec",
     "Postal code":"J9T 3X5",
     "Releases":2.39,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=043828&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3828&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=043828&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3828&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -2990,18 +2990,18 @@
        "coordinates":  [ -73.5167,45.6417 ]
     },
     "properties": {
-    "NPRI ID":3897,
-    "Facility name":"Raffinerie de Montreal",
-    "Company name":"Suncor Enery Products Partenership",
+    "NPRI_ID":3897,
+    "Facility_name":"Raffinerie de Montreal",
+    "Company_name":"Suncor Enery Products Partenership",
     "Address":"11701 Sherbrooke Street East",
     "City":"Montreal",
     "Province":"Quebec",
     "Postal code":"H1B 1C3",
     "Releases":0.43,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=043897&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3897&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=043897&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3897&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -3011,18 +3011,18 @@
        "coordinates":  [ -71.1914,46.7592 ]
     },
     "properties": {
-    "NPRI ID":3928,
-    "Facility name":"Raffinerie Jean-Gaulin",
-    "Company name":"Valero Energy Inc.",
+    "NPRI_ID":3928,
+    "Facility_name":"Raffinerie Jean-Gaulin",
+    "Company_name":"Valero Energy Inc.",
     "Address":"165 des �les Road",
     "City":"L�vis",
     "Province":"Quebec",
     "Postal code":"G6V 7N1",
     "Releases":4.11,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=043928&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3928&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=043928&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=3928&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -3032,18 +3032,18 @@
        "coordinates":  [ -67.5565,48.8318 ]
     },
     "properties": {
-    "NPRI ID":4788,
-    "Facility name":"Sappi Matane",
-    "Company name":"Entreprises Sappi Canada Inc.",
+    "NPRI_ID":4788,
+    "Facility_name":"Sappi Matane",
+    "Company_name":"Entreprises Sappi Canada Inc.",
     "Address":"400 du Port",
     "City":"Matane",
     "Province":"Quebec",
     "Postal code":"G4W 3P6",
     "Releases":7.52,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=044788&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=4788&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=044788&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=4788&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -3053,18 +3053,18 @@
        "coordinates":  [ -69.52,47.8186 ]
     },
     "properties": {
-    "NPRI ID":4790,
-    "Facility name":"F.F.Soucy - Rivi�re-du-Loup",
-    "Company name":"Soci�t� en Commandite FF Soucy WB",
+    "NPRI_ID":4790,
+    "Facility_name":"F.F.Soucy - Rivi�re-du-Loup",
+    "Company_name":"Soci�t� en Commandite FF Soucy WB",
     "Address":"191 Delage",
     "City":"Rivi�re-du-Loup",
     "Province":"Quebec",
     "Postal code":"G5R 3Z1",
     "Releases":3.01,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=044790&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=4790&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=044790&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=4790&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -3074,18 +3074,18 @@
        "coordinates":  [ -70.2255,47.6994 ]
     },
     "properties": {
-    "NPRI ID":4803,
-    "Facility name":"Usine de Clermont",
-    "Company name":"Produits Forestiers R�solu",
+    "NPRI_ID":4803,
+    "Facility_name":"Usine de Clermont",
+    "Company_name":"Produits Forestiers R�solu",
     "Address":"100 Donohue",
     "City":"Clermont",
     "Province":"Quebec",
     "Postal code":"G4A 1A7",
     "Releases":7.71,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=044803&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=4803&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=044803&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=4803&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -3095,18 +3095,18 @@
        "coordinates":  [ -73.1392,46.0447 ]
     },
     "properties": {
-    "NPRI ID":4806,
-    "Facility name":"Rio Tinto Fer et Titane Inc.- Complexe de Sorel-Tracy",
-    "Company name":"Rio Tinto Fer et Titane Inc.",
+    "NPRI_ID":4806,
+    "Facility_name":"Rio Tinto Fer et Titane Inc.- Complexe de Sorel-Tracy",
+    "Company_name":"Rio Tinto Fer et Titane Inc.",
     "Address":"1625 Marie-Victorin",
     "City":"Sorel-Tracy",
     "Province":"Quebec",
     "Postal code":"J3R 1M6",
     "Releases":5.27,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=044806&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=4806&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=044806&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=4806&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -3116,18 +3116,18 @@
        "coordinates":  [ -73.6666,61.6916 ]
     },
     "properties": {
-    "NPRI ID":5448,
-    "Facility name":"Mine Raglan",
-    "Company name":"Glencore Canada Corporation",
+    "NPRI_ID":5448,
+    "Facility_name":"Mine Raglan",
+    "Company_name":"Glencore Canada Corporation",
     "Address":"120 A�roport Avenue",
     "City":"Rouyn-Noranda",
     "Province":"Quebec",
     "Postal code":"J9Y 0G1",
     "Releases":0,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=045448&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=5448&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=045448&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=5448&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -3137,18 +3137,18 @@
        "coordinates":  [ -71.9541,45.4807 ]
     },
     "properties": {
-    "NPRI ID":5471,
-    "Facility name":"Kruger Brompton S.E.C.",
-    "Company name":"Kruger Inc.",
+    "NPRI_ID":5471,
+    "Facility_name":"Kruger Brompton S.E.C.",
+    "Company_name":"Kruger Inc.",
     "Address":"220 de Windsor Route",
     "City":"Sherbrooke",
     "Province":"Quebec",
     "Postal code":"J1C 0E6",
     "Releases":0.77,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=045471&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=5471&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=045471&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=5471&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -3158,18 +3158,18 @@
        "coordinates":  [ -73.605491,45.462539 ]
     },
     "properties": {
-    "NPRI ID":5472,
-    "Facility name":"Emballages Krupack Place Turcot",
-    "Company name":"Produits Kruger S.E.C.",
+    "NPRI_ID":5472,
+    "Facility_name":"Emballages Krupack Place Turcot",
+    "Company_name":"Produits Kruger S.E.C.",
     "Address":"5845 Place Turcot",
     "City":"Montr�al",
     "Province":"Quebec",
     "Postal code":"H4C 1V9",
     "Releases":4.53,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=045472&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=5472&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=045472&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=5472&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -3179,18 +3179,18 @@
        "coordinates":  [ -72.558,46.3278 ]
     },
     "properties": {
-    "NPRI ID":5515,
-    "Facility name":"Kruger Trois-Rivi�res S.E.C.",
-    "Company name":"Kruger Inc.",
+    "NPRI_ID":5515,
+    "Facility_name":"Kruger Trois-Rivi�res S.E.C.",
+    "Company_name":"Kruger Inc.",
     "Address":"3735 Gene-H.-Kruger Boulevard",
     "City":"Trois-Rivi�res",
     "Province":"Quebec",
     "Postal code":"G9A 6B1",
     "Releases":32.01,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=045515&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=5515&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=045515&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=5515&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -3200,18 +3200,18 @@
        "coordinates":  [ -73.4862,45.5837 ]
     },
     "properties": {
-    "NPRI ID":5528,
-    "Facility name":"Centre d'�puration Rive-Sud (Cers)",
-    "Company name":"Ville de Longueuil",
+    "NPRI_ID":5528,
+    "Facility_name":"Centre d'�puration Rive-Sud (Cers)",
+    "Company_name":"Ville de Longueuil",
     "Address":"2999 de l'�le Charron Street North",
     "City":"Longueuil",
     "Province":"Quebec",
     "Postal code":"J4G 1R6",
     "Releases":6.52,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=045528&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=5528&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=045528&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=5528&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -3221,18 +3221,18 @@
        "coordinates":  [ -67.3197,52.7643 ]
     },
     "properties": {
-    "NPRI ID":6217,
-    "Facility name":"Mine de Mont-Wright",
-    "Company name":"Arcelormittal Exploitation Mini�re Canada S.E.N.C.",
+    "NPRI_ID":6217,
+    "Facility_name":"Mine de Mont-Wright",
+    "Company_name":"Arcelormittal Exploitation Mini�re Canada S.E.N.C.",
     "Address":"1000 Route 389",
     "City":"Fermont",
     "Province":"Quebec",
     "Postal code":"G0G 1J0",
     "Releases":27.77,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=046217&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=6217&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=046217&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=6217&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -3242,18 +3242,18 @@
        "coordinates":  [ -73.87,45.6854 ]
     },
     "properties": {
-    "NPRI ID":6374,
-    "Facility name":"Station d'�puration Sainte-Th�r�se-Blainville",
-    "Company name":"R�gie d'Asssainissement Sainte-Th�r�se-Blainville",
+    "NPRI_ID":6374,
+    "Facility_name":"Station d'�puration Sainte-Th�r�se-Blainville",
+    "Company_name":"R�gie d'Asssainissement Sainte-Th�r�se-Blainville",
     "Address":"500 Omer de Serres",
     "City":"Blainville",
     "Province":"Quebec",
     "Postal code":"J7C 5N6",
     "Releases":40,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=046374&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=6374&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=046374&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=6374&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -3263,18 +3263,18 @@
        "coordinates":  [ -78.0313,48.1425 ]
     },
     "properties": {
-    "NPRI ID":8519,
-    "Facility name":"Usine Camflo Inc",
-    "Company name":"Corporation Aurif�re Monarques",
+    "NPRI_ID":8519,
+    "Facility_name":"Usine Camflo Inc",
+    "Company_name":"Corporation Aurif�re Monarques",
     "Address":"117 Route",
     "City":"Malartic",
     "Province":"Quebec",
     "Postal code":"J0Y 1Z0",
     "Releases":0.01,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=048519&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=8519&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=048519&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=8519&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -3284,18 +3284,18 @@
        "coordinates":  [ -79.1646,49.3357 ]
     },
     "properties": {
-    "NPRI ID":8600,
-    "Facility name":"Casa Berardi",
-    "Company name":"Hecla Qu�bec Inc.",
+    "NPRI_ID":8600,
+    "Facility_name":"Casa Berardi",
+    "Company_name":"Hecla Qu�bec Inc.",
     "Address":"Zone de la Rivi�re Th�o",
     "City":"Eeyou Istchee",
     "Province":"Quebec",
     "Postal code":"J9Z 2Y9",
     "Releases":0.07,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=048600&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=8600&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=048600&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=8600&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -3305,18 +3305,18 @@
        "coordinates":  [ -74.0293,45.7288 ]
     },
     "properties": {
-    "NPRI ID":8660,
-    "Facility name":"St-Canut Facility",
-    "Company name":"Covia Canada Ltd.",
+    "NPRI_ID":8660,
+    "Facility_name":"St-Canut Facility",
+    "Company_name":"Covia Canada Ltd.",
     "Address":"11974 Sir Wilfred Laurier",
     "City":"St-Canut, Mirabel",
     "Province":"Quebec",
     "Postal code":"J7N 1H7",
     "Releases":0.96,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=048660&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=8660&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=048660&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=8660&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -3326,18 +3326,18 @@
        "coordinates":  [ -77.874,48.0923 ]
     },
     "properties": {
-    "NPRI ID":8757,
-    "Facility name":"Division Goldex",
-    "Company name":"Agnico-Eagle Mines Lted",
+    "NPRI_ID":8757,
+    "Facility_name":"Division Goldex",
+    "Company_name":"Agnico-Eagle Mines Lted",
     "Address":"1953 3e Avenue Ouest Avenue",
     "City":"Val-D'Or",
     "Province":"Quebec",
     "Postal code":"J9P 4N9",
     "Releases":0.01,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=048757&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=8757&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=048757&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=8757&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -3347,18 +3347,18 @@
        "coordinates":  [ -76.1247,49.4934 ]
     },
     "properties": {
-    "NPRI ID":8769,
-    "Facility name":"Mine Bachelor",
-    "Company name":"Ressources Bonterra Inc.",
+    "NPRI_ID":8769,
+    "Facility_name":"Mine Bachelor",
+    "Company_name":"Ressources Bonterra Inc.",
     "Address":"200 Chemin de la Mine Road",
     "City":"Desmaraisville",
     "Province":"Quebec",
     "Postal code":"J0Y 1H0",
     "Releases":0,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=048769&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=8769&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=048769&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=8769&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -3368,18 +3368,18 @@
        "coordinates":  [ -75.7703,48.9869 ]
     },
     "properties": {
-    "NPRI ID":8800,
-    "Facility name":"Mine Barry",
-    "Company name":"Ressources Bonterra Inc.",
+    "NPRI_ID":8800,
+    "Facility_name":"Mine Barry",
+    "Company_name":"Ressources Bonterra Inc.",
     "Address":"Route Foresti�re 6000 Route",
     "City":"Lebel-sur-Qu�villon",
     "Province":"Quebec",
     "Postal code":"J0Y 1H0",
     "Releases":0,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=048800&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=8800&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=048800&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=8800&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -3389,18 +3389,18 @@
        "coordinates":  [ -76.0775,52.7003 ]
     },
     "properties": {
-    "NPRI ID":8803,
-    "Facility name":"Mine �l�onore",
-    "Company name":"Goldcorp Canada Ltd",
+    "NPRI_ID":8803,
+    "Facility_name":"Mine �l�onore",
+    "Company_name":"Goldcorp Canada Ltd",
     "Address":"1751 Davy Street",
     "City":"Rouyn-Noranda",
     "Province":"Quebec",
     "Postal code":"J9Y 0A8",
     "Releases":0.03,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=048803&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=8803&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=048803&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=8803&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -3410,18 +3410,18 @@
        "coordinates":  [ -78.129272,48.124507 ]
     },
     "properties": {
-    "NPRI ID":25188,
-    "Facility name":"Mine Canadian Malartic Gp",
-    "Company name":"Canadian Malartic Gp",
+    "NPRI_ID":25188,
+    "Facility_name":"Mine Canadian Malartic Gp",
+    "Company_name":"Canadian Malartic Gp",
     "Address":"100 Chemin du Lac Mourier",
     "City":"Malartic",
     "Province":"Quebec",
     "Postal code":"J0Y 1Z0",
     "Releases":1.1,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=0425188&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=25188&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=0425188&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=25188&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -3431,18 +3431,18 @@
        "coordinates":  [ -72.97023,45.65029 ]
     },
     "properties": {
-    "NPRI ID":27917,
-    "Facility name":"Veolia Es Canada Services Industriels Inc.",
-    "Company name":"Veolia ES Canada Services Industriels Inc.",
+    "NPRI_ID":27917,
+    "Facility_name":"Veolia Es Canada Services Industriels Inc.",
+    "Company_name":"Veolia ES Canada Services Industriels Inc.",
     "Address":"7950 Av. Pion",
     "City":"St-Hyacinthe",
     "Province":"Quebec",
     "Postal code":"J2S 8B1",
     "Releases":0.01,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=0427917&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=27917&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=0427917&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=27917&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -3452,18 +3452,18 @@
        "coordinates":  [ -77.585005,48.094314 ]
     },
     "properties": {
-    "NPRI ID":30807,
-    "Facility name":"Eldorado Gold (Qu�bec) Inc.",
-    "Company name":"Eldorado Gold (Qu�bec) Inc.",
+    "NPRI_ID":30807,
+    "Facility_name":"Eldorado Gold (Qu�bec) Inc.",
+    "Company_name":"Eldorado Gold (Qu�bec) Inc.",
     "Address":"300 3e Avenue Est Avenue East",
     "City":"Val-D'Or",
     "Province":"Quebec",
     "Postal code":"J9P 0J6",
     "Releases":0.03,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=0430807&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=30807&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=0430807&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=30807&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -3473,18 +3473,18 @@
        "coordinates":  [ -105.6788,57.2122 ]
     },
     "properties": {
-    "NPRI ID":1148,
-    "Facility name":"Key Lake Operation",
-    "Company name":"Cameco Corporation",
+    "NPRI_ID":1148,
+    "Facility_name":"Key Lake Operation",
+    "Company_name":"Cameco Corporation",
     "Address":"2121 11th Street West",
     "City":"Saskatoon",
     "Province":"Saskatchewan",
     "Postal code":"S7M 1J3",
     "Releases":0.11,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=041148&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1148&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=041148&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1148&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -3494,18 +3494,18 @@
        "coordinates":  [ -105.05,57.7622 ]
     },
     "properties": {
-    "NPRI ID":1149,
-    "Facility name":"Mcarthur River Operation",
-    "Company name":"Cameco Corporation",
+    "NPRI_ID":1149,
+    "Facility_name":"Mcarthur River Operation",
+    "Company_name":"Cameco Corporation",
     "Address":"2121 11th Street West",
     "City":"Saskatoon",
     "Province":"Saskatchewan",
     "Postal code":"S7M 1J3",
     "Releases":0.03,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=041149&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1149&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=041149&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=1149&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -3515,18 +3515,18 @@
        "coordinates":  [ -103.9172,58.2501 ]
     },
     "properties": {
-    "NPRI ID":4866,
-    "Facility name":"Mcclean Lake Operations",
-    "Company name":"Orano Canada Inc.",
+    "NPRI_ID":4866,
+    "Facility_name":"Mcclean Lake Operations",
+    "Company_name":"Orano Canada Inc.",
     "Address":"833 45 Street West",
     "City":"Saskatoon",
     "Province":"Saskatchewan",
     "Postal code":"S7L 5X2",
     "Releases":0.01,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=044866&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=4866&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=044866&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=4866&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -3536,18 +3536,18 @@
        "coordinates":  [ -106.606,52.1827 ]
     },
     "properties": {
-    "NPRI ID":5347,
-    "Facility name":"Wastewater Treatment Plant",
-    "Company name":"City of Saskatoon",
+    "NPRI_ID":5347,
+    "Facility_name":"Wastewater Treatment Plant",
+    "Company_name":"City of Saskatoon",
     "Address":"470 Whiteswan Drive",
     "City":"Saskatoon",
     "Province":"Saskatchewan",
     "Postal code":"S7K 6Z7",
     "Releases":1.59,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=045347&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=5347&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=045347&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=5347&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -3557,18 +3557,18 @@
        "coordinates":  [ -104.542,58.0676 ]
     },
     "properties": {
-    "NPRI ID":19397,
-    "Facility name":"Cigar Lake Operation",
-    "Company name":"Cameco Corporation",
+    "NPRI_ID":19397,
+    "Facility_name":"Cigar Lake Operation",
+    "Company_name":"Cameco Corporation",
     "Address":"2121 11th Street West",
     "City":"Saskatoon",
     "Province":"Saskatchewan",
     "Postal code":"S7M 1J3",
     "Releases":0,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=0419397&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=19397&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=0419397&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=19397&opt_report_year=2020",
+    "Report_year":2020
     }
   },
   {
@@ -3578,18 +3578,18 @@
        "coordinates":  [ -103.6151,55.6884 ]
     },
     "properties": {
-    "NPRI ID":23273,
-    "Facility name":"Seabee",
-    "Company name":"Sgo Mining Inc.",
+    "NPRI_ID":23273,
+    "Facility_name":"Seabee",
+    "Company_name":"Sgo Mining Inc.",
     "Address":"2100 Airport Drive",
     "City":"Saskatoon",
     "Province":"Saskatchewan",
     "Postal code":"S7L 6M6",
     "Releases":0,
     "Units":"kilograms (kg)",
-    "Facility details":"http://indicators-map.canada.ca/App/Detail?id=0423273&GoCTemplateCulture=en-CA\n",
-    "Facility information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=23273&opt_report_year=2020",
-    "Report year":2020
+    "Facility_details":"http://indicators-map.canada.ca/App/Detail?id=0423273&GoCTemplateCulture=en-CA\n",
+    "Facility_information":"https://pollution-waste.canada.ca/national-release-inventory/archives/index.cfm?do=facility_substance_summary&lang=En&opt_npri_id=23273&opt_report_year=2020",
+    "Report_year":2020
     }
   }
 ]
