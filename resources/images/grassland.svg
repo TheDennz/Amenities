@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M288 120c0-30.9 25.1-56 56-56s56 25.1 56 56v13c-29.3 10-48 34.5-48 70.1c0 27.9 25.3 74.8 66 111.6c3.8 3.5 8.9 5.3 14 5.3s10.2-1.8 14-5.3c40.7-36.8 66-83.7 66-111.6c0-35.6-18.7-60.2-48-70.1V120C464 53.7 410.3 0 344 0S224 53.7 224 120v21.8C207.3 133 188.2 128 168 128c-66.3 0-120 53.7-120 120v13c-29.3 10-48 34.5-48 70.1C0 359 25.3 405.9 66 442.7c3.8 3.5 8.9 5.3 14 5.3s10.2-1.8 14-5.3c40.7-36.8 66-83.7 66-111.6c0-35.6-18.7-60.2-48-70.1V248c0-30.9 25.1-56 56-56s56 25.1 56 56v32V480c0 17.7 14.3 32 32 32s32-14.3 32-32V280 248 120z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="transparent"></rect>
+<g transform="matrix(1 0 0 1 540 540)" id="9de24dbc-cae5-4dde-92e9-318c6f0617b6"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="306fc666-b2d7-41a8-82dc-ec6891540ac5"  >
+</g>
+<g transform="matrix(1 0 0 1 577.67 541)" id="ae43494a-dd65-4988-8f21-04a2ff099433"  >
+<path style="stroke: rgb(0,0,0); stroke-width: 2; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(229,248,52); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-256, -256)" d="M 288 120 C 288 89.1 313.1 64 344 64 C 374.9 64 400 89.1 400 120 L 400 133 C 370.7 143 352 167.5 352 203.1 C 352 231 377.3 277.9 418 314.7 C 421.8 318.2 426.9 320 432 320 C 437.1 320 442.2 318.2 446 314.7 C 486.7 277.9 512 231 512 203.1 C 512 167.5 493.3 142.89999999999998 464 133 L 464 120 C 464 53.7 410.3 0 344 0 C 277.7 0 224 53.7 224 120 L 224 141.8 C 207.3 133 188.2 128 168 128 C 101.7 128 48 181.7 48 248 L 48 261 C 18.7 271 0 295.5 0 331.1 C 0 359 25.3 405.9 66 442.7 C 69.8 446.2 74.9 448 80 448 C 85.1 448 90.2 446.2 94 442.7 C 134.7 405.9 160 359 160 331.1 C 160 295.5 141.3 270.90000000000003 112 261 L 112 248 C 112 217.1 137.1 192 168 192 C 198.9 192 224 217.1 224 248 L 224 280 L 224 480 C 224 497.7 238.3 512 256 512 C 273.7 512 288 497.7 288 480 L 288 280 L 288 248 L 288 120 z" stroke-linecap="round" />
+</g>
+</svg>
