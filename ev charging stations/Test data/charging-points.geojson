@@ -1,0 +1,350 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Partington",
+        "price": 0.3
+      },
+      "geometry": {
+        "coordinates": [
+          -2.3418460104144003,
+          53.508342354269445
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Godlee Dr",
+        "price": 0.5
+      },
+      "geometry": {
+        "coordinates": [
+          -2.3454281339814145,
+          53.50825553838041
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Campbell Road",
+        "price": 0.7
+      },
+      "geometry": {
+        "coordinates": [
+          -2.3427750522438373,
+          53.502975962281965
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ellesmee park",
+        "price": 0.4
+      },
+      "geometry": {
+        "coordinates": [
+          -2.3420554791376276,
+          53.49165376434644
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Swinton",
+        "price": 0.75
+      },
+      "geometry": {
+        "coordinates": [
+          -2.332284771822799,
+          53.49884528225013
+        ],
+        "type": "Point"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Worsey",
+        "price": 0.5
+      },
+      "geometry": {
+        "coordinates": [
+          -2.3593699487513504,
+          53.50343206219813
+        ],
+        "type": "Point"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Worsly road",
+        "price": 0.4
+      },
+      "geometry": {
+        "coordinates": [
+          -2.3751427173578747,
+          53.493324938302976
+        ],
+        "type": "Point"
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Green lane",
+        "price": 0.5
+      },
+      "geometry": {
+        "coordinates": [
+          -2.355900155742461,
+          53.48275565366751
+        ],
+        "type": "Point"
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dales Brow",
+        "pricce": 0.6
+      },
+      "geometry": {
+        "coordinates": [
+          -2.3491714356096907,
+          53.499069017767965
+        ],
+        "type": "Point"
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "weaste",
+        "price": 0.77
+      },
+      "geometry": {
+        "coordinates": [
+          -2.3078500459741633,
+          53.488082875463334
+        ],
+        "type": "Point"
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centenary",
+        "price": 0.56
+      },
+      "geometry": {
+        "coordinates": [
+          -2.326832634871579,
+          53.481667601732454
+        ],
+        "type": "Point"
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bolton road",
+        "price": 0.8
+      },
+      "geometry": {
+        "coordinates": [
+          -2.3120916205448623,
+          53.507249803725415
+        ],
+        "type": "Point"
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Temple drive",
+        "price": 0.64
+      },
+      "geometry": {
+        "coordinates": [
+          -2.324713796174734,
+          53.51006325736941
+        ],
+        "type": "Point"
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Broad Road",
+        "price": 0.73
+      },
+      "geometry": {
+        "coordinates": [
+          -2.301305851754961,
+          53.49683136072329
+        ],
+        "type": "Point"
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wardley",
+        "price": 0.68
+      },
+      "geometry": {
+        "coordinates": [
+          -2.353792096175056,
+          53.518678778241565
+        ],
+        "type": "Point"
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clarendon ",
+        "price": 0.62
+      },
+      "geometry": {
+        "coordinates": [
+          -2.335578657228524,
+          53.51220804080367
+        ],
+        "type": "Point"
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gladstone street",
+        "price": 0.55
+      },
+      "geometry": {
+        "coordinates": [
+          -2.325130177312758,
+          53.51382708450362
+        ],
+        "type": "Point"
+      },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oxford Road",
+        "price": 0.85
+      },
+      "geometry": {
+        "coordinates": [
+          -2.3249630701990327,
+          53.495800156991606
+        ],
+        "type": "Point"
+      },
+      "id": 17
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oakvile Drive",
+        "price": 0.68
+      },
+      "geometry": {
+        "coordinates": [
+          -2.325259349801655,
+          53.49243000616545
+        ],
+        "type": "Point"
+      },
+      "id": 18
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Victoria Crescent",
+        "price": 0.7
+      },
+      "geometry": {
+        "coordinates": [
+          -2.334805287408244,
+          53.489744199805955
+        ],
+        "type": "Point"
+      },
+      "id": 19
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nash Road",
+        "price": 0.55
+      },
+      "geometry": {
+        "coordinates": [
+          -2.339881954456672,
+          53.47500675024804
+        ],
+        "type": "Point"
+      },
+      "id": 20
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parrin Lnae",
+        "price": 0.8
+      },
+      "geometry": {
+        "coordinates": [
+          -2.359173004319331,
+          53.49199120180464
+        ],
+        "type": "Point"
+      },
+      "id": 21
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cadwick road",
+        "price": 0.73
+      },
+      "geometry": {
+        "coordinates": [
+          -2.344336861973858,
+          53.48470758302335
+        ],
+        "type": "Point"
+      },
+      "id": 22
+    }
+  ]
+}
