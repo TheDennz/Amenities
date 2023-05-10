@@ -1,1 +1,1 @@
-#Amenities & facilities data in GeoJSON.
+#Spatial data in GeoJSON format.
